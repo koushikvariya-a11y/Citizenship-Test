@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Space Grotesk", "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+body {
+  background-color: #fcfaf2; /* Minimalist Bauhaus Sand-Cream */
+  color: #111111;            /* Bauhaus Ultra Ink Black */
+  font-family: "Space Grotesk", "Inter", ui-sans-serif, system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Hard offset shadow utilities for Bauhaus posters */
+.bauhaus-shadow {
+  box-shadow: 4px 4px 0px 0px rgba(0, 0, 0, 1);
+}
+
+.bauhaus-shadow-sm {
+  box-shadow: 2px 2px 0px 0px rgba(0, 0, 0, 1);
+}
+
+.bauhaus-shadow-lg {
+  box-shadow: 6px 6px 0px 0px rgba(0, 0, 0, 1);
+}
+
+.bauhaus-shadow-blue {
+  box-shadow: 4px 4px 0px 0px #1d4ed8;
+}
+
+.bauhaus-shadow-red {
+  box-shadow: 4px 4px 0px 0px #dc2626;
+}
+
+/* Custom scrollbars for the cream environment */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f4f1e6;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #111111;
+  border-radius: 0px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #dc2626;
+}

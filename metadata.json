@@ -1,0 +1,6 @@
+{
+  "name": "German Citizenship Test Trainer",
+  "description": "A bilingual preparation platform for the German general integration/citizenship test (Leben in Deutschland) featuring split German/English questions, interactive checks, custom study logs, and an AI-powered smart dictionary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

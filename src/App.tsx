@@ -39,6 +39,7 @@ export default function App() {
   const [user, setUser] = useState<User | null>(null);
   const [authLoading, setAuthLoading] = useState<boolean>(true);
   const [syncing, setSyncing] = useState<boolean>(false);
+  const [loginError, setLoginError] = useState<string | null>(null);
 
   // Critical Connection Test on boot
   useEffect(() => {
@@ -157,10 +158,21 @@ export default function App() {
   }, [selectedState, practiceIndex, user]);
 
   const handleLogin = async () => {
+    setLoginError(null);
     try {
       await signInWithGoogle();
-    } catch (error) {
+    } catch (error: any) {
       console.error("Sign In failed:", error);
+      const errorCode = error?.code || '';
+      const errorMessage = error?.message || String(error);
+      
+      if (errorCode === 'auth/unauthorized-domain' || errorMessage.includes('unauthorized-domain') || errorMessage.includes('auth/unauthorized-domain')) {
+        setLoginError(`unauthorized-domain|${window.location.hostname}`);
+      } else if (errorCode === 'auth/popup-blocked') {
+        setLoginError("popup-blocked");
+      } else {
+        setLoginError(errorMessage);
+      }
     }
   };
 
@@ -325,6 +337,71 @@ export default function App() {
   return (
     <div className="min-h-screen bg-[#fcfaf2] text-black font-sans antialiased selection:bg-[#fbbf24] selection:text-black pb-12">
       
+      {/* Firebase Auth Error Modal / Warning */}
+      {loginError && (
+        <div className="fixed inset-0 bg-black/60 z-50 flex items-center justify-center p-4 backdrop-blur-xs animate-fadeIn">
+          <div className="bg-white border-3 border-black p-6 rounded-xl max-w-md w-full shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] space-y-4 relative font-semibold">
+            <button 
+              onClick={() => setLoginError(null)} 
+              className="absolute top-4 right-4 p-1 border-2 border-black hover:bg-slate-50 rounded cursor-pointer"
+            >
+              <X className="w-4 h-4 stroke-[2.5]" />
+            </button>
+            
+            <div className="flex items-center space-x-2 text-[#ef4444] border-b-2 border-black pb-2">
+              <AlertTriangle className="w-6 h-6 stroke-[2.5]" />
+              <h3 className="font-black text-sm uppercase tracking-tight">Login Error Info</h3>
+            </div>
+            
+            {loginError.startsWith("unauthorized-domain") ? (
+              <div className="space-y-3 text-xs leading-relaxed text-slate-800">
+                <p>
+                  Identity/Google Login requires the hosting domain to be added to your Firebase project's <strong>Authorized Domains</strong>.
+                </p>
+                <div className="p-3 bg-rose-50 border-2 border-dashed border-[#ef4444] rounded font-mono break-all text-[11px] text-black">
+                  Domain: {loginError.split("|")[1]}
+                </div>
+                <div className="space-y-2 pt-1">
+                  <p className="font-extrabold text-black uppercase text-[10px] tracking-wider text-[#1d4ed8]">How to fix in 30 seconds:</p>
+                  <ol className="list-decimal pl-4.5 space-y-1">
+                    <li>Open <strong>Firebase Console</strong> and open your project <strong>gen-lang-client-0293337794</strong>.</li>
+                    <li>Navigate to <strong>Authentication</strong> &rarr; <strong>Settings</strong> &rarr; <strong>Authorized domains</strong>.</li>
+                    <li>Click <strong>Add domain</strong> and add: <strong className="bg-[#fbbf24] px-1 text-black">{loginError.split("|")[1]}</strong></li>
+                  </ol>
+                </div>
+              </div>
+            ) : loginError === "popup-blocked" ? (
+              <div className="space-y-2 text-xs text-slate-800 leading-relaxed">
+                <p>
+                  The sign-in popup was blocked by your browser.
+                </p>
+                <p>
+                  Please click the button again and allow popups for this site, or check your browser settings.
+                </p>
+              </div>
+            ) : (
+              <div className="space-y-2 text-xs text-slate-800 leading-relaxed">
+                <p>
+                  An error occurred during authentication:
+                </p>
+                <pre className="p-3 bg-slate-50 border-2 border-black font-mono break-all text-[10px] text-slate-700 whitespace-pre-wrap">
+                  {loginError}
+                </pre>
+              </div>
+            )}
+            
+            <div className="pt-2 flex justify-end">
+              <button 
+                onClick={() => setLoginError(null)}
+                className="px-4 py-2 bg-black hover:bg-slate-800 text-white text-xs font-black uppercase rounded shadow-[2px_2px_0px_0px_rgba(251,191,36,1)] active:translate-y-0.5 cursor-pointer"
+              >
+                Got it
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+
       {/* Premium Bauhaus Header */}
       <header className="sticky top-0 z-40 bg-white border-b-3 border-black shadow-none">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -433,11 +510,10 @@ export default function App() {
               ) : (
                 <button
                   onClick={handleLogin}
-                  className="flex items-center space-x-1 text-[10px] font-black uppercase tracking-wider px-2.5 py-1.5 h-8 bg-[#22c55e] hover:bg-[#16a34a] text-black border-2 border-black shadow-[1.5px_1.5px_0px_0px_rgba(0,0,0,1)] rounded cursor-pointer active:translate-y-[1px]"
+                  className="text-xs font-black uppercase tracking-wider hover:text-[#1d4ed8] focus:outline-none transition-colors cursor-pointer"
                   title="Enable Cloud Backup"
                 >
-                  <Sparkles className="w-3 h-3 text-black stroke-[3px]" />
-                  <span className="hidden xs:inline">Sync</span>
+                  LOGIN
                 </button>
               )}
             </div>
@@ -518,7 +594,7 @@ export default function App() {
                   </button>
                 </div>
               ) : (
-                <div className="bg-white border-2 border-black p-3 rounded-lg space-y-2 shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]">
+                <div className="bg-white border-2 border-black p-3 rounded-lg space-y-2 shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] text-center">
                   <p className="text-[9px] uppercase font-black text-slate-500">Enable Cloud Storage</p>
                   <p className="text-[9px] font-semibold text-slate-800 leading-tight">Sync your progress and streaks across any machine.</p>
                   <button
@@ -526,9 +602,9 @@ export default function App() {
                       handleLogin();
                       setIsMobileMenuOpen(false);
                     }}
-                    className="w-full py-1.5 bg-[#22c55e] border-2 border-black text-black rounded font-black text-[10px] uppercase shadow-[1.5px_1.5px_0px_0px_rgba(0,0,0,1)] active:translate-y-0.5 cursor-pointer text-center"
+                    className="w-full text-xs font-black uppercase tracking-wider hover:text-[#1d4ed8] focus:outline-none transition-colors cursor-pointer text-center py-1.5 mt-2 block"
                   >
-                    🚀 Sign In with Google
+                    LOGIN
                   </button>
                 </div>
               )}

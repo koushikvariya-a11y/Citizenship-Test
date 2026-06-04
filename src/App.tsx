@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { QUESTIONS } from './data/questions';
 import { generateStateQuestions, BUNDESLAENDER } from './data/stateQuestions';
 import { Question, QuizAttempt } from './types';
@@ -55,6 +55,23 @@ export default function App() {
     testConnection();
   }, []);
 
+  // Synchronise state values to refs to prevent stale closure issues in the onAuthStateChanged subscription callback
+  const selectedStateRef = useRef(selectedState);
+  const practiceIndexRef = useRef(practiceIndex);
+  const attemptsRef = useRef(attempts);
+
+  useEffect(() => {
+    selectedStateRef.current = selectedState;
+  }, [selectedState]);
+
+  useEffect(() => {
+    practiceIndexRef.current = practiceIndex;
+  }, [practiceIndex]);
+
+  useEffect(() => {
+    attemptsRef.current = attempts;
+  }, [attempts]);
+
   // Listen to Auth State and Retrieve Cloud-synced Profile and Attempts
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, async (currentUser) => {
@@ -66,12 +83,17 @@ export default function App() {
         try {
           const userId = currentUser.uid;
           
+          // Use absolute latest local reference states to avoid stale closures
+          const currentLocalState = selectedStateRef.current;
+          const currentLocalPracticeIdx = practiceIndexRef.current;
+          const currentLocalAttempts = attemptsRef.current;
+
           // 1. Fetch Profile
           const profileRef = doc(db, 'users', userId);
           const profileSnap = await getDoc(profileRef);
           
-          let cloudState = selectedState;
-          let cloudPracticeIdx = practiceIndex;
+          let cloudState = currentLocalState;
+          let cloudPracticeIdx = currentLocalPracticeIdx;
           
           if (profileSnap.exists()) {
             const profileData = profileSnap.data();
@@ -83,8 +105,8 @@ export default function App() {
             // New user, push current local preferences as profile baseline
             await setDoc(profileRef, {
               userId,
-              selectedState,
-              practiceIndex,
+              selectedState: currentLocalState,
+              practiceIndex: currentLocalPracticeIdx,
               updatedAt: new Date().toISOString()
             });
           }
@@ -104,6 +126,28 @@ export default function App() {
               isCorrect: data.isCorrect
             });
           });
+          
+          // Bidirectional sync: find all local attempts that do not exist on the cloud yet or are newer, and upload them
+          const attemptsToCloud: QuizAttempt[] = [];
+          currentLocalAttempts.forEach(localItem => {
+            const cloudItem = cloudAttempts.find(c => c.questionId === localItem.questionId);
+            if (!cloudItem || new Date(localItem.timestamp) > new Date(cloudItem.timestamp)) {
+              attemptsToCloud.push(localItem);
+            }
+          });
+
+          if (attemptsToCloud.length > 0) {
+            console.log(`Synchronising ${attemptsToCloud.length} newer offline attempts to Google Cloud...`);
+            for (const item of attemptsToCloud) {
+              const attemptRef = doc(db, 'users', userId, 'attempts', `q${item.questionId}`);
+              await setDoc(attemptRef, {
+                questionId: item.questionId,
+                selectedIdx: item.selectedIdx,
+                isCorrect: item.isCorrect,
+                timestamp: item.timestamp
+              });
+            }
+          }
           
           // Merge local and cloud attempts by taking the most recent completion
           setAttempts(prev => {

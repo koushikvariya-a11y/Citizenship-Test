@@ -1,0 +1,522 @@
+[
+  {
+    "id": 281,
+    "taskNumber": 281,
+    "category": "Mensch und Gesellschaft",
+    "questionDe": "Was ist die Hauptaufgabe der Agentur für Arbeit in Deutschland?",
+    "questionEn": "What is the main task of the Federal Employment Agency in Germany?",
+    "options": [
+      {
+        "textDe": "Steuererklärungen bearbeiten",
+        "textEn": "Processing tax returns"
+      },
+      {
+        "textDe": "Arbeitsvermittlung",
+        "textEn": "Job placement"
+      },
+      {
+        "textDe": "Bauanträge genehmigen",
+        "textEn": "Approving building applications"
+      },
+      {
+        "textDe": "Straßenbau planen",
+        "textEn": "Planning road construction"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 282,
+    "taskNumber": 282,
+    "category": "Mensch und Gesellschaft",
+    "questionDe": "Welche Aussage ist richtig? In Deutschland ...",
+    "questionEn": "Which statement is correct? In Germany...",
+    "options": [
+      {
+        "textDe": "... sind die Menschen selbst für ihre Gesundheit verantwortlich und müssen alle Kosten selbst tragen.",
+        "textEn": "... people are responsible for their own health and must bear all costs themselves."
+      },
+      {
+        "textDe": "... gibt es eine Krankenversicherungspflicht. Die Kosten werden von den Krankenkassen übernommen.",
+        "textEn": "... there is a mandatory health insurance. The costs are covered by health insurance funds."
+      },
+      {
+        "textDe": "... gibt es keine Krankenversicherungspflicht. Jeder kann selbst entscheiden, ob und wie er sich versichert.",
+        "textEn": "... there is no mandatory health insurance. Everyone can decide for themselves whether and how to insure themselves."
+      },
+      {
+        "textDe": "... müssen sich nur Arbeitnehmer krankenversichern lassen. Arbeitslose und Studenten sind von der Krankenversicherungspflicht befreit.",
+        "textEn": "... only employees must have health insurance. Unemployed people and students are exempt from mandatory health insurance."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 283,
+    "taskNumber": 283,
+    "category": "Mensch und Gesellschaft",
+    "questionDe": "Was ist die Aufgabe der Verbraucherzentralen in Deutschland?",
+    "questionEn": "What is the task of consumer advice centers in Germany?",
+    "options": [
+      {
+        "textDe": "Sie beraten Verbraucher bei Fragen des Konsums und des privaten Haushalts.",
+        "textEn": "They advise consumers on questions of consumption and private households."
+      },
+      {
+        "textDe": "Sie organisieren den Export deutscher Produkte im Ausland.",
+        "textEn": "They organize the export of German products abroad."
+      },
+      {
+        "textDe": "Sie entwickeln neue Produkte für die Industrie.",
+        "textEn": "They develop new products for industry."
+      },
+      {
+        "textDe": "Sie prüfen die Qualität der Produkte und Dienstleistungen.",
+        "textEn": "They check the quality of products and services."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 284,
+    "taskNumber": 284,
+    "category": "Mensch und Gesellschaft",
+    "questionDe": "Die Wirtschaftsform in Deutschland ist die soziale Marktwirtschaft. Was bedeutet das?",
+    "questionEn": "The economic system in Germany is the social market economy. What does that mean?",
+    "options": [
+      {
+        "textDe": "Der Staat plant und lenkt die gesamte Wirtschaft.",
+        "textEn": "The state plans and directs the entire economy."
+      },
+      {
+        "textDe": "Der Staat lenkt die Wirtschaft, aber es gibt auch private Unternehmen.",
+        "textEn": "The state directs the economy, but there are also private companies."
+      },
+      {
+        "textDe": "Die Wirtschaft wird vom Markt gesteuert, aber der Staat sorgt für einen sozialen Ausgleich.",
+        "textEn": "The economy is controlled by the market, but the state ensures social balance."
+      },
+      {
+        "textDe": "Die Wirtschaft wird vom Markt gesteuert und der Staat greift nicht ein.",
+        "textEn": "The economy is controlled by the market and the state does not intervene."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 285,
+    "taskNumber": 285,
+    "category": "Mensch und Gesellschaft",
+    "questionDe": "Welche Aussage ist richtig? Die soziale Marktwirtschaft ...",
+    "questionEn": "Which statement is correct? The social market economy...",
+    "options": [
+      {
+        "textDe": "... bedeutet, der Staat plant und lenkt alle wirtschaftlichen Abläufe.",
+        "textEn": "... means that the state plans and directs all economic processes."
+      },
+      {
+        "textDe": "... versucht, die Vorteile der freien Wirtschaft mit denen des sozialen Ausgleichs zu verbinden.",
+        "textEn": "... tries to combine the advantages of a free economy with those of social balance."
+      },
+      {
+        "textDe": "... lehnt Wettbewerb und Privateigentum ab.",
+        "textEn": "... rejects competition and private property."
+      },
+      {
+        "textDe": "... will eine gerechte Verteilung des Reichtums auf alle Bürger.",
+        "textEn": "... wants a fair distribution of wealth among all citizens."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 286,
+    "taskNumber": 286,
+    "category": "Mensch und Gesellschaft",
+    "questionDe": "Was gehört nicht zu den Aufgaben des Staates in Deutschland?",
+    "questionEn": "What is not one of the tasks of the state in Germany?",
+    "options": [
+      {
+        "textDe": "Schutz der Bürger und der Umwelt",
+        "textEn": "Protection of citizens and the environment"
+      },
+      {
+        "textDe": "Sicherung des Friedens und der Freiheit",
+        "textEn": "Ensuring peace and freedom"
+      },
+      {
+        "textDe": "Planung und Lenkung der gesamten Wirtschaft",
+        "textEn": "Planning and directing the entire economy"
+      },
+      {
+        "textDe": "Bereitstellung von Bildung und Infrastruktur",
+        "textEn": "Provision of education and infrastructure"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 287,
+    "taskNumber": 287,
+    "category": "Mensch und Gesellschaft",
+    "questionDe": "Was ist eine Aufgabe der Sozialversicherungen in Deutschland?",
+    "questionEn": "What is a task of social insurances in Germany?",
+    "options": [
+      {
+        "textDe": "Sie sichern die Bürger gegen Risiken wie Krankheit, Arbeitslosigkeit und Pflegebedürftigkeit ab.",
+        "textEn": "They protect citizens against risks such as illness, unemployment, and need for care."
+      },
+      {
+        "textDe": "Sie finanzieren den Bau von Autobahnen und Brücken.",
+        "textEn": "They finance the construction of highways and bridges."
+      },
+      {
+        "textDe": "Sie organisieren die Wahlen zum Bundestag.",
+        "textEn": "They organize the elections to the Bundestag."
+      },
+      {
+        "textDe": "Sie verwalten die deutschen Staatsfinanzen.",
+        "textEn": "They manage German state finances."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 288,
+    "taskNumber": 288,
+    "category": "Mensch und Gesellschaft",
+    "questionDe": "Womit finanziert der Staat in Deutschland die Sozialversicherungen?",
+    "questionEn": "How does the state in Germany finance social insurances?",
+    "options": [
+      {
+        "textDe": "Mit Spenden von Unternehmen",
+        "textEn": "With donations from companies"
+      },
+      {
+        "textDe": "Mit Beiträgen von Arbeitnehmern und Arbeitgebern",
+        "textEn": "With contributions from employees and employers"
+      },
+      {
+        "textDe": "Mit Einnahmen aus dem Verkauf von Staatsbesitz",
+        "textEn": "With revenues from the sale of state property"
+      },
+      {
+        "textDe": "Mit Lotterieeinnahmen",
+        "textEn": "With lottery revenues"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 289,
+    "taskNumber": 289,
+    "category": "Mensch und Gesellschaft",
+    "questionDe": "Welche der folgenden Aussagen zur sozialen Marktwirtschaft in Deutschland ist falsch?",
+    "questionEn": "Which of the following statements about the social market economy in Germany is false?",
+    "options": [
+      {
+        "textDe": "Der Staat greift in die Wirtschaft ein, um soziale Ungleichheiten zu mindern.",
+        "textEn": "The state intervenes in the economy to reduce social inequalities."
+      },
+      {
+        "textDe": "Der Staat sorgt für einen fairen Wettbewerb.",
+        "textEn": "The state ensures fair competition."
+      },
+      {
+        "textDe": "Der Staat plant und lenkt die gesamte Wirtschaft.",
+        "textEn": "The state plans and directs the entire economy."
+      },
+      {
+        "textDe": "Der Staat schützt die Verbraucher.",
+        "textEn": "The state protects consumers."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 290,
+    "taskNumber": 290,
+    "category": "Mensch und Gesellschaft",
+    "questionDe": "Was ist eine Aufgabe der Bundesagentur für Arbeit?",
+    "questionEn": "What is a task of the Federal Employment Agency?",
+    "options": [
+      {
+        "textDe": "Sie zahlt das Kindergeld aus.",
+        "textEn": "It pays out child benefits."
+      },
+      {
+        "textDe": "Sie vermittelt Arbeitsplätze.",
+        "textEn": "It mediates jobs."
+      },
+      {
+        "textDe": "Sie ist für die Rentenversicherung zuständig.",
+        "textEn": "It is responsible for pension insurance."
+      },
+      {
+        "textDe": "Sie ist für die Krankenversicherung zuständig.",
+        "textEn": "It is responsible for health insurance."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 291,
+    "taskNumber": 291,
+    "category": "Mensch und Gesellschaft",
+    "questionDe": "Was ist die Hauptaufgabe der Krankenkassen in Deutschland?",
+    "questionEn": "What is the main task of health insurance funds in Germany?",
+    "options": [
+      {
+        "textDe": "Sie finanzieren den Bau von Krankenhäusern.",
+        "textEn": "They finance the construction of hospitals."
+      },
+      {
+        "textDe": "Sie organisieren die Ausbildung von Ärzten.",
+        "textEn": "They organize the training of doctors."
+      },
+      {
+        "textDe": "Sie übernehmen die Kosten für medizinische Behandlungen.",
+        "textEn": "They cover the costs of medical treatments."
+      },
+      {
+        "textDe": "Sie beraten die Regierung in Gesundheitsfragen.",
+        "textEn": "They advise the government on health issues."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 292,
+    "taskNumber": 292,
+    "category": "Mensch und Gesellschaft",
+    "questionDe": "Welche der folgenden Aussagen zum deutschen Sozialstaat ist richtig?",
+    "questionEn": "Which of the following statements about the German welfare state is correct?",
+    "options": [
+      {
+        "textDe": "Der Sozialstaat sorgt dafür, dass alle Bürger gleich viel verdienen.",
+        "textEn": "The welfare state ensures that all citizens earn the same amount."
+      },
+      {
+        "textDe": "Der Sozialstaat schützt die Bürger vor Armut und sozialen Risiken.",
+        "textEn": "The welfare state protects citizens from poverty and social risks."
+      },
+      {
+        "textDe": "Der Sozialstaat ist nur für Arbeitslose zuständig.",
+        "textEn": "The welfare state is only responsible for the unemployed."
+      },
+      {
+        "textDe": "Der Sozialstaat finanziert sich ausschließlich aus Steuern.",
+        "textEn": "The welfare state is financed exclusively by taxes."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 293,
+    "taskNumber": 293,
+    "category": "Mensch und Gesellschaft",
+    "questionDe": "Was ist die Hauptaufgabe der Rentenversicherung in Deutschland?",
+    "questionEn": "What is the main task of pension insurance in Germany?",
+    "options": [
+      {
+        "textDe": "Sie zahlt Renten an alte und erwerbsgeminderte Menschen.",
+        "textEn": "It pays pensions to elderly and people with reduced earning capacity."
+      },
+      {
+        "textDe": "Sie finanziert den Bau von Altenheimen.",
+        "textEn": "It finances the construction of nursing homes."
+      },
+      {
+        "textDe": "Sie berät die Regierung in Fragen der Altersvorsorge.",
+        "textEn": "It advises the government on questions of old-age provision."
+      },
+      {
+        "textDe": "Sie organisiert die Ausbildung von Pflegekräften.",
+        "textEn": "It organizes the training of caregivers."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 294,
+    "taskNumber": 294,
+    "category": "Mensch und Gesellschaft",
+    "questionDe": "Welche der folgenden Leistungen gehört nicht zu den Sozialleistungen in Deutschland?",
+    "questionEn": "Which of the following benefits is not part of social benefits in Germany?",
+    "options": [
+      {
+        "textDe": "Arbeitslosengeld",
+        "textEn": "Unemployment benefit"
+      },
+      {
+        "textDe": "Krankengeld",
+        "textEn": "Sickness benefit"
+      },
+      {
+        "textDe": "Kindergeld",
+        "textEn": "Child benefit"
+      },
+      {
+        "textDe": "Wohngeld für den Kauf einer Immobilie",
+        "textEn": "Housing benefit for buying a property"
+      }
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 295,
+    "taskNumber": 295,
+    "category": "Mensch und Gesellschaft",
+    "questionDe": "Was ist die Hauptaufgabe der Pflegeversicherung in Deutschland?",
+    "questionEn": "What is the main task of long-term care insurance in Germany?",
+    "options": [
+      {
+        "textDe": "Sie finanziert die Ausbildung von Pflegekräften.",
+        "textEn": "It finances the training of caregivers."
+      },
+      {
+        "textDe": "Sie übernimmt Kosten für die Pflege im Alter oder bei Krankheit.",
+        "textEn": "It covers costs for care in old age or due to illness."
+      },
+      {
+        "textDe": "Sie berät die Regierung in Fragen der Pflege.",
+        "textEn": "It advises the government on questions of care."
+      },
+      {
+        "textDe": "Sie organisiert den Bau von Pflegeheimen.",
+        "textEn": "It organizes the construction of nursing homes."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 296,
+    "taskNumber": 296,
+    "category": "Mensch und Gesellschaft",
+    "questionDe": "Welche der folgenden Aussagen zum deutschen Bildungssystem ist richtig?",
+    "questionEn": "Which of the following statements about the German education system is correct?",
+    "options": [
+      {
+        "textDe": "Alle Schulen in Deutschland sind Privatschulen.",
+        "textEn": "All schools in Germany are private schools."
+      },
+      {
+        "textDe": "Die Schulpflicht gilt nur für Kinder von deutschen Staatsbürgern.",
+        "textEn": "Compulsory schooling only applies to children of German citizens."
+      },
+      {
+        "textDe": "Die Bildung ist in Deutschland Ländersache.",
+        "textEn": "Education in Germany is a matter for the federal states."
+      },
+      {
+        "textDe": "Alle Kinder besuchen nach der Grundschule ein Gymnasium.",
+        "textEn": "All children attend a Gymnasium after primary school."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 297,
+    "taskNumber": 297,
+    "category": "Mensch und Gesellschaft",
+    "questionDe": "Was ist die Hauptaufgabe der Jugendämter in Deutschland?",
+    "questionEn": "What is the main task of youth welfare offices in Germany?",
+    "options": [
+      {
+        "textDe": "Sie organisieren Freizeitaktivitäten für Jugendliche.",
+        "textEn": "They organize leisure activities for young people."
+      },
+      {
+        "textDe": "Sie beraten und unterstützen Familien und Kinder.",
+        "textEn": "They advise and support families and children."
+      },
+      {
+        "textDe": "Sie sind für die Ausbildung von Lehrern zuständig.",
+        "textEn": "They are responsible for the training of teachers."
+      },
+      {
+        "textDe": "Sie verwalten die Kindergärten.",
+        "textEn": "They manage kindergartens."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 298,
+    "taskNumber": 298,
+    "category": "Mensch und Gesellschaft",
+    "questionDe": "Welche der folgenden Aussagen zum deutschen Gesundheitssystem ist richtig?",
+    "questionEn": "Which of the following statements about the German healthcare system is correct?",
+    "options": [
+      {
+        "textDe": "Jeder Bürger muss sich privat krankenversichern.",
+        "textEn": "Every citizen must take out private health insurance."
+      },
+      {
+        "textDe": "Es gibt eine allgemeine Krankenversicherungspflicht.",
+        "textEn": "There is a general mandatory health insurance."
+      },
+      {
+        "textDe": "Nur Arbeitnehmer sind krankenversichert.",
+        "textEn": "Only employees are health insured."
+      },
+      {
+        "textDe": "Die Kosten für medizinische Behandlungen müssen immer selbst getragen werden.",
+        "textEn": "The costs for medical treatments must always be borne by oneself."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 299,
+    "taskNumber": 299,
+    "category": "Mensch und Gesellschaft",
+    "questionDe": "Was ist die Hauptaufgabe der Arbeitslosenversicherung in Deutschland?",
+    "questionEn": "What is the main task of unemployment insurance in Germany?",
+    "options": [
+      {
+        "textDe": "Sie zahlt Arbeitslosengeld an Arbeitslose.",
+        "textEn": "It pays unemployment benefits to the unemployed."
+      },
+      {
+        "textDe": "Sie finanziert Umschulungen für Arbeitslose.",
+        "textEn": "It finances retraining for the unemployed."
+      },
+      {
+        "textDe": "Sie berät die Regierung in Fragen der Arbeitsmarktpolitik.",
+        "textEn": "It advises the government on questions of labor market policy."
+      },
+      {
+        "textDe": "Sie organisiert die Arbeitsvermittlung.",
+        "textEn": "It organizes job placement."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 300,
+    "taskNumber": 300,
+    "category": "Mensch und Gesellschaft",
+    "questionDe": "Welche staatliche Stelle ist in Deutschland für die Arbeitsvermittlung und die Auszahlung des Arbeitslosengeldes I zuständig?",
+    "questionEn": "Which government agency in Germany is responsible for job placement and the payment of unemployment benefit I?",
+    "options": [
+      {
+        "textDe": "Das Finanzamt",
+        "textEn": "The tax office"
+      },
+      {
+        "textDe": "Die Bundesagentur für Arbeit",
+        "textEn": "The Federal Employment Agency"
+      },
+      {
+        "textDe": "Das Sozialamt",
+        "textEn": "The social welfare office"
+      },
+      {
+        "textDe": "Die Krankenkasse",
+        "textEn": "The health insurance fund"
+      }
+    ],
+    "correctIndex": 1
+  }
+]

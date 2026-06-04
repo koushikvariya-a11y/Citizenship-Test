@@ -1,0 +1,522 @@
+[
+  {
+    "id": 61,
+    "taskNumber": 61,
+    "category": "Staatssymbole",
+    "questionDe": "Mit welchen Worten beginnt die deutsche Nationalhymne?",
+    "questionEn": "With which words does the German national anthem begin?",
+    "options": [
+      {
+        "textDe": "Deutschland, Deutschland über alles...",
+        "textEn": "Deutschland, Deutschland über alles..."
+      },
+      {
+        "textDe": "Freude, schöner Götterfunken...",
+        "textEn": "Freude, schöner Götterfunken..."
+      },
+      {
+        "textDe": "Einigkeit und Recht und Freiheit...",
+        "textEn": "Einigkeit und Recht und Freiheit..."
+      },
+      {
+        "textDe": "Auferstanden aus Ruinen...",
+        "textEn": "Auferstanden aus Ruinen..."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 62,
+    "taskNumber": 62,
+    "category": "Politik in der Demokratie",
+    "questionDe": "Warum gibt es in einer Demokratie mehr als eine Partei?",
+    "questionEn": "Why are there more than one party in a democracy?",
+    "options": [
+      {
+        "textDe": "weil dadurch die Wahlen schneller ablaufen",
+        "textEn": "because it makes elections run faster"
+      },
+      {
+        "textDe": "um die Bürger und Bürgerinnen abzulenken",
+        "textEn": "to distract the citizens"
+      },
+      {
+        "textDe": "weil dadurch verschiedene Meinungen und Interessen vertreten werden",
+        "textEn": "because it allows different opinions and interests to be represented"
+      },
+      {
+        "textDe": "um den Staat teurer zu machen",
+        "textEn": "to make the state more expensive"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 63,
+    "taskNumber": 63,
+    "category": "Politik in der Demokratie",
+    "questionDe": "Wer beschließt in Deutschland ein neues Gesetz?",
+    "questionEn": "Who passes a new law in Germany?",
+    "options": [
+      {
+        "textDe": "die Regierung",
+        "textEn": "the government"
+      },
+      {
+        "textDe": "das Parlament",
+        "textEn": "the parliament"
+      },
+      {
+        "textDe": "die Gerichte",
+        "textEn": "the courts"
+      },
+      {
+        "textDe": "die Polizei",
+        "textEn": "the police"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 64,
+    "taskNumber": 64,
+    "category": "Verfassungsorgane",
+    "questionDe": "Wer bildet den Deutschen Bundesrat?",
+    "questionEn": "Who forms the German Federal Council (Bundesrat)?",
+    "options": [
+      {
+        "textDe": "die Regierungsmitglieder der Bundesländer",
+        "textEn": "the members of the state governments"
+      },
+      {
+        "textDe": "die vom Volk gewählten Abgeordneten",
+        "textEn": "the members of parliament elected by the people"
+      },
+      {
+        "textDe": "die Richter und Richterinnen des Bundesverfassungsgerichts",
+        "textEn": "the judges of the Federal Constitutional Court"
+      },
+      {
+        "textDe": "die Ministerpräsidenten und Ministerpräsidentinnen der Bundesländer",
+        "textEn": "the minister-presidents of the federal states"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 65,
+    "taskNumber": 65,
+    "category": "Verfassungsorgane",
+    "questionDe": "Wer wählt den deutschen Bundeskanzler / die deutsche Bundeskanzlerin?",
+    "questionEn": "Who elects the German Federal Chancellor?",
+    "options": [
+      {
+        "textDe": "das Volk",
+        "textEn": "the people"
+      },
+      {
+        "textDe": "die Bundesversammlung",
+        "textEn": "the Federal Convention"
+      },
+      {
+        "textDe": "der Bundestag",
+        "textEn": "the Bundestag"
+      },
+      {
+        "textDe": "die Bundesländer",
+        "textEn": "the federal states"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 66,
+    "taskNumber": 66,
+    "category": "Staatssymbole",
+    "questionDe": "Das deutsche Bundeswappen zeigt einen ...",
+    "questionEn": "The German federal coat of arms shows an...",
+    "options": [
+      {
+        "textDe": "Adler.",
+        "textEn": "eagle."
+      },
+      {
+        "textDe": "Bären.",
+        "textEn": "bear."
+      },
+      {
+        "textDe": "Löwen.",
+        "textEn": "lion."
+      },
+      {
+        "textDe": "Hahn.",
+        "textEn": "rooster."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 67,
+    "taskNumber": 67,
+    "category": "Politik in der Demokratie",
+    "questionDe": "Was ist kein Merkmal unserer Demokratie?",
+    "questionEn": "What is not a characteristic of our democracy?",
+    "options": [
+      {
+        "textDe": "regelmäßige Wahlen",
+        "textEn": "regular elections"
+      },
+      {
+        "textDe": "Pressezensur",
+        "textEn": "press censorship"
+      },
+      {
+        "textDe": "Meinungsfreiheit",
+        "textEn": "freedom of speech"
+      },
+      {
+        "textDe": "Pluralismus",
+        "textEn": "pluralism"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 68,
+    "taskNumber": 68,
+    "category": "Politik in der Demokratie",
+    "questionDe": "Die Zusammenarbeit von Parteien zur Bildung einer Regierung nennt man in Deutschland ...",
+    "questionEn": "The cooperation of parties to form a government is called in Germany...",
+    "options": [
+      {
+        "textDe": "Einheit.",
+        "textEn": "unity."
+      },
+      {
+        "textDe": "Koalition.",
+        "textEn": "coalition."
+      },
+      {
+        "textDe": "Ministerium.",
+        "textEn": "ministry."
+      },
+      {
+        "textDe": "Fraktion.",
+        "textEn": "parliamentary group."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 69,
+    "taskNumber": 69,
+    "category": "Politik in der Demokratie",
+    "questionDe": "Was ist keine staatliche Gewalt in Deutschland?",
+    "questionEn": "What is not a state power in Germany?",
+    "options": [
+      {
+        "textDe": "Gesetzgebung",
+        "textEn": "legislation"
+      },
+      {
+        "textDe": "Rechtsprechung",
+        "textEn": "jurisdiction"
+      },
+      {
+        "textDe": "vollziehende Gewalt",
+        "textEn": "executive power"
+      },
+      {
+        "textDe": "die Presse",
+        "textEn": "the press"
+      }
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 70,
+    "taskNumber": 70,
+    "category": "Verfassungsorgane",
+    "questionDe": "Welche Hauptaufgabe hat der deutsche Bundespräsident / die deutsche Bundespräsidentin? Er / Sie ...",
+    "questionEn": "What is the main task of the German Federal President? He / She...",
+    "options": [
+      {
+        "textDe": "regiert das Land.",
+        "textEn": "governs the country."
+      },
+      {
+        "textDe": "entwirft die Gesetze.",
+        "textEn": "drafts the laws."
+      },
+      {
+        "textDe": "repräsentiert das Land.",
+        "textEn": "represents the country."
+      },
+      {
+        "textDe": "überwacht die Einhaltung der Gesetze.",
+        "textEn": "monitors compliance with the laws."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 71,
+    "taskNumber": 71,
+    "category": "Parteien",
+    "questionDe": "Was bedeutet die Abkürzung CDU in Deutschland?",
+    "questionEn": "What does the abbreviation CDU mean in Germany?",
+    "options": [
+      {
+        "textDe": "Christlich Deutsche Union",
+        "textEn": "Christian German Union"
+      },
+      {
+        "textDe": "Club Deutscher Unternehmer",
+        "textEn": "Club of German Entrepreneurs"
+      },
+      {
+        "textDe": "Christlich Demokratische Union",
+        "textEn": "Christian Democratic Union"
+      },
+      {
+        "textDe": "Charta Demokratischer Unternehmer",
+        "textEn": "Charter of Democratic Entrepreneurs"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 72,
+    "taskNumber": 72,
+    "category": "Parteien",
+    "questionDe": "Was bedeutet die Abkürzung SPD in Deutschland?",
+    "questionEn": "What does the abbreviation SPD mean in Germany?",
+    "options": [
+      {
+        "textDe": "Sozialpolitische Deutschlandpartei",
+        "textEn": "Social-Political Germany Party"
+      },
+      {
+        "textDe": "Sozialdemokratische Partei Deutschlands",
+        "textEn": "Social Democratic Party of Germany"
+      },
+      {
+        "textDe": "Sozialistische Partei Deutschlands",
+        "textEn": "Socialist Party of Germany"
+      },
+      {
+        "textDe": "Sozialprivate Deutschlandpartei",
+        "textEn": "Social-Private Germany Party"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 73,
+    "taskNumber": 73,
+    "category": "Parteien",
+    "questionDe": "Was bedeutet die Abkürzung FDP in Deutschland?",
+    "questionEn": "What does the abbreviation FDP mean in Germany?",
+    "options": [
+      {
+        "textDe": "Friedliche Demokratische Partei",
+        "textEn": "Peaceful Democratic Party"
+      },
+      {
+        "textDe": "Freie Demokratische Partei",
+        "textEn": "Free Democratic Party"
+      },
+      {
+        "textDe": "Freie Deutschland Partei",
+        "textEn": "Free Germany Party"
+      },
+      {
+        "textDe": "Finanzpolitische Demokratische Partei",
+        "textEn": "Financial-Political Democratic Party"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 74,
+    "taskNumber": 74,
+    "category": "Verfassungsorgane",
+    "questionDe": "Welches Gericht in Deutschland ist für die Auslegung des Grundgesetzes zuständig?",
+    "questionEn": "Which court in Germany is responsible for interpreting the Basic Law?",
+    "options": [
+      {
+        "textDe": "Oberstes Landesgericht",
+        "textEn": "Supreme State Court"
+      },
+      {
+        "textDe": "Bundesverfassungsgericht",
+        "textEn": "Federal Constitutional Court"
+      },
+      {
+        "textDe": "Bundesverwaltungsgericht",
+        "textEn": "Federal Administrative Court"
+      },
+      {
+        "textDe": "Landgericht",
+        "textEn": "District Court"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 75,
+    "taskNumber": 75,
+    "category": "Verfassungsorgane",
+    "questionDe": "Wer wählt den Bundespräsidenten / die Bundespräsidentin in Deutschland?",
+    "questionEn": "Who elects the Federal President in Germany?",
+    "options": [
+      {
+        "textDe": "die Bundesversammlung",
+        "textEn": "the Federal Convention"
+      },
+      {
+        "textDe": "der Bundesrat",
+        "textEn": "the Federal Council"
+      },
+      {
+        "textDe": "der Bundestag",
+        "textEn": "the Bundestag"
+      },
+      {
+        "textDe": "das Volk",
+        "textEn": "the people"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 76,
+    "taskNumber": 76,
+    "category": "Verfassungsorgane",
+    "questionDe": "Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?",
+    "questionEn": "Who is the head of state of the Federal Republic of Germany?",
+    "options": [
+      {
+        "textDe": "der Bundeskanzler / die deutsche Bundeskanzlerin",
+        "textEn": "the Federal Chancellor"
+      },
+      {
+        "textDe": "der Bundespräsident / die deutsche Bundespräsidentin",
+        "textEn": "the Federal President"
+      },
+      {
+        "textDe": "der Bundesratspräsident / die Bundesratspräsidentin",
+        "textEn": "the President of the Federal Council"
+      },
+      {
+        "textDe": "der Bundestagspräsident / die Bundestagspräsidentin",
+        "textEn": "the President of the Bundestag"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 77,
+    "taskNumber": 77,
+    "category": "Staatlichkeit",
+    "questionDe": "Was bedeutet Souveränität? Der Staat ist ...",
+    "questionEn": "What does sovereignty mean? The state is...",
+    "options": [
+      {
+        "textDe": "frei und unabhängig von anderen Staaten.",
+        "textEn": "free and independent of other states."
+      },
+      {
+        "textDe": "Mitglied der EU.",
+        "textEn": "a member of the EU."
+      },
+      {
+        "textDe": "ein Bundesstaat.",
+        "textEn": "a federal state."
+      },
+      {
+        "textDe": "ein Rechtsstaat.",
+        "textEn": "a constitutional state."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 78,
+    "taskNumber": 78,
+    "category": "Politik in der Demokratie",
+    "questionDe": "Was bedeutet „Gewaltenteilung“ in Deutschland?",
+    "questionEn": "What does 'separation of powers' mean in Germany?",
+    "options": [
+      {
+        "textDe": "Die Macht im Staat ist auf verschiedene staatliche Organe verteilt, um die Freiheit der Bürger zu sichern.",
+        "textEn": "The power in the state is distributed among different state organs to secure the freedom of citizens."
+      },
+      {
+        "textDe": "Die Polizei und das Militär teilen sich die Macht.",
+        "textEn": "The police and the military share power."
+      },
+      {
+        "textDe": "Es gibt verschiedene Gerichte, die für unterschiedliche Verbrechen zuständig sind.",
+        "textEn": "There are different courts responsible for different crimes."
+      },
+      {
+        "textDe": "Die Bundesregierung teilt ihre Macht mit den Regierungen anderer Länder.",
+        "textEn": "The federal government shares its power with the governments of other countries."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 79,
+    "taskNumber": 79,
+    "category": "Verfassungsorgane",
+    "questionDe": "Wie nennt man den Regierungschef / die Regierungschefin in einem Bundesland?",
+    "questionEn": "What is the head of government in a federal state (Bundesland) called?",
+    "options": [
+      {
+        "textDe": "Ministerpräsident / Ministerpräsidentin",
+        "textEn": "Minister-President"
+      },
+      {
+        "textDe": "Bundeskanzler / Bundeskanzlerin",
+        "textEn": "Federal Chancellor"
+      },
+      {
+        "textDe": "Bürgermeister / Bürgermeisterin",
+        "textEn": "Mayor"
+      },
+      {
+        "textDe": "Landrat / Landrätin",
+        "textEn": "District Administrator"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 80,
+    "taskNumber": 80,
+    "category": "Verfassungsorgane",
+    "questionDe": "Wie nennt man den Regierungschef / die Regierungschefin der Bundesrepublik Deutschland?",
+    "questionEn": "What is the head of government of the Federal Republic of Germany called?",
+    "options": [
+      {
+        "textDe": "Bundespräsident / Bundespräsidentin",
+        "textEn": "Federal President"
+      },
+      {
+        "textDe": "Bundeskanzler / Bundeskanzlerin",
+        "textEn": "Federal Chancellor"
+      },
+      {
+        "textDe": "Bundesratspräsident / Bundesratspräsidentin",
+        "textEn": "President of the Federal Council"
+      },
+      {
+        "textDe": "Bundestagspräsident / Bundestagspräsidentin",
+        "textEn": "President of the Bundestag"
+      }
+    ],
+    "correctIndex": 1
+  }
+]

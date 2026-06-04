@@ -1,0 +1,522 @@
+[
+  {
+    "id": 141,
+    "taskNumber": 141,
+    "category": "Politik in Deutschland",
+    "questionDe": "In Deutschland ist ein Richter / eine Richterin am Gericht ...",
+    "questionEn": "In Germany, a judge at court is...",
+    "options": [
+      {
+        "textDe": "weisungsgebunden.",
+        "textEn": "bound by instructions."
+      },
+      {
+        "textDe": "nur dem Gesetz unterworfen.",
+        "textEn": "subject only to the law."
+      },
+      {
+        "textDe": "Mitglied einer Partei.",
+        "textEn": "a member of a party."
+      },
+      {
+        "textDe": "an die Beschlüsse des Bundestages gebunden.",
+        "textEn": "bound by the decisions of the Bundestag."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 142,
+    "taskNumber": 142,
+    "category": "Politik in Deutschland",
+    "questionDe": "Ein Richter / Eine Richterin in Deutschland ist unabhängig, weil ...",
+    "questionEn": "A judge in Germany is independent because...",
+    "options": [
+      {
+        "textDe": "er / sie nur dem Gesetz unterworfen ist.",
+        "textEn": "he/she is subject only to the law."
+      },
+      {
+        "textDe": "er / sie an die Weisungen der Regierung gebunden ist.",
+        "textEn": "he/she is bound by the instructions of the government."
+      },
+      {
+        "textDe": "er / sie Mitglied einer Partei ist.",
+        "textEn": "he/she is a member of a party."
+      },
+      {
+        "textDe": "Richter auf Lebenszeit ernannt werden.",
+        "textEn": "judges are appointed for life."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 143,
+    "taskNumber": 143,
+    "category": "Politik in Deutschland",
+    "questionDe": "Was ist die Hauptaufgabe eines Richters / einer Richterin in Deutschland?",
+    "questionEn": "What is the main task of a judge in Germany?",
+    "options": [
+      {
+        "textDe": "Recht sprechen.",
+        "textEn": "To administer justice."
+      },
+      {
+        "textDe": "Gesetze erlassen.",
+        "textEn": "To enact laws."
+      },
+      {
+        "textDe": "Die Regierung beraten.",
+        "textEn": "To advise the government."
+      },
+      {
+        "textDe": "Verwaltungsaufgaben erledigen.",
+        "textEn": "To perform administrative tasks."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 144,
+    "taskNumber": 144,
+    "category": "Politik in Deutschland",
+    "questionDe": "Ein Schöffe / Eine Schöffin ist in Deutschland ...",
+    "questionEn": "A lay judge (Schöffe) in Germany is...",
+    "options": [
+      {
+        "textDe": "ein ehrenamtlicher Richter / eine ehrenamtliche Richterin ohne juristische Ausbildung.",
+        "textEn": "an honorary judge without legal training."
+      },
+      {
+        "textDe": "ein Richter / eine Richterin, der / die auf Lebenszeit vom Bundestag ernannt wird.",
+        "textEn": "a judge who is appointed for life by the Bundestag."
+      },
+      {
+        "textDe": "ein Richter / eine Richterin, der / die Jura studiert hat.",
+        "textEn": "a judge who has studied law."
+      },
+      {
+        "textDe": "ein Beamter / eine Beamtin im Justizdienst.",
+        "textEn": "a civil servant in the judicial service."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 145,
+    "taskNumber": 145,
+    "category": "Politik in Deutschland",
+    "questionDe": "Wer ernennt in Deutschland die Schöffen / Schöffinnen?",
+    "questionEn": "Who appoints the lay judges (Schöffen) in Germany?",
+    "options": [
+      {
+        "textDe": "Die Bürger und Bürgerinnen.",
+        "textEn": "The citizens."
+      },
+      {
+        "textDe": "Eine unabhängige Kommission beim Gericht.",
+        "textEn": "An independent commission at the court."
+      },
+      {
+        "textDe": "Der Richter / die Richterin.",
+        "textEn": "The judge."
+      },
+      {
+        "textDe": "Eine Behörde.",
+        "textEn": "An authority."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 146,
+    "taskNumber": 146,
+    "category": "Politik in Deutschland",
+    "questionDe": "Was ist die Aufgabe der Schöffen / Schöffinnen in Deutschland?",
+    "questionEn": "What is the task of lay judges (Schöffen) in Germany?",
+    "options": [
+      {
+        "textDe": "Sie stellen nur fest, ob eine Person schuldhaft gehandelt hat.",
+        "textEn": "They only determine whether a person has acted culpably."
+      },
+      {
+        "textDe": "Sie beraten Richter / Richterinnen bei der Festlegung des Strafmaßes.",
+        "textEn": "They advise judges on determining the sentence."
+      },
+      {
+        "textDe": "Sie nehmen an Gerichtsverhandlungen teil und wirken an der Urteilsfindung mit.",
+        "textEn": "They participate in court hearings and contribute to the verdict."
+      },
+      {
+        "textDe": "Sie sind für die schriftliche Begründung des Urteils verantwortlich.",
+        "textEn": "They are responsible for the written justification of the verdict."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 147,
+    "taskNumber": 147,
+    "category": "Politik in Deutschland",
+    "questionDe": "Wann kann in Deutschland ein Richter / eine Richterin entlassen werden oder gegen seinen / ihren Willen versetzt werden?",
+    "questionEn": "When can a judge in Germany be dismissed or transferred against his/her will?",
+    "options": [
+      {
+        "textDe": "Wenn er / sie eine Straftat begangen hat.",
+        "textEn": "If he/she has committed a criminal offense."
+      },
+      {
+        "textDe": "Wenn er / sie nicht mehr neutral ist.",
+        "textEn": "If he/she is no longer neutral."
+      },
+      {
+        "textDe": "Wenn die Regierung es möchte.",
+        "textEn": "If the government wishes it."
+      },
+      {
+        "textDe": "Wenn er / sie das 65. Lebensjahr vollendet hat.",
+        "textEn": "If he/she has reached the age of 65."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 148,
+    "taskNumber": 148,
+    "category": "Politik in Deutschland",
+    "questionDe": "In Deutschland wird die Staatsgewalt geteilt. Für welche Staatsgewalt sind die Gerichte zuständig?",
+    "questionEn": "In Germany, state power is divided. Which branch of state power are the courts responsible for?",
+    "options": [
+      {
+        "textDe": "Die Judikative (Rechtsprechung).",
+        "textEn": "The judiciary (administration of justice)."
+      },
+      {
+        "textDe": "Die Legislative (Gesetzgebung).",
+        "textEn": "The legislature (lawmaking)."
+      },
+      {
+        "textDe": "Die Exekutive (ausführende Gewalt).",
+        "textEn": "The executive (executive power)."
+      },
+      {
+        "textDe": "Die Presse (vierte Gewalt).",
+        "textEn": "The press (fourth estate)."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 149,
+    "taskNumber": 149,
+    "category": "Politik in Deutschland",
+    "questionDe": "Was ist eine Aufgabe der Polizei in Deutschland?",
+    "questionEn": "What is a task of the police in Germany?",
+    "options": [
+      {
+        "textDe": "Das Parlament zu überwachen.",
+        "textEn": "To monitor the parliament."
+      },
+      {
+        "textDe": "Die Einhaltung von Gesetzen zu überwachen.",
+        "textEn": "To monitor compliance with laws."
+      },
+      {
+        "textDe": "Steuern zu berechnen.",
+        "textEn": "To calculate taxes."
+      },
+      {
+        "textDe": "Gerichtsentscheidungen zu ändern.",
+        "textEn": "To change court decisions."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 150,
+    "taskNumber": 150,
+    "category": "Politik in Deutschland",
+    "questionDe": "Welchen Bereich betrifft die Meinungsfreiheit in Deutschland nicht?",
+    "questionEn": "Which area does freedom of opinion not concern in Germany?",
+    "options": [
+      {
+        "textDe": "Die Verbreitung von Falschaussagen über Personen des öffentlichen Lebens.",
+        "textEn": "The dissemination of false statements about public figures."
+      },
+      {
+        "textDe": "Kritik an der Regierung.",
+        "textEn": "Criticism of the government."
+      },
+      {
+        "textDe": "Karikaturen.",
+        "textEn": "Caricatures."
+      },
+      {
+        "textDe": "Wissenschaftliche Forschung.",
+        "textEn": "Scientific research."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 151,
+    "taskNumber": 151,
+    "category": "Politik in Deutschland",
+    "questionDe": "Welche Aussage zum Recht auf Meinungsfreiheit in Deutschland ist richtig?",
+    "questionEn": "Which statement about the right to freedom of opinion in Germany is correct?",
+    "options": [
+      {
+        "textDe": "Es schützt die Verbreitung von Hassbotschaften.",
+        "textEn": "It protects the dissemination of hate messages."
+      },
+      {
+        "textDe": "Es erlaubt die Veröffentlichung von Beleidigungen.",
+        "textEn": "It allows the publication of insults."
+      },
+      {
+        "textDe": "Es garantiert das Recht auf freie Meinungsäußerung ohne Zensur.",
+        "textEn": "It guarantees the right to free expression of opinion without censorship."
+      },
+      {
+        "textDe": "Es schützt falsche Tatsachenbehauptungen.",
+        "textEn": "It protects false factual claims."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 152,
+    "taskNumber": 152,
+    "category": "Politik in Deutschland",
+    "questionDe": "In Deutschland ist die Pressefreiheit garantiert. Das bedeutet, dass ...",
+    "questionEn": "Freedom of the press is guaranteed in Germany. This means that...",
+    "options": [
+      {
+        "textDe": "Zeitungen und andere Medien nur mit staatlicher Erlaubnis erscheinen dürfen.",
+        "textEn": "Newspapers and other media may only be published with state permission."
+      },
+      {
+        "textDe": "der Staat die Medien kontrolliert.",
+        "textEn": "the state controls the media."
+      },
+      {
+        "textDe": "Journalisten und Journalistinnen ihre Meinung frei äußern dürfen.",
+        "textEn": "journalists may express their opinions freely."
+      },
+      {
+        "textDe": "Meinungen nur anonym veröffentlicht werden dürfen.",
+        "textEn": "opinions may only be published anonymously."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 153,
+    "taskNumber": 153,
+    "category": "Politik in Deutschland",
+    "questionDe": "Was bedeutet in Deutschland die „Freiheit der Wissenschaft, Forschung und Lehre“?",
+    "questionEn": "What does the 'freedom of science, research, and teaching' mean in Germany?",
+    "options": [
+      {
+        "textDe": "Wissenschaftler dürfen nur das erforschen, was der Staat erlaubt.",
+        "textEn": "Scientists may only research what the state permits."
+      },
+      {
+        "textDe": "Hochschulen und Universitäten unterliegen der staatlichen Zensur.",
+        "textEn": "Colleges and universities are subject to state censorship."
+      },
+      {
+        "textDe": "Wissenschaftler und Wissenschaftlerinnen dürfen Forschungsthemen und -methoden frei wählen.",
+        "textEn": "Scientists may freely choose research topics and methods."
+      },
+      {
+        "textDe": "Lehrer und Lehrerinnen dürfen im Unterricht nur staatlich vorgegebene Inhalte vermitteln.",
+        "textEn": "Teachers may only convey state-mandated content in class."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 154,
+    "taskNumber": 154,
+    "category": "Politik in Deutschland",
+    "questionDe": "Was bedeutet die im Grundgesetz garantierte „Freiheit der Kunst“ in Deutschland?",
+    "questionEn": "What does the 'freedom of art' guaranteed in the Basic Law mean in Germany?",
+    "options": [
+      {
+        "textDe": "Alle Kunstwerke müssen vom Staat genehmigt werden.",
+        "textEn": "All artworks must be approved by the state."
+      },
+      {
+        "textDe": "Künstler und Künstlerinnen dürfen ihre Werke ohne staatliche Zensur schaffen und verbreiten.",
+        "textEn": "Artists may create and disseminate their works without state censorship."
+      },
+      {
+        "textDe": "Kunst darf nur in staatlichen Museen ausgestellt werden.",
+        "textEn": "Art may only be exhibited in state museums."
+      },
+      {
+        "textDe": "Der Staat entscheidet, welche Kunst als wertvoll gilt.",
+        "textEn": "The state decides which art is considered valuable."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 155,
+    "taskNumber": 155,
+    "category": "Politik in Deutschland",
+    "questionDe": "In Deutschland ist das Recht auf körperliche Unversehrtheit garantiert. Was bedeutet das?",
+    "questionEn": "In Germany, the right to physical integrity is guaranteed. What does that mean?",
+    "options": [
+      {
+        "textDe": "Jeder Mensch darf ohne seine Zustimmung medizinisch behandelt werden.",
+        "textEn": "Every person may be medically treated without their consent."
+      },
+      {
+        "textDe": "Niemand darf gegen seinen Willen körperlich verletzt werden.",
+        "textEn": "No one may be physically harmed against their will."
+      },
+      {
+        "textDe": "Der Staat darf über medizinische Eingriffe entscheiden.",
+        "textEn": "The state may decide on medical interventions."
+      },
+      {
+        "textDe": "Körperliche Bestrafungen sind in bestimmten Fällen erlaubt.",
+        "textEn": "Physical punishments are allowed in certain cases."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 156,
+    "taskNumber": 156,
+    "category": "Politik in Deutschland",
+    "questionDe": "Was ist in Deutschland verboten?",
+    "questionEn": "What is forbidden in Germany?",
+    "options": [
+      {
+        "textDe": "Die Veröffentlichung von Meinungen in Zeitungen.",
+        "textEn": "The publication of opinions in newspapers."
+      },
+      {
+        "textDe": "Die Ausübung der Religionsfreiheit.",
+        "textEn": "The exercise of religious freedom."
+      },
+      {
+        "textDe": "Die Diskriminierung von Menschen aufgrund ihrer Herkunft.",
+        "textEn": "The discrimination of people based on their origin."
+      },
+      {
+        "textDe": "Die Gründung von Vereinen.",
+        "textEn": "The founding of associations."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 157,
+    "taskNumber": 157,
+    "category": "Politik in Deutschland",
+    "questionDe": "In Deutschland ist die sexuelle Orientierung eines Menschen geschützt. Was bedeutet das?",
+    "questionEn": "In Germany, a person's sexual orientation is protected. What does that mean?",
+    "options": [
+      {
+        "textDe": "Homosexuelle dürfen nicht heiraten.",
+        "textEn": "Homosexuals may not marry."
+      },
+      {
+        "textDe": "Niemand darf wegen seiner sexuellen Orientierung diskriminiert werden.",
+        "textEn": "No one may be discriminated against because of their sexual orientation."
+      },
+      {
+        "textDe": "Der Staat darf die sexuelle Orientierung vorschreiben.",
+        "textEn": "The state may prescribe sexual orientation."
+      },
+      {
+        "textDe": "Sexuelle Orientierung ist Privatsache und darf nicht öffentlich gemacht werden.",
+        "textEn": "Sexual orientation is a private matter and may not be made public."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 158,
+    "taskNumber": 158,
+    "category": "Politik in Deutschland",
+    "questionDe": "Was ist in Deutschland erlaubt?",
+    "questionEn": "What is allowed in Germany?",
+    "options": [
+      {
+        "textDe": "Die Diskriminierung von Menschen aufgrund ihres Geschlechts.",
+        "textEn": "The discrimination of people based on their gender."
+      },
+      {
+        "textDe": "Die Ausübung der Religionsfreiheit.",
+        "textEn": "The exercise of religious freedom."
+      },
+      {
+        "textDe": "Die Veröffentlichung von Hassbotschaften.",
+        "textEn": "The publication of hate messages."
+      },
+      {
+        "textDe": "Die Zensur von Büchern.",
+        "textEn": "The censorship of books."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 159,
+    "taskNumber": 159,
+    "category": "Politik in Deutschland",
+    "questionDe": "Was ist in Deutschland verboten?",
+    "questionEn": "What is forbidden in Germany?",
+    "options": [
+      {
+        "textDe": "Die freie Wahl des Berufs.",
+        "textEn": "The free choice of profession."
+      },
+      {
+        "textDe": "Die Gründung von Parteien.",
+        "textEn": "The founding of parties."
+      },
+      {
+        "textDe": "Die Diskriminierung von Menschen aufgrund ihrer Religion.",
+        "textEn": "The discrimination of people based on their religion."
+      },
+      {
+        "textDe": "Die Ausübung der Versammlungsfreiheit.",
+        "textEn": "The exercise of freedom of assembly."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 160,
+    "taskNumber": 160,
+    "category": "Politik in Deutschland",
+    "questionDe": "Was ist in Deutschland erlaubt?",
+    "questionEn": "What is allowed in Germany?",
+    "options": [
+      {
+        "textDe": "Die Diskriminierung von Menschen aufgrund ihrer Hautfarbe.",
+        "textEn": "The discrimination of people based on their skin color."
+      },
+      {
+        "textDe": "Die Ausübung der Meinungsfreiheit.",
+        "textEn": "The exercise of freedom of opinion."
+      },
+      {
+        "textDe": "Die Veröffentlichung von Beleidigungen.",
+        "textEn": "The publication of insults."
+      },
+      {
+        "textDe": "Die Zensur von Filmen.",
+        "textEn": "The censorship of films."
+      }
+    ],
+    "correctIndex": 1
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "id": 161,
+    "taskNumber": 161,
+    "category": "Leben in Deutschland",
+    "questionDe": "Welches Recht gehört zu den Grundrechten in Deutschland?",
+    "questionEn": "Which right is one of the fundamental rights in Germany?",
+    "options": [
+      {
+        "textDe": "das Recht auf körperliche Unversehrtheit",
+        "textEn": "the right to physical integrity"
+      },
+      {
+        "textDe": "das Recht auf Arbeit",
+        "textEn": "the right to work"
+      },
+      {
+        "textDe": "das Recht auf eine Wohnung",
+        "textEn": "the right to housing"
+      },
+      {
+        "textDe": "das Recht auf Mindestlohn",
+        "textEn": "the right to minimum wage"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 162,
+    "taskNumber": 162,
+    "category": "Leben in Deutschland",
+    "questionDe": "Was ist mit dem deutschen Grundgesetz vereinbar?",
+    "questionEn": "What is compatible with the German Basic Law?",
+    "options": [
+      {
+        "textDe": "die Folterung von Straftätern",
+        "textEn": "the torture of criminals"
+      },
+      {
+        "textDe": "die Prügelstrafe",
+        "textEn": "corporal punishment"
+      },
+      {
+        "textDe": "die Todesstrafe",
+        "textEn": "the death penalty"
+      },
+      {
+        "textDe": "die Meinungsfreiheit",
+        "textEn": "freedom of opinion"
+      }
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 163,
+    "taskNumber": 163,
+    "category": "Leben in Deutschland",
+    "questionDe": "Welches Grundrecht schränkt Artikel 16 Absatz 2 Satz 1 des Grundgesetzes ein?",
+    "questionEn": "Which fundamental right is restricted by Article 16 Paragraph 2 Sentence 1 of the Basic Law?",
+    "options": [
+      {
+        "textDe": "das Recht auf Freizügigkeit",
+        "textEn": "the right to freedom of movement"
+      },
+      {
+        "textDe": "das Recht auf Meinungsfreiheit",
+        "textEn": "the right to freedom of opinion"
+      },
+      {
+        "textDe": "das Recht auf Asyl",
+        "textEn": "the right to asylum"
+      },
+      {
+        "textDe": "das Recht auf Versammlungsfreiheit",
+        "textEn": "the right to freedom of assembly"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 164,
+    "taskNumber": 164,
+    "category": "Leben in Deutschland",
+    "questionDe": "Eine Partei in Deutschland verfolgt das Ziel, eine Diktatur zu errichten. Was trifft zu?",
+    "questionEn": "A party in Germany pursues the goal of establishing a dictatorship. What is true?",
+    "options": [
+      {
+        "textDe": "Sie kann verboten werden.",
+        "textEn": "It can be banned."
+      },
+      {
+        "textDe": "Sie bekommt staatliche finanzielle Unterstützung.",
+        "textEn": "It receives state financial support."
+      },
+      {
+        "textDe": "Sie darf zur nächsten Wahl antreten.",
+        "textEn": "It is allowed to run in the next election."
+      },
+      {
+        "textDe": "Sie wird vom Verfassungsschutz nicht beachtet.",
+        "textEn": "It is ignored by the Office for the Protection of the Constitution."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 165,
+    "taskNumber": 165,
+    "category": "Leben in Deutschland",
+    "questionDe": "Welches ist eines der 4 Prinzipien der allgemeinen, unmittelbaren, freien, gleichen und geheimen Wahl?",
+    "questionEn": "Which is one of the 4 principles of the general, direct, free, equal, and secret election?",
+    "options": [
+      {
+        "textDe": "Wahlpflicht",
+        "textEn": "Compulsory voting"
+      },
+      {
+        "textDe": "Mehrheitswahlrecht",
+        "textEn": "Majority voting system"
+      },
+      {
+        "textDe": "Verhältniswahlrecht",
+        "textEn": "Proportional representation"
+      },
+      {
+        "textDe": "Geheim",
+        "textEn": "Secret"
+      }
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 166,
+    "taskNumber": 166,
+    "category": "Leben in Deutschland",
+    "questionDe": "Wahlen in Deutschland sind allgemein. Was bedeutet das?",
+    "questionEn": "Elections in Germany are general. What does that mean?",
+    "options": [
+      {
+        "textDe": "Alle wahlberechtigten deutschen Staatsbürger und Staatsbürgerinnen dürfen wählen.",
+        "textEn": "All eligible German citizens (male and female) are allowed to vote."
+      },
+      {
+        "textDe": "Jede Person darf nur einmal wählen.",
+        "textEn": "Every person may vote only once."
+      },
+      {
+        "textDe": "Alle Parteien sind zur Wahl zugelassen.",
+        "textEn": "All parties are admitted to the election."
+      },
+      {
+        "textDe": "Man darf wählen, wen man will.",
+        "textEn": "One may vote for whomever one wants."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 167,
+    "taskNumber": 167,
+    "category": "Leben in Deutschland",
+    "questionDe": "Wahlen in Deutschland sind frei. Was bedeutet das?",
+    "questionEn": "Elections in Germany are free. What does that mean?",
+    "options": [
+      {
+        "textDe": "Alle wahlberechtigten Bürger und Bürgerinnen dürfen wählen.",
+        "textEn": "All eligible citizens (male and female) are allowed to vote."
+      },
+      {
+        "textDe": "Die Wähler und Wählerinnen dürfen bei der Wahl weder beeinflusst noch unter Druck gesetzt werden.",
+        "textEn": "Voters (male and female) may neither be influenced nor pressured during the election."
+      },
+      {
+        "textDe": "Die Wahlen sind nicht geheim.",
+        "textEn": "Elections are not secret."
+      },
+      {
+        "textDe": "Man muss wählen gehen.",
+        "textEn": "One must go to vote."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 168,
+    "taskNumber": 168,
+    "category": "Leben in Deutschland",
+    "questionDe": "Wahlen in Deutschland sind geheim. Was bedeutet das?",
+    "questionEn": "Elections in Germany are secret. What does that mean?",
+    "options": [
+      {
+        "textDe": "Die Wahlkabine ist von außen einsehbar.",
+        "textEn": "The polling booth is visible from the outside."
+      },
+      {
+        "textDe": "Niemand darf sehen, wen man wählt.",
+        "textEn": "Nobody may see whom one votes for."
+      },
+      {
+        "textDe": "Man muss anderen sagen, wen man gewählt hat.",
+        "textEn": "One must tell others whom one has voted for."
+      },
+      {
+        "textDe": "Die Wahlzettel werden öffentlich ausgezählt.",
+        "textEn": "Ballots are counted publicly."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 169,
+    "taskNumber": 169,
+    "category": "Leben in Deutschland",
+    "questionDe": "Was bedeutet \"aktives Wahlrecht\" in Deutschland?",
+    "questionEn": "What does \"active right to vote\" mean in Germany?",
+    "options": [
+      {
+        "textDe": "Man kann gewählt werden.",
+        "textEn": "One can be elected."
+      },
+      {
+        "textDe": "Man muss wählen gehen.",
+        "textEn": "One must go to vote."
+      },
+      {
+        "textDe": "Man darf wählen.",
+        "textEn": "One is allowed to vote."
+      },
+      {
+        "textDe": "Man kann seine Meinung zur Wahl in der Öffentlichkeit sagen.",
+        "textEn": "One can express one's opinion about the election publicly."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 170,
+    "taskNumber": 170,
+    "category": "Leben in Deutschland",
+    "questionDe": "Was bedeutet \"passives Wahlrecht\" in Deutschland?",
+    "questionEn": "What does \"passive right to vote\" mean in Germany?",
+    "options": [
+      {
+        "textDe": "Man darf wählen.",
+        "textEn": "One is allowed to vote."
+      },
+      {
+        "textDe": "Man kann gewählt werden.",
+        "textEn": "One can be elected."
+      },
+      {
+        "textDe": "Man muss wählen gehen.",
+        "textEn": "One must go to vote."
+      },
+      {
+        "textDe": "Man darf seine Meinung zur Wahl in der Öffentlichkeit sagen.",
+        "textEn": "One may express one's opinion about the election publicly."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 171,
+    "taskNumber": 171,
+    "category": "Leben in Deutschland",
+    "questionDe": "Die Bundestagswahl in Deutschland ist die Wahl ...",
+    "questionEn": "The Bundestag election in Germany is the election of...",
+    "options": [
+      {
+        "textDe": "des Bundeskanzlers / der Bundeskanzlerin.",
+        "textEn": "the Federal Chancellor (male/female)."
+      },
+      {
+        "textDe": "der Ministerpräsidenten / Ministerpräsidentinnen der Länder.",
+        "textEn": "the Minister Presidents (male/female) of the states."
+      },
+      {
+        "textDe": "der Abgeordneten des Deutschen Bundestages.",
+        "textEn": "the members of the German Bundestag."
+      },
+      {
+        "textDe": "der Mitglieder des Europäischen Parlaments.",
+        "textEn": "the members of the European Parliament."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 172,
+    "taskNumber": 172,
+    "category": "Leben in Deutschland",
+    "questionDe": "Wen wählen die deutschen Wahlberechtigten bei einer Bundestagswahl?",
+    "questionEn": "Whom do eligible German voters elect in a Bundestag election?",
+    "options": [
+      {
+        "textDe": "den Bundeskanzler / die Bundeskanzlerin",
+        "textEn": "the Federal Chancellor (male/female)"
+      },
+      {
+        "textDe": "die Abgeordneten des Bundestages",
+        "textEn": "the members of the Bundestag"
+      },
+      {
+        "textDe": "den Bundespräsidenten / die Bundespräsidentin",
+        "textEn": "the Federal President (male/female)"
+      },
+      {
+        "textDe": "die Mitglieder des Bundesrates",
+        "textEn": "the members of the Bundesrat"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 173,
+    "taskNumber": 173,
+    "category": "Leben in Deutschland",
+    "questionDe": "Wie oft gibt es normalerweise Bundestagswahlen in Deutschland?",
+    "questionEn": "How often are Bundestag elections normally held in Germany?",
+    "options": [
+      {
+        "textDe": "alle drei Jahre",
+        "textEn": "every three years"
+      },
+      {
+        "textDe": "alle vier Jahre",
+        "textEn": "every four years"
+      },
+      {
+        "textDe": "alle fünf Jahre",
+        "textEn": "every five years"
+      },
+      {
+        "textDe": "alle sechs Jahre",
+        "textEn": "every six years"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 174,
+    "taskNumber": 174,
+    "category": "Leben in Deutschland",
+    "questionDe": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+    "questionEn": "For how many years is the Bundestag elected in Germany?",
+    "options": [
+      {
+        "textDe": "2 Jahre",
+        "textEn": "2 years"
+      },
+      {
+        "textDe": "3 Jahre",
+        "textEn": "3 years"
+      },
+      {
+        "textDe": "4 Jahre",
+        "textEn": "4 years"
+      },
+      {
+        "textDe": "5 Jahre",
+        "textEn": "5 years"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 175,
+    "taskNumber": 175,
+    "category": "Leben in Deutschland",
+    "questionDe": "Bei einer Bundestagswahl in Deutschland darf jeder wählen, der ...",
+    "questionEn": "In a Bundestag election in Germany, anyone may vote who...",
+    "options": [
+      {
+        "textDe": "in der Bundesrepublik Deutschland wohnt und mindestens 18 Jahre alt ist.",
+        "textEn": "lives in the Federal Republic of Germany and is at least 18 years old."
+      },
+      {
+        "textDe": "die deutsche Staatsangehörigkeit besitzt und mindestens 18 Jahre alt ist.",
+        "textEn": "possesses German citizenship and is at least 18 years old."
+      },
+      {
+        "textDe": "seit mindestens 3 Monaten in Deutschland lebt.",
+        "textEn": "has lived in Germany for at least 3 months."
+      },
+      {
+        "textDe": "in der Bundesrepublik Deutschland wohnt und mindestens 20 Jahre alt ist.",
+        "textEn": "lives in the Federal Republic of Germany and is at least 20 years old."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 176,
+    "taskNumber": 176,
+    "category": "Leben in Deutschland",
+    "questionDe": "Das Wahlsystem in Deutschland ist ein ...",
+    "questionEn": "The electoral system in Germany is a...",
+    "options": [
+      {
+        "textDe": "Mehrheitswahlsystem.",
+        "textEn": "majority electoral system."
+      },
+      {
+        "textDe": "Verhältniswahlsystem.",
+        "textEn": "proportional representation system."
+      },
+      {
+        "textDe": "Personenwahlsystem.",
+        "textEn": "personal electoral system."
+      },
+      {
+        "textDe": "personalisiertes Verhältniswahlsystem.",
+        "textEn": "personalized proportional representation system."
+      }
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 177,
+    "taskNumber": 177,
+    "category": "Leben in Deutschland",
+    "questionDe": "Wie viele Stimmen hat man bei der Bundestagswahl in Deutschland?",
+    "questionEn": "How many votes does one have in the Bundestag election in Germany?",
+    "options": [
+      {
+        "textDe": "eine Stimme",
+        "textEn": "one vote"
+      },
+      {
+        "textDe": "zwei Stimmen",
+        "textEn": "two votes"
+      },
+      {
+        "textDe": "drei Stimmen",
+        "textEn": "three votes"
+      },
+      {
+        "textDe": "vier Stimmen",
+        "textEn": "four votes"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 178,
+    "taskNumber": 178,
+    "category": "Leben in Deutschland",
+    "questionDe": "Was ist mit der \"Erststimme\" bei der Bundestagswahl gemeint?",
+    "questionEn": "What is meant by the \"first vote\" in the Bundestag election?",
+    "options": [
+      {
+        "textDe": "Man wählt den Kandidaten / die Kandidatin des Wahlkreises.",
+        "textEn": "One elects the candidate (male/female) of the electoral district."
+      },
+      {
+        "textDe": "Man wählt die Landesliste der Partei.",
+        "textEn": "One elects the state list of the party."
+      },
+      {
+        "textDe": "Man wählt den Bundeskanzler / die Bundeskanzlerin.",
+        "textEn": "One elects the Federal Chancellor (male/female)."
+      },
+      {
+        "textDe": "Man wählt die Partei.",
+        "textEn": "One elects the party."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 179,
+    "taskNumber": 179,
+    "category": "Leben in Deutschland",
+    "questionDe": "Was ist mit der \"Zweitstimme\" bei der Bundestagswahl gemeint?",
+    "questionEn": "What is meant by the \"second vote\" in the Bundestag election?",
+    "options": [
+      {
+        "textDe": "Man wählt den Kandidaten / die Kandidatin des Wahlkreises.",
+        "textEn": "One elects the candidate (male/female) of the electoral district."
+      },
+      {
+        "textDe": "Man wählt die Landesliste der Partei.",
+        "textEn": "One elects the state list of the party."
+      },
+      {
+        "textDe": "Man wählt den Bundeskanzler / die Bundeskanzlerin.",
+        "textEn": "One elects the Federal Chancellor (male/female)."
+      },
+      {
+        "textDe": "Man wählt die Partei.",
+        "textEn": "One elects the party."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 180,
+    "taskNumber": 180,
+    "category": "Leben in Deutschland",
+    "questionDe": "Für welche Dauer wird der Bundestag in Deutschland gewählt?",
+    "questionEn": "For what duration is the Bundestag elected in Germany?",
+    "options": [
+      {
+        "textDe": "4 Jahre",
+        "textEn": "4 years"
+      },
+      {
+        "textDe": "5 Jahre",
+        "textEn": "5 years"
+      },
+      {
+        "textDe": "6 Jahre",
+        "textEn": "6 years"
+      },
+      {
+        "textDe": "7 Jahre",
+        "textEn": "7 years"
+      }
+    ],
+    "correctIndex": 0
+  }
+]

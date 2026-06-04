@@ -1,0 +1,522 @@
+[
+  {
+    "id": 101,
+    "taskNumber": 101,
+    "category": "Staat und Politik",
+    "questionDe": "Wie nennt man das Parlament der Bundesrepublik Deutschland?",
+    "questionEn": "What is the parliament of the Federal Republic of Germany called?",
+    "options": [
+      {
+        "textDe": "Bundesversammlung",
+        "textEn": "Federal Convention"
+      },
+      {
+        "textDe": "Bundestag",
+        "textEn": "Bundestag (Federal Parliament)"
+      },
+      {
+        "textDe": "Bundesrat",
+        "textEn": "Bundesrat (Federal Council)"
+      },
+      {
+        "textDe": "Bundeskabinett",
+        "textEn": "Federal Cabinet"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 102,
+    "taskNumber": 102,
+    "category": "Staat und Politik",
+    "questionDe": "Eine Abgeordnete / ein Abgeordneter im Deutschen Bundestag gehört meistens einer ...",
+    "questionEn": "A member of the German Bundestag usually belongs to a...",
+    "options": [
+      {
+        "textDe": "Fraktion an.",
+        "textEn": "parliamentary group."
+      },
+      {
+        "textDe": "Bundesregierung an.",
+        "textEn": "federal government."
+      },
+      {
+        "textDe": "Bundesversammlung an.",
+        "textEn": "federal convention."
+      },
+      {
+        "textDe": "Landesregierung an.",
+        "textEn": "state government."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 103,
+    "taskNumber": 103,
+    "category": "Staat und Politik",
+    "questionDe": "Wer entwirft die Gesetze in Deutschland?",
+    "questionEn": "Who drafts the laws in Germany?",
+    "options": [
+      {
+        "textDe": "die Bundesregierung",
+        "textEn": "the Federal Government"
+      },
+      {
+        "textDe": "die Bundesversammlung",
+        "textEn": "the Federal Convention"
+      },
+      {
+        "textDe": "die Bundesrichterinnen und Bundesrichter",
+        "textEn": "the federal judges"
+      },
+      {
+        "textDe": "die Bundesbürgerinnen und Bundesbürger",
+        "textEn": "the federal citizens"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 104,
+    "taskNumber": 104,
+    "category": "Staat und Politik",
+    "questionDe": "Wer beschließt Gesetze in Deutschland?",
+    "questionEn": "Who passes laws in Germany?",
+    "options": [
+      {
+        "textDe": "die Gerichte",
+        "textEn": "the courts"
+      },
+      {
+        "textDe": "die Bürgerinnen und Bürger",
+        "textEn": "the citizens"
+      },
+      {
+        "textDe": "die Bundesregierung",
+        "textEn": "the Federal Government"
+      },
+      {
+        "textDe": "die Parlamente",
+        "textEn": "the parliaments"
+      }
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 105,
+    "taskNumber": 105,
+    "category": "Staat und Politik",
+    "questionDe": "Wann ist ein Gesetz in Deutschland gültig?",
+    "questionEn": "When is a law valid in Germany?",
+    "options": [
+      {
+        "textDe": "nach der Unterschrift der Bundeskanzlerin / des Bundeskanzlers",
+        "textEn": "after the signature of the Federal Chancellor"
+      },
+      {
+        "textDe": "nach der Unterschrift der Bundesministerin / des Bundesministers für Justiz",
+        "textEn": "after the signature of the Federal Minister of Justice"
+      },
+      {
+        "textDe": "nach der Unterschrift des Bundespräsidenten / der Bundespräsidentin und der Verkündung im Bundesgesetzblatt",
+        "textEn": "after the signature of the Federal President and publication in the Federal Law Gazette"
+      },
+      {
+        "textDe": "nach der Zustimmung der Bundesversammlung",
+        "textEn": "after the approval of the Federal Convention"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 106,
+    "taskNumber": 106,
+    "category": "Staat und Politik",
+    "questionDe": "Wer kann ein neues Gesetz in Deutschland vorschlagen?",
+    "questionEn": "Who can propose a new law in Germany?",
+    "options": [
+      {
+        "textDe": "die Bundesregierung, der Bundestag oder der Bundesrat",
+        "textEn": "the Federal Government, the Bundestag, or the Bundesrat"
+      },
+      {
+        "textDe": "die Richterinnen und Richter des Bundesverfassungsgerichts",
+        "textEn": "the judges of the Federal Constitutional Court"
+      },
+      {
+        "textDe": "die Bundesversammlung",
+        "textEn": "the Federal Convention"
+      },
+      {
+        "textDe": "die Ministerpräsidentinnen und Ministerpräsidenten der Bundesländer",
+        "textEn": "the Minister-Presidents of the federal states"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 107,
+    "taskNumber": 107,
+    "category": "Staat und Politik",
+    "questionDe": "Was ist eine Aufgabe des Deutschen Bundestages?",
+    "questionEn": "What is a task of the German Bundestag?",
+    "options": [
+      {
+        "textDe": "Er entwirft die Bundesgesetze.",
+        "textEn": "It drafts federal laws."
+      },
+      {
+        "textDe": "Er beschließt die Bundesgesetze.",
+        "textEn": "It passes federal laws."
+      },
+      {
+        "textDe": "Er ernennt die Richterinnen und Richter des Bundesverfassungsgerichts.",
+        "textEn": "It appoints the judges of the Federal Constitutional Court."
+      },
+      {
+        "textDe": "Er schreibt die Bundesgesetze.",
+        "textEn": "It writes federal laws."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 108,
+    "taskNumber": 108,
+    "category": "Staat und Politik",
+    "questionDe": "Wer wählt den Bundeskanzler / die Bundeskanzlerin in Deutschland?",
+    "questionEn": "Who elects the Federal Chancellor in Germany?",
+    "options": [
+      {
+        "textDe": "das Volk",
+        "textEn": "the people"
+      },
+      {
+        "textDe": "die Bundesversammlung",
+        "textEn": "the Federal Convention"
+      },
+      {
+        "textDe": "der Bundestag",
+        "textEn": "the Bundestag"
+      },
+      {
+        "textDe": "die Bundesländer",
+        "textEn": "the federal states"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 109,
+    "taskNumber": 109,
+    "category": "Staat und Politik",
+    "questionDe": "Wer leitet das deutsche Bundeskabinett?",
+    "questionEn": "Who leads the German Federal Cabinet?",
+    "options": [
+      {
+        "textDe": "die Bundeskanzlerin / der Bundeskanzler",
+        "textEn": "the Federal Chancellor"
+      },
+      {
+        "textDe": "die Bundespräsidentin / der Bundespräsident",
+        "textEn": "the Federal President"
+      },
+      {
+        "textDe": "die Bundestagspräsidentin / der Bundestagspräsident",
+        "textEn": "the President of the Bundestag"
+      },
+      {
+        "textDe": "die Bundesratspräsidentin / der Bundesratspräsident",
+        "textEn": "the President of the Bundesrat"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 110,
+    "taskNumber": 110,
+    "category": "Staat und Politik",
+    "questionDe": "Wer wählt den Bundespräsidenten / die Bundespräsidentin in Deutschland?",
+    "questionEn": "Who elects the Federal President in Germany?",
+    "options": [
+      {
+        "textDe": "der Bundesrat",
+        "textEn": "the Bundesrat"
+      },
+      {
+        "textDe": "die Bundesversammlung",
+        "textEn": "the Federal Convention"
+      },
+      {
+        "textDe": "das Volk",
+        "textEn": "the people"
+      },
+      {
+        "textDe": "der Bundestag",
+        "textEn": "the Bundestag"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 111,
+    "taskNumber": 111,
+    "category": "Staat und Politik",
+    "questionDe": "Wer vertritt den Bundespräsidenten / die Bundespräsidentin, wenn er / sie verhindert ist?",
+    "questionEn": "Who represents the Federal President if he / she is prevented from acting?",
+    "options": [
+      {
+        "textDe": "die Bundeskanzlerin / der Bundeskanzler",
+        "textEn": "the Federal Chancellor"
+      },
+      {
+        "textDe": "die Bundesratspräsidentin / der Bundesratspräsident",
+        "textEn": "the President of the Bundesrat"
+      },
+      {
+        "textDe": "die Bundestagspräsidentin / der Bundestagspräsident",
+        "textEn": "the President of the Bundestag"
+      },
+      {
+        "textDe": "die Bundesministerin / der Bundesminister des Innern",
+        "textEn": "the Federal Minister of the Interior"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 112,
+    "taskNumber": 112,
+    "category": "Staat und Politik",
+    "questionDe": "Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?",
+    "questionEn": "Who is the head of state of the Federal Republic of Germany?",
+    "options": [
+      {
+        "textDe": "die Bundeskanzlerin / der Bundeskanzler",
+        "textEn": "the Federal Chancellor"
+      },
+      {
+        "textDe": "die Bundespräsidentin / der Bundespräsident",
+        "textEn": "the Federal President"
+      },
+      {
+        "textDe": "die Bundesratspräsidentin / der Bundesratspräsident",
+        "textEn": "the President of the Bundesrat"
+      },
+      {
+        "textDe": "die Bundestagspräsidentin / der Bundestagspräsident",
+        "textEn": "the President of the Bundestag"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 113,
+    "taskNumber": 113,
+    "category": "Staat und Politik",
+    "questionDe": "Die Bundesrepublik Deutschland ist ein Bundesstaat. Was bedeutet das?",
+    "questionEn": "The Federal Republic of Germany is a federal state. What does that mean?",
+    "options": [
+      {
+        "textDe": "Die Bundesländer bestimmen die Außenpolitik.",
+        "textEn": "The federal states determine foreign policy."
+      },
+      {
+        "textDe": "Deutschland besteht aus 16 Bundesländern.",
+        "textEn": "Germany consists of 16 federal states."
+      },
+      {
+        "textDe": "Der Bund entscheidet über alle Angelegenheiten der Bundesländer.",
+        "textEn": "The federal government decides on all matters of the federal states."
+      },
+      {
+        "textDe": "Die Bundesländer haben keine eigenen Regierungen.",
+        "textEn": "The federal states do not have their own governments."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 114,
+    "taskNumber": 114,
+    "category": "Staat und Politik",
+    "questionDe": "In Deutschland gibt es ...",
+    "questionEn": "In Germany there is...",
+    "options": [
+      {
+        "textDe": "einen Bundespräsidenten / eine Bundespräsidentin und einen Bundeskanzler / eine Bundeskanzlerin.",
+        "textEn": "a Federal President and a Federal Chancellor."
+      },
+      {
+        "textDe": "einen König und einen Premierminister.",
+        "textEn": "a king and a prime minister."
+      },
+      {
+        "textDe": "einen Präsidenten und einen Premierminister.",
+        "textEn": "a president and a prime minister."
+      },
+      {
+        "textDe": "einen Bundeskanzler und einen Premierminister.",
+        "textEn": "a federal chancellor and a prime minister."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 115,
+    "taskNumber": 115,
+    "category": "Staat und Politik",
+    "questionDe": "Wer wählt die Abgeordneten des Bundestages in Deutschland?",
+    "questionEn": "Who elects the members of the Bundestag in Germany?",
+    "options": [
+      {
+        "textDe": "das wahlberechtigte Volk",
+        "textEn": "the eligible voting population"
+      },
+      {
+        "textDe": "die Bundesversammlung",
+        "textEn": "the Federal Convention"
+      },
+      {
+        "textDe": "die Bundesregierung",
+        "textEn": "the Federal Government"
+      },
+      {
+        "textDe": "die Bundesländer",
+        "textEn": "the federal states"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 116,
+    "taskNumber": 116,
+    "category": "Staat und Politik",
+    "questionDe": "Wie nennt man die Vereinigung von Abgeordneten einer Partei im Parlament?",
+    "questionEn": "What is the association of members of a party in parliament called?",
+    "options": [
+      {
+        "textDe": "Verband",
+        "textEn": "association"
+      },
+      {
+        "textDe": "Koalition",
+        "textEn": "coalition"
+      },
+      {
+        "textDe": "Fraktion",
+        "textEn": "parliamentary group (Fraktion)"
+      },
+      {
+        "textDe": "Gewerkschaft",
+        "textEn": "trade union"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 117,
+    "taskNumber": 117,
+    "category": "Staat und Politik",
+    "questionDe": "Die deutschen Bundesländer wirken an der Gesetzgebung des Bundes mit durch ...",
+    "questionEn": "The German federal states participate in federal legislation through...",
+    "options": [
+      {
+        "textDe": "den Bundesrat.",
+        "textEn": "the Bundesrat."
+      },
+      {
+        "textDe": "die Bundesversammlung.",
+        "textEn": "the Federal Convention."
+      },
+      {
+        "textDe": "den Bundestag.",
+        "textEn": "the Bundestag."
+      },
+      {
+        "textDe": "die Bundesregierung.",
+        "textEn": "the Federal Government."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 118,
+    "taskNumber": 118,
+    "category": "Staat und Politik",
+    "questionDe": "In Deutschland kann ein Regierungswechsel in einem Bundesland die Bundespolitik beeinflussen. Das liegt daran, dass die Bundesländer ...",
+    "questionEn": "In Germany, a change of government in a federal state can influence federal politics. This is because the federal states...",
+    "options": [
+      {
+        "textDe": "über den Bundesrat an der Gesetzgebung des Bundes mitwirken.",
+        "textEn": "participate in federal legislation through the Bundesrat."
+      },
+      {
+        "textDe": "die Bundesregierung wählen.",
+        "textEn": "elect the Federal Government."
+      },
+      {
+        "textDe": "sehr viel Geld an den Bund zahlen müssen.",
+        "textEn": "have to pay a lot of money to the federal government."
+      },
+      {
+        "textDe": "die Bundeskanzlerin / den Bundeskanzler wählen.",
+        "textEn": "elect the Federal Chancellor."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 119,
+    "taskNumber": 119,
+    "category": "Staat und Politik",
+    "questionDe": "Was bedeutet die Abkürzung CDU in Deutschland?",
+    "questionEn": "What does the abbreviation CDU stand for in Germany?",
+    "options": [
+      {
+        "textDe": "Christliche Deutsche Union",
+        "textEn": "Christian German Union"
+      },
+      {
+        "textDe": "Club Deutscher Unternehmer",
+        "textEn": "Club of German Entrepreneurs"
+      },
+      {
+        "textDe": "Christlich Demokratische Union",
+        "textEn": "Christian Democratic Union"
+      },
+      {
+        "textDe": "Charta Deutscher Unternehmen",
+        "textEn": "Charter of German Enterprises"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 120,
+    "taskNumber": 120,
+    "category": "Staat und Politik",
+    "questionDe": "Was bedeutet die Abkürzung SPD in Deutschland?",
+    "questionEn": "What does the abbreviation SPD stand for in Germany?",
+    "options": [
+      {
+        "textDe": "Sozialdemokratische Partei Deutschlands",
+        "textEn": "Social Democratic Party of Germany"
+      },
+      {
+        "textDe": "Sozialistische Partei Deutschlands",
+        "textEn": "Socialist Party of Germany"
+      },
+      {
+        "textDe": "Sozialpolitische Partei Deutschlands",
+        "textEn": "Social-Political Party of Germany"
+      },
+      {
+        "textDe": "Sozialgerechte Partei Deutschlands",
+        "textEn": "Socially Just Party of Germany"
+      }
+    ],
+    "correctIndex": 0
+  }
+]

@@ -3,7 +3,10 @@ import { QUESTIONS } from './data/questions';
 import { generateStateQuestions, BUNDESLAENDER } from './data/stateQuestions';
 import { Question, QuizAttempt } from './types';
 import { QuestViewer, Dashboard } from './components';
-import { GraduationCap, Compass, HelpCircle, Award, MapPin, ListFilter, Sparkles, AlertTriangle, Menu, X } from 'lucide-react';
+import { GraduationCap, Compass, HelpCircle, Award, MapPin, ListFilter, Sparkles, AlertTriangle, Menu, X, Cloud, LogOut } from 'lucide-react';
+import { auth, db, signInWithGoogle, logOut, handleFirestoreError, OperationType } from './firebase';
+import { onAuthStateChanged, User } from 'firebase/auth';
+import { doc, getDoc, setDoc, deleteDoc, getDocs, collection, getDocFromServer } from 'firebase/firestore';
 
 export default function App() {
   const [activeTab, setActiveTab] = useState<'dashboard' | 'practice' | 'mock-exam' | 'guide'>('dashboard');
@@ -32,6 +35,145 @@ export default function App() {
   const [mockExamFinished, setMockExamFinished] = useState<boolean>(false);
   const [mockExamScore, setMockExamScore] = useState<{ correct: number; total: number } | null>(null);
 
+  // Firebase Authentication and Synced Status
+  const [user, setUser] = useState<User | null>(null);
+  const [authLoading, setAuthLoading] = useState<boolean>(true);
+  const [syncing, setSyncing] = useState<boolean>(false);
+
+  // Critical Connection Test on boot
+  useEffect(() => {
+    async function testConnection() {
+      try {
+        await getDocFromServer(doc(db, 'connection-test', 'ping'));
+      } catch (error) {
+        if (error instanceof Error && error.message.includes('the client is offline')) {
+          console.error("Please check your Firebase configuration. Client is offline.");
+        }
+      }
+    }
+    testConnection();
+  }, []);
+
+  // Listen to Auth State and Retrieve Cloud-synced Profile and Attempts
+  useEffect(() => {
+    const unsubscribe = onAuthStateChanged(auth, async (currentUser) => {
+      setUser(currentUser);
+      setAuthLoading(false);
+      
+      if (currentUser) {
+        setSyncing(true);
+        try {
+          const userId = currentUser.uid;
+          
+          // 1. Fetch Profile
+          const profileRef = doc(db, 'users', userId);
+          const profileSnap = await getDoc(profileRef);
+          
+          let cloudState = selectedState;
+          let cloudPracticeIdx = practiceIndex;
+          
+          if (profileSnap.exists()) {
+            const profileData = profileSnap.data();
+            cloudState = profileData.selectedState;
+            cloudPracticeIdx = profileData.practiceIndex;
+            setSelectedState(cloudState);
+            setPracticeIndex(cloudPracticeIdx);
+          } else {
+            // New user, push current local preferences as profile baseline
+            await setDoc(profileRef, {
+              userId,
+              selectedState,
+              practiceIndex,
+              updatedAt: new Date().toISOString()
+            });
+          }
+          
+          // 2. Fetch Attempts
+          const attemptsColRef = collection(db, 'users', userId, 'attempts');
+          const attemptsSnap = await getDocs(attemptsColRef);
+          const cloudAttempts: QuizAttempt[] = [];
+          
+          attemptsSnap.forEach((doc) => {
+            const data = doc.data();
+            cloudAttempts.push({
+              id: `${data.timestamp}-${data.questionId}`,
+              timestamp: data.timestamp,
+              questionId: data.questionId,
+              selectedIdx: data.selectedIdx,
+              isCorrect: data.isCorrect
+            });
+          });
+          
+          // Merge local and cloud attempts by taking the most recent completion
+          setAttempts(prev => {
+            const mergedMap = new Map<number, QuizAttempt>();
+            
+            prev.forEach(attempt => {
+              mergedMap.set(attempt.questionId, attempt);
+            });
+            
+            cloudAttempts.forEach(attempt => {
+              const local = mergedMap.get(attempt.questionId);
+              if (!local || new Date(attempt.timestamp) > new Date(local.timestamp)) {
+                mergedMap.set(attempt.questionId, attempt);
+              }
+            });
+            
+            const mergedArray = Array.from(mergedMap.values());
+            localStorage.setItem('trainer_quiz_attempts', JSON.stringify(mergedArray));
+            return mergedArray;
+          });
+          
+        } catch (error) {
+          console.error("Cloud synchronisation failed:", error);
+        } finally {
+          setSyncing(false);
+        }
+      }
+    });
+    
+    return () => unsubscribe();
+  }, [auth]);
+
+  // Debounced cloud profile sync
+  useEffect(() => {
+    if (!user) return;
+    
+    const timeoutId = setTimeout(async () => {
+      try {
+        const profileRef = doc(db, 'users', user.uid);
+        await setDoc(profileRef, {
+          userId: user.uid,
+          selectedState,
+          practiceIndex,
+          updatedAt: new Date().toISOString()
+        });
+      } catch (err) {
+        console.error("Profile sync failure:", err);
+      }
+    }, 1000); // 1-second debounce
+    
+    return () => clearTimeout(timeoutId);
+  }, [selectedState, practiceIndex, user]);
+
+  const handleLogin = async () => {
+    try {
+      await signInWithGoogle();
+    } catch (error) {
+      console.error("Sign In failed:", error);
+    }
+  };
+
+  const handleLogout = async () => {
+    if (confirm("Are you sure you want to sign out? Your history remains saved locally and in the cloud.")) {
+      try {
+        await logOut();
+      } catch (error) {
+        console.error("Sign Out failed:", error);
+      }
+    }
+  };
+
   // Sync state & attempts to localStorage
   useEffect(() => {
     localStorage.setItem('trainer_selected_state', selectedState);
@@ -46,20 +188,35 @@ export default function App() {
   const totalQuestionsList = [...QUESTIONS, ...stateQuestions];
 
   // Submit Answer in Practice mode
-  const handleSelectAnswerPractice = (isCorrect: boolean, selectedIdx: number) => {
+  const handleSelectAnswerPractice = async (isCorrect: boolean, selectedIdx: number) => {
     const activeQuestion = totalQuestionsList[practiceIndex];
+    const timestamp = new Date().toISOString();
+    const newAttempt: QuizAttempt = {
+      id: `${Date.now()}-${activeQuestion.id}`,
+      timestamp,
+      questionId: activeQuestion.id,
+      selectedIdx,
+      isCorrect
+    };
     
     setAttempts(prev => {
       const filtered = prev.filter(a => a.questionId !== activeQuestion.id);
-      const newAttempt: QuizAttempt = {
-        id: `${Date.now()}-${activeQuestion.id}`,
-        timestamp: new Date().toISOString(),
-        questionId: activeQuestion.id,
-        selectedIdx,
-        isCorrect
-      };
       return [newAttempt, ...filtered];
     });
+
+    if (user) {
+      try {
+        const attemptRef = doc(db, 'users', user.uid, 'attempts', `q${activeQuestion.id}`);
+        await setDoc(attemptRef, {
+          questionId: activeQuestion.id,
+          selectedIdx,
+          isCorrect,
+          timestamp
+        });
+      } catch (err) {
+        handleFirestoreError(err, OperationType.WRITE, `users/${user.uid}/attempts/q${activeQuestion.id}`);
+      }
+    }
   };
 
   // Setup / Initialize a realistic 33-question mock exam (30 general + 3 current state questions)
@@ -85,7 +242,7 @@ export default function App() {
     }));
   };
 
-  const handleFinishMockExam = () => {
+  const handleFinishMockExam = async () => {
     let correctCount = 0;
     mockExamQuestions.forEach(q => {
       if (mockExamAnswers[q.id]?.isCorrect) {
@@ -99,9 +256,10 @@ export default function App() {
     });
     setMockExamFinished(true);
 
+    const timestamp = new Date().toISOString();
     const newAttempts: QuizAttempt[] = mockExamQuestions.map(q => ({
       id: `${Date.now()}-${q.id}-mock`,
-      timestamp: new Date().toISOString(),
+      timestamp,
       questionId: q.id,
       selectedIdx: mockExamAnswers[q.id]?.selectedIdx ?? -1,
       isCorrect: mockExamAnswers[q.id]?.isCorrect ?? false
@@ -112,9 +270,25 @@ export default function App() {
       const filteredPrev = prev.filter(a => !activeIds.has(a.questionId));
       return [...newAttempts, ...filteredPrev];
     });
+
+    if (user) {
+      try {
+        for (const item of newAttempts) {
+          const attemptRef = doc(db, 'users', user.uid, 'attempts', `q${item.questionId}`);
+          await setDoc(attemptRef, {
+            questionId: item.questionId,
+            selectedIdx: item.selectedIdx,
+            isCorrect: item.isCorrect,
+            timestamp
+          });
+        }
+      } catch (err) {
+        handleFirestoreError(err, OperationType.WRITE, `users/${user.uid}/attempts`);
+      }
+    }
   };
 
-  const handleResetProgress = () => {
+  const handleResetProgress = async () => {
     if (confirm("Are you sure you want to clear your quiz history, streaks, and personal study lists?")) {
       setAttempts([]);
       setPracticeIndex(0);
@@ -124,6 +298,27 @@ export default function App() {
       localStorage.removeItem('trainer_quiz_attempts');
       localStorage.removeItem('trainer_custom_study_list');
       localStorage.removeItem('trainer_search_history');
+
+      if (user) {
+        try {
+          const profileRef = doc(db, 'users', user.uid);
+          await setDoc(profileRef, {
+            userId: user.uid,
+            selectedState,
+            practiceIndex: 0,
+            updatedAt: new Date().toISOString()
+          });
+
+          // Delete all records in attempts subcollection
+          const attemptsCol = collection(db, 'users', user.uid, 'attempts');
+          const snap = await getDocs(attemptsCol);
+          for (const d of snap.docs) {
+            await deleteDoc(d.ref);
+          }
+        } catch (err) {
+          handleFirestoreError(err, OperationType.DELETE, `users/${user.uid}`);
+        }
+      }
     }
   };
 
@@ -195,18 +390,56 @@ export default function App() {
               })}
             </nav>
 
-            {/* Federal State Selector */}
-            <div className="flex items-center space-x-1 bg-white border-2 border-black rounded-lg px-2 py-1 shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]">
-              <MapPin className="w-3.5 h-3.5 text-[#dc2626] shrink-0" />
-              <select
-                value={selectedState}
-                onChange={(e) => setSelectedState(e.target.value)}
-                className="bg-transparent text-black font-black focus:outline-none text-[10px] sm:text-xs font-sans h-7 cursor-pointer border-none max-w-[100px] sm:max-w-none"
-              >
-                {Object.keys(BUNDESLAENDER).map(name => (
-                  <option key={name} value={name} className="bg-white text-black font-bold">{name}</option>
-                ))}
-              </select>
+            {/* Right section: State selector and Cloud sync */}
+            <div className="flex items-center space-x-2 shrink-0">
+              {/* Federal State Selector */}
+              <div className="flex items-center space-x-1 bg-white border-2 border-black rounded-lg px-2 py-1 shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]">
+                <MapPin className="w-3.5 h-3.5 text-[#dc2626] shrink-0" />
+                <select
+                  value={selectedState}
+                  onChange={(e) => setSelectedState(e.target.value)}
+                  className="bg-transparent text-black font-black focus:outline-none text-[10px] sm:text-xs font-sans h-7 cursor-pointer border-none max-w-[100px] sm:max-w-none"
+                >
+                  {Object.keys(BUNDESLAENDER).map(name => (
+                    <option key={name} value={name} className="bg-white text-black font-bold">{name}</option>
+                  ))}
+                </select>
+              </div>
+
+              {/* Authentication Sync Control */}
+              {authLoading ? (
+                <div className="w-8 h-8 rounded-full border-2 border-black bg-slate-100 animate-pulse shrink-0" />
+              ) : user ? (
+                <div className="flex items-center space-x-2">
+                  <button
+                    onClick={handleLogout}
+                    className="hidden sm:inline-block text-[9px] font-black bg-white hover:bg-slate-50 border-2 border-black text-black px-2.5 py-1.5 shadow-[1.5px_1.5px_0px_0px_rgba(0,0,0,1)] active:translate-y-0.5 cursor-pointer uppercase tracking-wider h-8 rounded"
+                    title="Sign Out"
+                  >
+                    Logout
+                  </button>
+                  <div 
+                    className="w-8 h-8 rounded-full border-2 border-black bg-[#fbbf24] flex items-center justify-center text-xs font-black shrink-0 shadow-[1.5px_1.5px_0px_0px_rgba(0,0,0,1)] relative select-none"
+                    title={`${user.displayName || user.email} (Cloud Sync Active)`}
+                  >
+                    {user.photoURL ? (
+                      <img src={user.photoURL} alt="avatar" className="w-full h-full rounded-full object-cover" referrerPolicy="no-referrer" />
+                    ) : (
+                      <span>{user.displayName?.charAt(0) || user.email?.charAt(0) || '?'}</span>
+                    )}
+                    <span className="absolute -bottom-1 -right-1 w-2.5 h-2.5 bg-[#22c55e] border border-black rounded-full" title="Cloud Sync Active" />
+                  </div>
+                </div>
+              ) : (
+                <button
+                  onClick={handleLogin}
+                  className="flex items-center space-x-1 text-[10px] font-black uppercase tracking-wider px-2.5 py-1.5 h-8 bg-[#22c55e] hover:bg-[#16a34a] text-black border-2 border-black shadow-[1.5px_1.5px_0px_0px_rgba(0,0,0,1)] rounded cursor-pointer active:translate-y-[1px]"
+                  title="Enable Cloud Backup"
+                >
+                  <Sparkles className="w-3 h-3 text-black stroke-[3px]" />
+                  <span className="hidden xs:inline">Sync</span>
+                </button>
+              )}
             </div>
 
           </div>
@@ -255,7 +488,53 @@ export default function App() {
               })}
             </div>
 
-            <div className="pt-6 border-t border-black text-center mt-auto">
+            {/* Mobile Account Control Widget */}
+            <div className="border-t-2 border-black pt-4 mt-auto space-y-3">
+              {authLoading ? (
+                <div className="h-16 bg-white border-2 border-black animate-pulse rounded-lg" />
+              ) : user ? (
+                <div className="bg-white border-2 border-black p-3 rounded-lg space-y-2 shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]">
+                  <div className="flex items-center space-x-2">
+                    <div className="w-7 h-7 rounded-full border-2 border-black bg-[#fbbf24] flex items-center justify-center font-black text-xs shrink-0 select-none">
+                      {user.photoURL ? (
+                        <img src={user.photoURL} alt="avatar" className="w-full h-full rounded-full object-cover" referrerPolicy="no-referrer" />
+                      ) : (
+                        <span>{user.displayName?.charAt(0) || user.email?.charAt(0) || '?'}</span>
+                      )}
+                    </div>
+                    <div className="min-w-0 flex-1">
+                      <p className="text-[10px] font-black text-black truncate">{user.displayName || user.email}</p>
+                      <p className="text-[8px] text-[#22c55e] font-black uppercase">● Cloud Synced</p>
+                    </div>
+                  </div>
+                  <button
+                    onClick={() => {
+                      handleLogout();
+                      setIsMobileMenuOpen(false);
+                    }}
+                    className="w-full py-1.5 bg-[#ef4444] text-white border-2 border-black rounded font-black text-[10px] uppercase shadow-[1.5px_1.5px_0px_0px_rgba(0,0,0,1)] active:translate-y-0.5 cursor-pointer text-center"
+                  >
+                    Sign Out Account
+                  </button>
+                </div>
+              ) : (
+                <div className="bg-white border-2 border-black p-3 rounded-lg space-y-2 shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]">
+                  <p className="text-[9px] uppercase font-black text-slate-500">Enable Cloud Storage</p>
+                  <p className="text-[9px] font-semibold text-slate-800 leading-tight">Sync your progress and streaks across any machine.</p>
+                  <button
+                    onClick={() => {
+                      handleLogin();
+                      setIsMobileMenuOpen(false);
+                    }}
+                    className="w-full py-1.5 bg-[#22c55e] border-2 border-black text-black rounded font-black text-[10px] uppercase shadow-[1.5px_1.5px_0px_0px_rgba(0,0,0,1)] active:translate-y-0.5 cursor-pointer text-center"
+                  >
+                    🚀 Sign In with Google
+                  </button>
+                </div>
+              )}
+            </div>
+
+            <div className="pt-3 text-center">
               <span className="text-[9px] text-slate-500 font-extrabold uppercase">Citizenship Study Lab 🇩🇪</span>
             </div>
           </div>

@@ -1,0 +1,522 @@
+[
+  {
+    "id": 181,
+    "taskNumber": 181,
+    "category": "Politik in Deutschland",
+    "questionDe": "Welches Recht gehört zu den Grundrechten in Deutschland?",
+    "questionEn": "Which right is one of the fundamental rights in Germany?",
+    "options": [
+      {
+        "textDe": "Waffenbesitz",
+        "textEn": "Right to bear arms"
+      },
+      {
+        "textDe": "Meinungsfreiheit",
+        "textEn": "Freedom of opinion"
+      },
+      {
+        "textDe": "Faustrecht",
+        "textEn": "Law of the jungle"
+      },
+      {
+        "textDe": "Selbstjustiz",
+        "textEn": "Vigilantism"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 182,
+    "taskNumber": 182,
+    "category": "Politik in Deutschland",
+    "questionDe": "Was ist mit dem deutschen Grundgesetz vereinbar?",
+    "questionEn": "What is compatible with the German Basic Law?",
+    "options": [
+      {
+        "textDe": "die Folter",
+        "textEn": "Torture"
+      },
+      {
+        "textDe": "die Todesstrafe",
+        "textEn": "The death penalty"
+      },
+      {
+        "textDe": "die Meinungsfreiheit",
+        "textEn": "Freedom of opinion"
+      },
+      {
+        "textDe": "die Zensur",
+        "textEn": "Censorship"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 183,
+    "taskNumber": 183,
+    "category": "Politik in Deutschland",
+    "questionDe": "Eine Partei in Deutschland verfolgt das Ziel, eine Diktatur zu errichten. Sie ist dann …",
+    "questionEn": "A party in Germany pursues the goal of establishing a dictatorship. It is then...",
+    "options": [
+      {
+        "textDe": "erlaubt.",
+        "textEn": "allowed."
+      },
+      {
+        "textDe": "vom Verfassungsschutz beobachtet.",
+        "textEn": "monitored by the Office for the Protection of the Constitution."
+      },
+      {
+        "textDe": "vom Bundestag verboten.",
+        "textEn": "banned by the Bundestag."
+      },
+      {
+        "textDe": "vom Bundespräsidenten zugelassen.",
+        "textEn": "approved by the Federal President."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 184,
+    "taskNumber": 184,
+    "category": "Politik in Deutschland",
+    "questionDe": "Welches Recht haben alle Menschen in Deutschland?",
+    "questionEn": "Which right do all people in Germany have?",
+    "options": [
+      {
+        "textDe": "Recht auf Arbeit",
+        "textEn": "Right to work"
+      },
+      {
+        "textDe": "Recht auf Mindestlohn",
+        "textEn": "Right to minimum wage"
+      },
+      {
+        "textDe": "Recht auf freie Meinungsäußerung",
+        "textEn": "Right to freedom of expression"
+      },
+      {
+        "textDe": "Recht auf Wohnung",
+        "textEn": "Right to housing"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 185,
+    "taskNumber": 185,
+    "category": "Politik in Deutschland",
+    "questionDe": "Welches Recht gehört zu den Grundrechten, die nach dem deutschen Grundgesetz für alle in Deutschland lebenden Menschen gelten?",
+    "questionEn": "Which right is one of the fundamental rights that apply to all people living in Germany according to the German Basic Law?",
+    "options": [
+      {
+        "textDe": "das Recht auf körperliche Unversehrtheit",
+        "textEn": "the right to physical integrity"
+      },
+      {
+        "textDe": "das Recht auf Arbeit",
+        "textEn": "the right to work"
+      },
+      {
+        "textDe": "das Recht auf eine Wohnung",
+        "textEn": "the right to housing"
+      },
+      {
+        "textDe": "das Recht auf Mindestlohn",
+        "textEn": "the right to minimum wage"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 186,
+    "taskNumber": 186,
+    "category": "Politik in Deutschland",
+    "questionDe": "Welches Grundrecht gilt in Deutschland nur für Deutsche?",
+    "questionEn": "Which fundamental right in Germany applies only to Germans?",
+    "options": [
+      {
+        "textDe": "Meinungsfreiheit",
+        "textEn": "Freedom of opinion"
+      },
+      {
+        "textDe": "Versammlungsfreiheit",
+        "textEn": "Freedom of assembly"
+      },
+      {
+        "textDe": "Freizügigkeit",
+        "textEn": "Freedom of movement"
+      },
+      {
+        "textDe": "Petitionsrecht",
+        "textEn": "Right to petition"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 187,
+    "taskNumber": 187,
+    "category": "Politik in Deutschland",
+    "questionDe": "Welches Grundrecht gilt in Deutschland nur für Deutsche?",
+    "questionEn": "Which fundamental right in Germany applies only to Germans?",
+    "options": [
+      {
+        "textDe": "das Recht auf Bildung",
+        "textEn": "the right to education"
+      },
+      {
+        "textDe": "das Recht auf Arbeit",
+        "textEn": "the right to work"
+      },
+      {
+        "textDe": "das Wahlrecht",
+        "textEn": "the right to vote"
+      },
+      {
+        "textDe": "das Recht auf Asyl",
+        "textEn": "the right to asylum"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 188,
+    "taskNumber": 188,
+    "category": "Politik in Deutschland",
+    "questionDe": "Wer darf in Deutschland ein Haustier halten?",
+    "questionEn": "Who is allowed to keep a pet in Germany?",
+    "options": [
+      {
+        "textDe": "nur Deutsche",
+        "textEn": "only Germans"
+      },
+      {
+        "textDe": "nur Personen mit einem Mindesteinkommen",
+        "textEn": "only people with a minimum income"
+      },
+      {
+        "textDe": "alle Menschen",
+        "textEn": "all people"
+      },
+      {
+        "textDe": "nur Personen mit einem Aufenthaltstitel",
+        "textEn": "only people with a residence permit"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 189,
+    "taskNumber": 189,
+    "category": "Politik in Deutschland",
+    "questionDe": "Was ist in Deutschland verboten?",
+    "questionEn": "What is forbidden in Germany?",
+    "options": [
+      {
+        "textDe": "Meinungsfreiheit",
+        "textEn": "Freedom of opinion"
+      },
+      {
+        "textDe": "Religionsfreiheit",
+        "textEn": "Freedom of religion"
+      },
+      {
+        "textDe": "Zensur",
+        "textEn": "Censorship"
+      },
+      {
+        "textDe": "Versammlungsfreiheit",
+        "textEn": "Freedom of assembly"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 190,
+    "taskNumber": 190,
+    "category": "Politik in Deutschland",
+    "questionDe": "Wann ist in Deutschland die Meinungsfreiheit eingeschränkt?",
+    "questionEn": "When is freedom of opinion restricted in Germany?",
+    "options": [
+      {
+        "textDe": "bei der Verbreitung von Falschmeldungen",
+        "textEn": "when spreading fake news"
+      },
+      {
+        "textDe": "bei Beleidigungen oder Verleumdungen",
+        "textEn": "in cases of insults or defamation"
+      },
+      {
+        "textDe": "bei der Veröffentlichung von wissenschaftlichen Studien",
+        "textEn": "when publishing scientific studies"
+      },
+      {
+        "textDe": "bei der Äußerung von Kritik an der Regierung",
+        "textEn": "when expressing criticism of the government"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 191,
+    "taskNumber": 191,
+    "category": "Politik in Deutschland",
+    "questionDe": "In Deutschland sind Ehe und Familie besonders geschützt. Was bedeutet das?",
+    "questionEn": "In Germany, marriage and family are particularly protected. What does that mean?",
+    "options": [
+      {
+        "textDe": "Der Staat darf sich nicht um Ehe- und Familienangelegenheiten kümmern.",
+        "textEn": "The state may not concern itself with marriage and family matters."
+      },
+      {
+        "textDe": "Ehepaare dürfen keine Kinder adoptieren.",
+        "textEn": "Married couples are not allowed to adopt children."
+      },
+      {
+        "textDe": "Der Staat fördert Familien zum Beispiel mit Elterngeld.",
+        "textEn": "The state supports families, for example, with parental benefits."
+      },
+      {
+        "textDe": "Nur verheiratete Paare dürfen Kinder haben.",
+        "textEn": "Only married couples are allowed to have children."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 192,
+    "taskNumber": 192,
+    "category": "Politik in Deutschland",
+    "questionDe": "Welches Recht haben Ehepaare in Deutschland?",
+    "questionEn": "Which right do married couples have in Germany?",
+    "options": [
+      {
+        "textDe": "Sie dürfen sich nicht scheiden lassen.",
+        "textEn": "They are not allowed to divorce."
+      },
+      {
+        "textDe": "Sie müssen beide berufstätig sein.",
+        "textEn": "Both must be employed."
+      },
+      {
+        "textDe": "Sie können vor Gericht aussagen, ohne die Wahrheit sagen zu müssen.",
+        "textEn": "They can testify in court without having to tell the truth."
+      },
+      {
+        "textDe": "Sie werden vom Staat besonders geschützt.",
+        "textEn": "They are particularly protected by the state."
+      }
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 193,
+    "taskNumber": 193,
+    "category": "Politik in Deutschland",
+    "questionDe": "Eine Scheidung ist in Deutschland nur möglich …",
+    "questionEn": "A divorce in Germany is only possible...",
+    "options": [
+      {
+        "textDe": "wenn die Eheleute mindestens drei Jahre verheiratet waren.",
+        "textEn": "if the spouses have been married for at least three years."
+      },
+      {
+        "textDe": "bei einem Notar.",
+        "textEn": "at a notary."
+      },
+      {
+        "textDe": "vor einem Gericht.",
+        "textEn": "before a court."
+      },
+      {
+        "textDe": "nur mit Zustimmung beider Eheleute.",
+        "textEn": "only with the consent of both spouses."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 194,
+    "taskNumber": 194,
+    "category": "Politik in Deutschland",
+    "questionDe": "In Deutschland können Eltern die Schule für ihre Kinder frei wählen, wenn …",
+    "questionEn": "In Germany, parents can freely choose the school for their children if...",
+    "options": [
+      {
+        "textDe": "sie möchten, dass die Kinder eine private Schule besuchen.",
+        "textEn": "they want the children to attend a private school."
+      },
+      {
+        "textDe": "die Kinder einen Realschulabschluss machen möchten.",
+        "textEn": "the children want to obtain a Realschule certificate."
+      },
+      {
+        "textDe": "die Kinder auf ein Gymnasium gehen sollen.",
+        "textEn": "the children are to go to a Gymnasium."
+      },
+      {
+        "textDe": "die Eltern reich sind.",
+        "textEn": "the parents are rich."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 195,
+    "taskNumber": 195,
+    "category": "Politik in Deutschland",
+    "questionDe": "Die Schulbildung in Deutschland ist …",
+    "questionEn": "School education in Germany is...",
+    "options": [
+      {
+        "textDe": "Aufgabe der Kirchen.",
+        "textEn": "a task of the churches."
+      },
+      {
+        "textDe": "Aufgabe der Bundesländer.",
+        "textEn": "a task of the federal states."
+      },
+      {
+        "textDe": "Aufgabe des Bundes.",
+        "textEn": "a task of the federal government."
+      },
+      {
+        "textDe": "Aufgabe der Gemeinden.",
+        "textEn": "a task of the municipalities."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 196,
+    "taskNumber": 196,
+    "category": "Politik in Deutschland",
+    "questionDe": "In Deutschland müssen alle Kinder in die Schule gehen. Wie nennt man das?",
+    "questionEn": "In Germany, all children must go to school. What is that called?",
+    "options": [
+      {
+        "textDe": "Schulpflicht",
+        "textEn": "Compulsory schooling"
+      },
+      {
+        "textDe": "Lernpflicht",
+        "textEn": "Compulsory learning"
+      },
+      {
+        "textDe": "Bildungspflicht",
+        "textEn": "Compulsory education"
+      },
+      {
+        "textDe": "Anwesenheitspflicht",
+        "textEn": "Compulsory attendance"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 197,
+    "taskNumber": 197,
+    "category": "Politik in Deutschland",
+    "questionDe": "Wer entscheidet in Deutschland, ob ein Kind in die Schule geht?",
+    "questionEn": "Who decides in Germany whether a child goes to school?",
+    "options": [
+      {
+        "textDe": "die Eltern",
+        "textEn": "the parents"
+      },
+      {
+        "textDe": "das Kind",
+        "textEn": "the child"
+      },
+      {
+        "textDe": "der Staat",
+        "textEn": "the state"
+      },
+      {
+        "textDe": "die Schule",
+        "textEn": "the school"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 198,
+    "taskNumber": 198,
+    "category": "Politik in Deutschland",
+    "questionDe": "Was bedeutet die Abkürzung „EU“?",
+    "questionEn": "What does the abbreviation \"EU\" mean?",
+    "options": [
+      {
+        "textDe": "Europäische Union",
+        "textEn": "European Union"
+      },
+      {
+        "textDe": "Europäische Unternehmen",
+        "textEn": "European Enterprises"
+      },
+      {
+        "textDe": "Europäisches Parlament",
+        "textEn": "European Parliament"
+      },
+      {
+        "textDe": "Europäische Einheit",
+        "textEn": "European Unity"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 199,
+    "taskNumber": 199,
+    "category": "Politik in Deutschland",
+    "questionDe": "Wann wurde die Europäische Union (EU) gegründet?",
+    "questionEn": "When was the European Union (EU) founded?",
+    "options": [
+      {
+        "textDe": "1949",
+        "textEn": "1949"
+      },
+      {
+        "textDe": "1958",
+        "textEn": "1958"
+      },
+      {
+        "textDe": "1993",
+        "textEn": "1993"
+      },
+      {
+        "textDe": "2001",
+        "textEn": "2001"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 200,
+    "taskNumber": 200,
+    "category": "Politik in Deutschland",
+    "questionDe": "Wie viele Mitgliedstaaten hat die EU heute?",
+    "questionEn": "How many member states does the EU have today?",
+    "options": [
+      {
+        "textDe": "27",
+        "textEn": "27"
+      },
+      {
+        "textDe": "28",
+        "textEn": "28"
+      },
+      {
+        "textDe": "30",
+        "textEn": "30"
+      },
+      {
+        "textDe": "32",
+        "textEn": "32"
+      }
+    ],
+    "correctIndex": 0
+  }
+]

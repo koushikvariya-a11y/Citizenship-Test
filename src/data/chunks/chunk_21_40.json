@@ -1,0 +1,522 @@
+[
+  {
+    "id": 21,
+    "taskNumber": 21,
+    "category": "Leben in der Demokratie",
+    "questionDe": "In Deutschland sind Jugendliche ab 14 Jahren strafmündig. Das bedeutet: Jugendliche in diesem Alter ...",
+    "questionEn": "In Germany, young people are criminally responsible from the age of 14. This means: young people at this age ...",
+    "options": [
+      {
+        "textDe": "können nicht mehr von ihren Eltern bestraft werden.",
+        "textEn": "can no longer be punished by their parents."
+      },
+      {
+        "textDe": "können für Straftaten bestraft werden.",
+        "textEn": "can be punished for criminal offenses."
+      },
+      {
+        "textDe": "dürfen Auto fahren.",
+        "textEn": "are allowed to drive a car."
+      },
+      {
+        "textDe": "dürfen wählen.",
+        "textEn": "are allowed to vote."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 22,
+    "taskNumber": 22,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Zu welchem Zweck gibt es Gesetze in Deutschland?",
+    "questionEn": "For what purpose are there laws in Germany?",
+    "options": [
+      {
+        "textDe": "um das Zusammenleben der Menschen zu regeln",
+        "textEn": "to regulate how people live together"
+      },
+      {
+        "textDe": "um Bürger und Bürgerinnen zu unterdrücken",
+        "textEn": "to oppress citizens"
+      },
+      {
+        "textDe": "um die Wirtschaft zu behindern",
+        "textEn": "to hinder the economy"
+      },
+      {
+        "textDe": "um den Staat reicher zu machen",
+        "textEn": "to make the state richer"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 23,
+    "taskNumber": 23,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Wer beschließt in Deutschland neue Gesetze?",
+    "questionEn": "Who passes new laws in Germany?",
+    "options": [
+      {
+        "textDe": "die Regierung",
+        "textEn": "the government"
+      },
+      {
+        "textDe": "das Parlament",
+        "textEn": "the parliament"
+      },
+      {
+        "textDe": "die Gerichte",
+        "textEn": "the courts"
+      },
+      {
+        "textDe": "die Polizei",
+        "textEn": "the police"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 24,
+    "taskNumber": 24,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Wann ist ein Staat ein „Rechtsstaat“?",
+    "questionEn": "When is a state a \"constitutional state\" (Rechtsstaat)?",
+    "options": [
+      {
+        "textDe": "wenn das Volk nur rechts wählt",
+        "textEn": "when the people only vote for right-wing parties"
+      },
+      {
+        "textDe": "wenn der Staat die Gesetze einhalten muss",
+        "textEn": "when the state must abide by the laws"
+      },
+      {
+        "textDe": "wenn es nur rechte Parteien gibt",
+        "textEn": "when there are only right-wing parties"
+      },
+      {
+        "textDe": "wenn der Staat keine Gesetze hat",
+        "textEn": "when the state has no laws"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 25,
+    "taskNumber": 25,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Was ist kein Merkmal unseres Rechtsstaates?",
+    "questionEn": "What is not a characteristic of our constitutional state?",
+    "options": [
+      {
+        "textDe": "die Gewaltenteilung",
+        "textEn": "the separation of powers"
+      },
+      {
+        "textDe": "die Unabhängigkeit der Gerichte",
+        "textEn": "the independence of the courts"
+      },
+      {
+        "textDe": "die Zensur der Presse",
+        "textEn": "the censorship of the press"
+      },
+      {
+        "textDe": "die Gesetzmäßigkeit der Verwaltung",
+        "textEn": "the legality of the administration"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 26,
+    "taskNumber": 26,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Was gilt in Deutschland für die Gesetzgebung?",
+    "questionEn": "What applies to legislation in Germany?",
+    "options": [
+      {
+        "textDe": "Die Regierung steht über dem Gesetz.",
+        "textEn": "The government is above the law."
+      },
+      {
+        "textDe": "Die Gesetze müssen sich an die Verfassung halten.",
+        "textEn": "Laws must comply with the constitution."
+      },
+      {
+        "textDe": "Die Gerichte dürfen Gesetze nicht kritisieren.",
+        "textEn": "Courts are not allowed to criticize laws."
+      },
+      {
+        "textDe": "Es gibt keine Gesetze für die Regierung.",
+        "textEn": "There are no laws for the government."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 27,
+    "taskNumber": 27,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Was machen Richter und Richterinnen in Deutschland?",
+    "questionEn": "What do judges do in Germany?",
+    "options": [
+      {
+        "textDe": "Sie arbeiten bei der Bundesregierung.",
+        "textEn": "They work for the Federal Government."
+      },
+      {
+        "textDe": "Sie gehören zur gesetzgebenden Gewalt.",
+        "textEn": "They belong to the legislative branch."
+      },
+      {
+        "textDe": "Sie sprechen Recht im Namen des Volkes.",
+        "textEn": "They administer justice in the name of the people."
+      },
+      {
+        "textDe": "Sie leiten die Polizei.",
+        "textEn": "They lead the police."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 28,
+    "taskNumber": 28,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Wer sorgt in Deutschland dafür, dass die Gesetze eingehalten werden?",
+    "questionEn": "Who ensures in Germany that laws are complied with?",
+    "options": [
+      {
+        "textDe": "die Polizei und die Gerichte",
+        "textEn": "the police and the courts"
+      },
+      {
+        "textDe": "die Bundeswehr",
+        "textEn": "the Federal Armed Forces (Bundeswehr)"
+      },
+      {
+        "textDe": "die Parteien",
+        "textEn": "the political parties"
+      },
+      {
+        "textDe": "die Kirchen",
+        "textEn": "the churches"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 29,
+    "taskNumber": 29,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Wer vertritt die Anklage vor Gericht in Deutschland?",
+    "questionEn": "Who represents the prosecution in court in Germany?",
+    "options": [
+      {
+        "textDe": "der Staatsanwalt / die Staatsanwältin",
+        "textEn": "the public prosecutor"
+      },
+      {
+        "textDe": "der Richter / die Richterin",
+        "textEn": "the judge"
+      },
+      {
+        "textDe": "der Rechtsanwalt / die Rechtsanwältin",
+        "textEn": "the defense lawyer"
+      },
+      {
+        "textDe": "der Polizeipräsident / die Polizeipräsidentin",
+        "textEn": "the police commissioner"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 30,
+    "taskNumber": 30,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Wer berät in Deutschland Personen bei Rechtsfragen und vertritt sie vor Gericht?",
+    "questionEn": "Who advises people on legal matters and represents them in court in Germany?",
+    "options": [
+      {
+        "textDe": "ein Rechtsanwalt / eine Rechtsanwältin",
+        "textEn": "a lawyer"
+      },
+      {
+        "textDe": "ein Richter / eine Richterin",
+        "textEn": "a judge"
+      },
+      {
+        "textDe": "ein Staatsanwalt / eine Staatsanwältin",
+        "textEn": "a public prosecutor"
+      },
+      {
+        "textDe": "ein Notar / eine Notarin",
+        "textEn": "a notary"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 31,
+    "taskNumber": 31,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Was für eine Staatsform hat Deutschland?",
+    "questionEn": "What form of government does Germany have?",
+    "options": [
+      {
+        "textDe": "Monarchie",
+        "textEn": "Monarchy"
+      },
+      {
+        "textDe": "Diktatur",
+        "textEn": "Dictatorship"
+      },
+      {
+        "textDe": "Republik",
+        "textEn": "Republic"
+      },
+      {
+        "textDe": "Fürstentum",
+        "textEn": "Principality"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 32,
+    "taskNumber": 32,
+    "category": "Leben in der Demokratie",
+    "questionDe": "In Deutschland sind die meisten Erwerbstätigen ...",
+    "questionEn": "In Germany, most employed people are ...",
+    "options": [
+      {
+        "textDe": "in der Landwirtschaft beschäftigt.",
+        "textEn": "employed in agriculture."
+      },
+      {
+        "textDe": "selbstständig.",
+        "textEn": "self-employed."
+      },
+      {
+        "textDe": "bei Behörden angestellt.",
+        "textEn": "employed by public authorities."
+      },
+      {
+        "textDe": "als Arbeitnehmer oder Arbeitnehmerinnen bei einer Firma oder Behörde beschäftigt.",
+        "textEn": "employed as employees at a company or public authority."
+      }
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 33,
+    "taskNumber": 33,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Wie viele Bundesländer hat die Bundesrepublik Deutschland?",
+    "questionEn": "How many federal states (Bundesländer) does the Federal Republic of Germany have?",
+    "options": [
+      {
+        "textDe": "14",
+        "textEn": "14"
+      },
+      {
+        "textDe": "15",
+        "textEn": "15"
+      },
+      {
+        "textDe": "16",
+        "textEn": "16"
+      },
+      {
+        "textDe": "17",
+        "textEn": "17"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 34,
+    "taskNumber": 34,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Was ist kein Bundesland der Bundesrepublik Deutschland?",
+    "questionEn": "Which of the following is not a federal state of the Federal Republic of Germany?",
+    "options": [
+      {
+        "textDe": "Nordrhein-Westfalen",
+        "textEn": "North Rhine-Westphalia"
+      },
+      {
+        "textDe": "Elsass-Lothringen",
+        "textEn": "Alsace-Lorraine"
+      },
+      {
+        "textDe": "Mecklenburg-Vorpommern",
+        "textEn": "Mecklenburg-Western Pomerania"
+      },
+      {
+        "textDe": "Sachsen-Anhalt",
+        "textEn": "Saxony-Anhalt"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 35,
+    "taskNumber": 35,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Deutschland ist ein Bundesstaat. Was bedeutet das?",
+    "questionEn": "Germany is a federal state. What does this mean?",
+    "options": [
+      {
+        "textDe": "Die Bundesländer haben keine eigenen Regierungen.",
+        "textEn": "The federal states do not have their own governments."
+      },
+      {
+        "textDe": "Deutschland besteht aus mehreren Bundesländern.",
+        "textEn": "Germany consists of several federal states."
+      },
+      {
+        "textDe": "Die Bundesregierung entscheidet alles allein.",
+        "textEn": "The federal government decides everything on its own."
+      },
+      {
+        "textDe": "Es gibt keine Grenzen zwischen den Bundesländern.",
+        "textEn": "There are no borders between the federal states."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 36,
+    "taskNumber": 36,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Deutschland ist eine demokratische Republik. Was bedeutet das?",
+    "questionEn": "Germany is a democratic republic. What does this mean?",
+    "options": [
+      {
+        "textDe": "Das Volk wählt die Regierung.",
+        "textEn": "The people elect the government."
+      },
+      {
+        "textDe": "Der König bestimmt die Gesetze.",
+        "textEn": "The king determines the laws."
+      },
+      {
+        "textDe": "Die Gerichte regieren das Land.",
+        "textEn": "The courts govern the country."
+      },
+      {
+        "textDe": "Es gibt keine Wahlen.",
+        "textEn": "There are no elections."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 37,
+    "taskNumber": 37,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Deutschland ist ein Rechtsstaat. Was bedeutet das?",
+    "questionEn": "Germany is a constitutional state (Rechtsstaat). What does this mean?",
+    "options": [
+      {
+        "textDe": "Alle Bürger und Bürgerinnen und der Staat müssen sich an die Gesetze halten.",
+        "textEn": "All citizens and the state must abide by the laws."
+      },
+      {
+        "textDe": "Es gibt nur rechte Parteien.",
+        "textEn": "There are only right-wing parties."
+      },
+      {
+        "textDe": "Die Gerichte sind nicht unabhängig.",
+        "textEn": "The courts are not independent."
+      },
+      {
+        "textDe": "Der Staat darf tun, was er will.",
+        "textEn": "The state can do whatever it wants."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 38,
+    "taskNumber": 38,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Deutschland ist ein Sozialstaat. Was bedeutet das?",
+    "questionEn": "Germany is a welfare state (Sozialstaat). What does this mean?",
+    "options": [
+      {
+        "textDe": "Der Staat hilft Menschen, die sich nicht selbst helfen können.",
+        "textEn": "The state helps people who cannot help themselves."
+      },
+      {
+        "textDe": "Alle Bürger und Bürgerinnen müssen Steuern zahlen.",
+        "textEn": "All citizens must pay taxes."
+      },
+      {
+        "textDe": "Es gibt keine sozialen Unterschiede.",
+        "textEn": "There are no social differences."
+      },
+      {
+        "textDe": "Der Staat kontrolliert alle Medien.",
+        "textEn": "The state controls all media."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 39,
+    "taskNumber": 39,
+    "category": "Leben in der Demokratie",
+    "questionDe": "In Deutschland regiert das Volk. Was bedeutet das?",
+    "questionEn": "In Germany, the people rule. What does this mean?",
+    "options": [
+      {
+        "textDe": "Die Bürger und Bürgerinnen wählen Vertreter und Vertreterinnen, die Gesetze beschließen.",
+        "textEn": "Citizens elect representatives who pass laws."
+      },
+      {
+        "textDe": "Jeder Bürger darf Gesetze schreiben.",
+        "textEn": "Every citizen is allowed to write laws."
+      },
+      {
+        "textDe": "Es gibt keine Regierung.",
+        "textEn": "There is no government."
+      },
+      {
+        "textDe": "Die Gerichte entscheiden alles.",
+        "textEn": "The courts decide everything."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 40,
+    "taskNumber": 40,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Welche Staatsform hat Deutschland?",
+    "questionEn": "What form of government does Germany have?",
+    "options": [
+      {
+        "textDe": "eine parlamentarische Demokratie",
+        "textEn": "a parliamentary democracy"
+      },
+      {
+        "textDe": "eine absolute Monarchie",
+        "textEn": "an absolute monarchy"
+      },
+      {
+        "textDe": "eine Militärdiktatur",
+        "textEn": "a military dictatorship"
+      },
+      {
+        "textDe": "eine sozialistische Republik",
+        "textEn": "a socialist republic"
+      }
+    ],
+    "correctIndex": 0
+  }
+]

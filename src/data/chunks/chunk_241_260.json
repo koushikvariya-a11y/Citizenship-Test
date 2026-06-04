@@ -1,0 +1,522 @@
+[
+  {
+    "id": 241,
+    "taskNumber": 241,
+    "category": "Demokratie und Rechtsstaat",
+    "questionDe": "Welches Recht gehört zu den Grundrechten in Deutschland?",
+    "questionEn": "Which right is one of the fundamental rights in Germany?",
+    "options": [
+      {
+        "textDe": "Das Recht auf freie Berufswahl.",
+        "textEn": "The right to free choice of occupation."
+      },
+      {
+        "textDe": "Das Recht auf kostenlose Bildung in allen Bereichen.",
+        "textEn": "The right to free education in all areas."
+      },
+      {
+        "textDe": "Das Recht auf einen eigenen Pkw.",
+        "textEn": "The right to own a private car."
+      },
+      {
+        "textDe": "Das Recht auf eine Arbeitsstelle.",
+        "textEn": "The right to a job."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 242,
+    "taskNumber": 242,
+    "category": "Demokratie und Rechtsstaat",
+    "questionDe": "Was ist mit dem deutschen Grundgesetz vereinbar?",
+    "questionEn": "What is compatible with the German Basic Law?",
+    "options": [
+      {
+        "textDe": "Jeder darf seine Meinung in der Öffentlichkeit sagen.",
+        "textEn": "Everyone may express their opinion publicly."
+      },
+      {
+        "textDe": "Alle müssen die gleiche Religion haben.",
+        "textEn": "Everyone must have the same religion."
+      },
+      {
+        "textDe": "Niemand darf eine andere Meinung als der Staat haben.",
+        "textEn": "No one may have a different opinion than the state."
+      },
+      {
+        "textDe": "Es gibt nur eine Partei.",
+        "textEn": "There is only one party."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 243,
+    "taskNumber": 243,
+    "category": "Demokratie und Rechtsstaat",
+    "questionDe": "Welches Recht ist ein Grundrecht und in Deutschland garantiert?",
+    "questionEn": "Which right is a fundamental right and guaranteed in Germany?",
+    "options": [
+      {
+        "textDe": "Recht auf Religionsfreiheit",
+        "textEn": "Right to freedom of religion"
+      },
+      {
+        "textDe": "Recht auf Arbeit",
+        "textEn": "Right to work"
+      },
+      {
+        "textDe": "Recht auf Wohnen",
+        "textEn": "Right to housing"
+      },
+      {
+        "textDe": "Recht auf Bildung",
+        "textEn": "Right to education"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 244,
+    "taskNumber": 244,
+    "category": "Demokratie und Rechtsstaat",
+    "questionDe": "Was ist eine Aufgabe des Staates in Deutschland?",
+    "questionEn": "What is a task of the state in Germany?",
+    "options": [
+      {
+        "textDe": "Er muss die Meinungsfreiheit der Bürger schützen.",
+        "textEn": "It must protect the freedom of opinion of citizens."
+      },
+      {
+        "textDe": "Er muss dafür sorgen, dass alle Bürger die gleiche Religion haben.",
+        "textEn": "It must ensure that all citizens have the same religion."
+      },
+      {
+        "textDe": "Er muss dafür sorgen, dass alle Bürger am gleichen Ort wohnen.",
+        "textEn": "It must ensure that all citizens live in the same place."
+      },
+      {
+        "textDe": "Er muss die Löhne und Gehälter festlegen.",
+        "textEn": "It must set wages and salaries."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 245,
+    "taskNumber": 245,
+    "category": "Demokratie und Rechtsstaat",
+    "questionDe": "Was bedeutet „Volkssouveränität“?",
+    "questionEn": "What does \"popular sovereignty\" mean?",
+    "options": [
+      {
+        "textDe": "Der König / die Königin herrscht über das Volk.",
+        "textEn": "The king/queen rules over the people."
+      },
+      {
+        "textDe": "Das Volk bestimmt, wer regiert.",
+        "textEn": "The people determine who governs."
+      },
+      {
+        "textDe": "Das Militär herrscht über das Volk.",
+        "textEn": "The military rules over the people."
+      },
+      {
+        "textDe": "Die Verfassung gibt vor, wer regiert.",
+        "textEn": "The constitution dictates who governs."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 246,
+    "taskNumber": 246,
+    "category": "Demokratie und Rechtsstaat",
+    "questionDe": "Was bedeutet „Gewaltenteilung“ in Deutschland?",
+    "questionEn": "What does \"separation of powers\" mean in Germany?",
+    "options": [
+      {
+        "textDe": "Der Staat muss Gewaltenteilung auf alle Bürger anwenden.",
+        "textEn": "The state must apply separation of powers to all citizens."
+      },
+      {
+        "textDe": "Die Macht des Staates ist in drei Bereiche geteilt.",
+        "textEn": "The power of the state is divided into three branches."
+      },
+      {
+        "textDe": "Nur der Adel darf Gesetze erlassen.",
+        "textEn": "Only the nobility may enact laws."
+      },
+      {
+        "textDe": "Das Volk darf keine Gesetze erlassen.",
+        "textEn": "The people may not enact laws."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 247,
+    "taskNumber": 247,
+    "category": "Demokratie und Rechtsstaat",
+    "questionDe": "Wer kontrolliert in Deutschland die Einhaltung der Gesetze?",
+    "questionEn": "Who monitors compliance with laws in Germany?",
+    "options": [
+      {
+        "textDe": "Die Gerichte",
+        "textEn": "The courts"
+      },
+      {
+        "textDe": "Die Polizei",
+        "textEn": "The police"
+      },
+      {
+        "textDe": "Die Regierung",
+        "textEn": "The government"
+      },
+      {
+        "textDe": "Das Parlament",
+        "textEn": "The parliament"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 248,
+    "taskNumber": 248,
+    "category": "Demokratie und Rechtsstaat",
+    "questionDe": "Was ist die Aufgabe der Judikative in Deutschland?",
+    "questionEn": "What is the task of the judiciary in Germany?",
+    "options": [
+      {
+        "textDe": "Sie plant und baut Straßen.",
+        "textEn": "It plans and builds roads."
+      },
+      {
+        "textDe": "Sie wählt den Bundeskanzler / die Bundeskanzlerin.",
+        "textEn": "It elects the Federal Chancellor."
+      },
+      {
+        "textDe": "Sie spricht Recht.",
+        "textEn": "It administers justice."
+      },
+      {
+        "textDe": "Sie verwaltet die Schulen.",
+        "textEn": "It administers schools."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 249,
+    "taskNumber": 249,
+    "category": "Demokratie und Rechtsstaat",
+    "questionDe": "Wer wählt in Deutschland die Abgeordneten des Bundestages?",
+    "questionEn": "Who elects the members of the Bundestag in Germany?",
+    "options": [
+      {
+        "textDe": "Das Volk",
+        "textEn": "The people"
+      },
+      {
+        "textDe": "Die Bundesversammlung",
+        "textEn": "The Federal Convention"
+      },
+      {
+        "textDe": "Die Landesparlamente",
+        "textEn": "The state parliaments"
+      },
+      {
+        "textDe": "Die Europäische Union",
+        "textEn": "The European Union"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 250,
+    "taskNumber": 250,
+    "category": "Demokratie und Rechtsstaat",
+    "questionDe": "Welches politische Recht ist in Deutschland an das Lebensalter gebunden?",
+    "questionEn": "Which political right in Germany is tied to age?",
+    "options": [
+      {
+        "textDe": "Das Wahlrecht",
+        "textEn": "The right to vote"
+      },
+      {
+        "textDe": "Das Recht auf freie Meinungsäußerung",
+        "textEn": "The right to freedom of expression"
+      },
+      {
+        "textDe": "Das Recht auf Versammlungsfreiheit",
+        "textEn": "The right to freedom of assembly"
+      },
+      {
+        "textDe": "Das Recht auf Vereinigungsfreiheit",
+        "textEn": "The right to freedom of association"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 251,
+    "taskNumber": 251,
+    "category": "Demokratie und Rechtsstaat",
+    "questionDe": "Ab welchem Alter darf man in Deutschland an der Wahl zum Bundestag teilnehmen?",
+    "questionEn": "From what age can one participate in the Bundestag election in Germany?",
+    "options": [
+      {
+        "textDe": "Ab 16 Jahren",
+        "textEn": "From 16 years"
+      },
+      {
+        "textDe": "Ab 18 Jahren",
+        "textEn": "From 18 years"
+      },
+      {
+        "textDe": "Ab 21 Jahren",
+        "textEn": "From 21 years"
+      },
+      {
+        "textDe": "Ab 23 Jahren",
+        "textEn": "From 23 years"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 252,
+    "taskNumber": 252,
+    "category": "Demokratie und Rechtsstaat",
+    "questionDe": "Die Wahlen in Deutschland sind …",
+    "questionEn": "Elections in Germany are...",
+    "options": [
+      {
+        "textDe": "allgemein, direkt, frei, gleich und geheim.",
+        "textEn": "general, direct, free, equal, and secret."
+      },
+      {
+        "textDe": "offen, für jeden zugänglich, direkt, kontrolliert und geheim.",
+        "textEn": "open, accessible to everyone, direct, controlled, and secret."
+      },
+      {
+        "textDe": "besonders, indirekt, eingeschränkt, ungleich und offen.",
+        "textEn": "special, indirect, restricted, unequal, and open."
+      },
+      {
+        "textDe": "verdeckt, nicht für jeden zugänglich, direkt, gleich und geheim.",
+        "textEn": "hidden, not accessible to everyone, direct, equal, and secret."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 253,
+    "taskNumber": 253,
+    "category": "Demokratie und Rechtsstaat",
+    "questionDe": "Was ist keine Voraussetzung für die Teilnahme an der Bundestagswahl in Deutschland?",
+    "questionEn": "What is not a prerequisite for participating in the Bundestag election in Germany?",
+    "options": [
+      {
+        "textDe": "Man muss mindestens 18 Jahre alt sein.",
+        "textEn": "One must be at least 18 years old."
+      },
+      {
+        "textDe": "Man muss deutscher Staatsbürger / deutsche Staatsbürgerin sein.",
+        "textEn": "One must be a German citizen."
+      },
+      {
+        "textDe": "Man muss seit mindestens drei Monaten in Deutschland leben.",
+        "textEn": "One must have lived in Germany for at least three months."
+      },
+      {
+        "textDe": "Man muss in einem Wählerverzeichnis eingetragen sein.",
+        "textEn": "One must be registered in an electoral roll."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 254,
+    "taskNumber": 254,
+    "category": "Demokratie und Rechtsstaat",
+    "questionDe": "Welches Recht gehört zu den Grundrechten, die nach dem deutschen Grundgesetz nur Deutsche haben?",
+    "questionEn": "Which right is one of the fundamental rights that, according to the German Basic Law, only Germans have?",
+    "options": [
+      {
+        "textDe": "Das Recht auf Meinungsfreiheit",
+        "textEn": "The right to freedom of opinion"
+      },
+      {
+        "textDe": "Das Recht auf Versammlungsfreiheit",
+        "textEn": "The right to freedom of assembly"
+      },
+      {
+        "textDe": "Das Recht auf Freizügigkeit",
+        "textEn": "The right to freedom of movement"
+      },
+      {
+        "textDe": "Das Recht, eine Partei zu gründen",
+        "textEn": "The right to found a political party"
+      }
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 255,
+    "taskNumber": 255,
+    "category": "Demokratie und Rechtsstaat",
+    "questionDe": "Wer kann in Deutschland eine politische Partei gründen?",
+    "questionEn": "Who can found a political party in Germany?",
+    "options": [
+      {
+        "textDe": "Jeder, der die deutsche Staatsbürgerschaft besitzt.",
+        "textEn": "Anyone who possesses German citizenship."
+      },
+      {
+        "textDe": "Nur Personen, die mindestens 18 Jahre alt sind.",
+        "textEn": "Only persons who are at least 18 years old."
+      },
+      {
+        "textDe": "Alle Deutschen, die das Wahlrecht zum Bundestag besitzen.",
+        "textEn": "All Germans who have the right to vote for the Bundestag."
+      },
+      {
+        "textDe": "Jeder.",
+        "textEn": "Everyone."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 256,
+    "taskNumber": 256,
+    "category": "Demokratie und Rechtsstaat",
+    "questionDe": "Wofür gibt es in Deutschland die 5%-Hürde?",
+    "questionEn": "What is the 5% hurdle for in Germany?",
+    "options": [
+      {
+        "textDe": "Sie sichert die Arbeitsfähigkeit des Parlaments.",
+        "textEn": "It ensures the parliament's ability to function."
+      },
+      {
+        "textDe": "Sie erschwert die Regierungsbildung.",
+        "textEn": "It makes government formation more difficult."
+      },
+      {
+        "textDe": "Sie sichert die Rechte kleiner Parteien.",
+        "textEn": "It secures the rights of small parties."
+      },
+      {
+        "textDe": "Sie verhindert eine Blockade im Bundesrat.",
+        "textEn": "It prevents a blockade in the Bundesrat."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 257,
+    "taskNumber": 257,
+    "category": "Demokratie und Rechtsstaat",
+    "questionDe": "Die Bundestagswahl in Deutschland ist die Wahl …",
+    "questionEn": "The Bundestag election in Germany is the election of...",
+    "options": [
+      {
+        "textDe": "des Bundeskanzlers / der Bundeskanzlerin.",
+        "textEn": "the Federal Chancellor."
+      },
+      {
+        "textDe": "der Ministerpräsidenten / Ministerpräsidentinnen der Länder.",
+        "textEn": "the state prime ministers."
+      },
+      {
+        "textDe": "der Abgeordneten des Deutschen Bundestages.",
+        "textEn": "the members of the German Bundestag."
+      },
+      {
+        "textDe": "des Bundespräsidenten / der Bundespräsidentin.",
+        "textEn": "the Federal President."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 258,
+    "taskNumber": 258,
+    "category": "Demokratie und Rechtsstaat",
+    "questionDe": "Wie oft wird in Deutschland der Bundestag gewählt?",
+    "questionEn": "How often is the Bundestag elected in Germany?",
+    "options": [
+      {
+        "textDe": "Alle drei Jahre",
+        "textEn": "Every three years"
+      },
+      {
+        "textDe": "Alle vier Jahre",
+        "textEn": "Every four years"
+      },
+      {
+        "textDe": "Alle fünf Jahre",
+        "textEn": "Every five years"
+      },
+      {
+        "textDe": "Alle sechs Jahre",
+        "textEn": "Every six years"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 259,
+    "taskNumber": 259,
+    "category": "Demokratie und Rechtsstaat",
+    "questionDe": "Wer leitet mit den Ministern / Ministerinnen die deutsche Regierung?",
+    "questionEn": "Who leads the German government with the ministers?",
+    "options": [
+      {
+        "textDe": "Der Bundespräsident / Die Bundespräsidentin",
+        "textEn": "The Federal President"
+      },
+      {
+        "textDe": "Der Präsident / Die Präsidentin des Bundesrates",
+        "textEn": "The President of the Bundesrat"
+      },
+      {
+        "textDe": "Der Bundeskanzler / Die Bundeskanzlerin",
+        "textEn": "The Federal Chancellor"
+      },
+      {
+        "textDe": "Der Präsident / Die Präsidentin des Bundestages",
+        "textEn": "The President of the Bundestag"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 260,
+    "taskNumber": 260,
+    "category": "Demokratie und Rechtsstaat",
+    "questionDe": "Wer ernennt in Deutschland die Bundesminister / Bundesministerinnen?",
+    "questionEn": "Who appoints the Federal Ministers in Germany?",
+    "options": [
+      {
+        "textDe": "Der Präsident / Die Präsidentin des Bundestages",
+        "textEn": "The President of the Bundestag"
+      },
+      {
+        "textDe": "Der Bundespräsident / Die Bundespräsidentin",
+        "textEn": "The Federal President"
+      },
+      {
+        "textDe": "Der Bundeskanzler / Die Bundeskanzlerin",
+        "textEn": "The Federal Chancellor"
+      },
+      {
+        "textDe": "Der Präsident / Die Präsidentin des Bundesrates",
+        "textEn": "The President of the Bundesrat"
+      }
+    ],
+    "correctIndex": 1
+  }
+]

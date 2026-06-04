@@ -1,0 +1,522 @@
+[
+  {
+    "id": 121,
+    "taskNumber": 121,
+    "category": "Politik in der Demokratie",
+    "questionDe": "In Deutschland gibt es drei staatliche Gewalten. Welche ist keine davon?",
+    "questionEn": "There are three state powers in Germany. Which of these is not one of them?",
+    "options": [
+      {
+        "textDe": "die Legislative",
+        "textEn": "the legislative branch"
+      },
+      {
+        "textDe": "die Exekutive",
+        "textEn": "the executive branch"
+      },
+      {
+        "textDe": "die Judikative",
+        "textEn": "the judicial branch"
+      },
+      {
+        "textDe": "die Direktive",
+        "textEn": "the directive branch"
+      }
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 122,
+    "taskNumber": 122,
+    "category": "Politik in der Demokratie",
+    "questionDe": "Welche Staatsform hat Deutschland?",
+    "questionEn": "What form of government does Germany have?",
+    "options": [
+      {
+        "textDe": "Monarchie",
+        "textEn": "Monarchy"
+      },
+      {
+        "textDe": "Diktatur",
+        "textEn": "Dictatorship"
+      },
+      {
+        "textDe": "Republik",
+        "textEn": "Republic"
+      },
+      {
+        "textDe": "Fürstentum",
+        "textEn": "Principality"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 123,
+    "taskNumber": 123,
+    "category": "Politik in der Demokratie",
+    "questionDe": "Wer wählt in Deutschland die Abgeordneten des Bundestages?",
+    "questionEn": "Who elects the members of the Bundestag in Germany?",
+    "options": [
+      {
+        "textDe": "das Militär",
+        "textEn": "the military"
+      },
+      {
+        "textDe": "die Wirtschaft",
+        "textEn": "the business community"
+      },
+      {
+        "textDe": "das wahlberechtigte Volk",
+        "textEn": "the eligible voting public"
+      },
+      {
+        "textDe": "die Verwaltung",
+        "textEn": "the administration"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 124,
+    "taskNumber": 124,
+    "category": "Politik in der Demokratie",
+    "questionDe": "Welches Tier ist das Wappentier der Bundesrepublik Deutschland?",
+    "questionEn": "Which animal is the heraldic animal of the Federal Republic of Germany?",
+    "options": [
+      {
+        "textDe": "Löwe",
+        "textEn": "Lion"
+      },
+      {
+        "textDe": "Bär",
+        "textEn": "Bear"
+      },
+      {
+        "textDe": "Adler",
+        "textEn": "Eagle"
+      },
+      {
+        "textDe": "Pferd",
+        "textEn": "Horse"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 125,
+    "taskNumber": 125,
+    "category": "Politik in der Demokratie",
+    "questionDe": "Was ist kein Merkmal unserer Demokratie?",
+    "questionEn": "What is not a feature of our democracy?",
+    "options": [
+      {
+        "textDe": "regelmäßige Wahlen",
+        "textEn": "regular elections"
+      },
+      {
+        "textDe": "Pressezensur",
+        "textEn": "press censorship"
+      },
+      {
+        "textDe": "Meinungsfreiheit",
+        "textEn": "freedom of speech"
+      },
+      {
+        "textDe": "Pluralismus",
+        "textEn": "pluralism"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 126,
+    "taskNumber": 126,
+    "category": "Politik in der Demokratie",
+    "questionDe": "Die Zusammenarbeit von Parteien zur Bildung einer Regierung nennt man in Deutschland ...",
+    "questionEn": "The cooperation of parties to form a government in Germany is called ...",
+    "options": [
+      {
+        "textDe": "Einheit.",
+        "textEn": "unity."
+      },
+      {
+        "textDe": "Koalition.",
+        "textEn": "coalition."
+      },
+      {
+        "textDe": "Ministerium.",
+        "textEn": "ministry."
+      },
+      {
+        "textDe": "Fraktion.",
+        "textEn": "parliamentary group."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 127,
+    "taskNumber": 127,
+    "category": "Politik in der Demokratie",
+    "questionDe": "Was ist keine staatliche Gewalt in Deutschland?",
+    "questionEn": "What is not a state power in Germany?",
+    "options": [
+      {
+        "textDe": "die Legislative",
+        "textEn": "the legislative branch"
+      },
+      {
+        "textDe": "die Exekutive",
+        "textEn": "the executive branch"
+      },
+      {
+        "textDe": "die Judikative",
+        "textEn": "the judicial branch"
+      },
+      {
+        "textDe": "die Presse",
+        "textEn": "the press"
+      }
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 128,
+    "taskNumber": 128,
+    "category": "Politik in der Demokratie",
+    "questionDe": "Welches Organ gehört zur Legislative in Deutschland?",
+    "questionEn": "Which body belongs to the legislative branch in Germany?",
+    "options": [
+      {
+        "textDe": "der Bundestag",
+        "textEn": "the Bundestag"
+      },
+      {
+        "textDe": "die Bundesregierung",
+        "textEn": "the Federal Government"
+      },
+      {
+        "textDe": "das Bundesverfassungsgericht",
+        "textEn": "the Federal Constitutional Court"
+      },
+      {
+        "textDe": "der Bundespräsident",
+        "textEn": "the Federal President"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 129,
+    "taskNumber": 129,
+    "category": "Politik in der Demokratie",
+    "questionDe": "Wer schreibt in Deutschland die Gesetze?",
+    "questionEn": "Who writes the laws in Germany?",
+    "options": [
+      {
+        "textDe": "die Bundesregierung",
+        "textEn": "the Federal Government"
+      },
+      {
+        "textDe": "die Richter und Richterinnen",
+        "textEn": "the judges"
+      },
+      {
+        "textDe": "das Parlament",
+        "textEn": "the parliament"
+      },
+      {
+        "textDe": "die Bundeswehr",
+        "textEn": "the Federal Armed Forces"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 130,
+    "taskNumber": 130,
+    "category": "Politik in der Demokratie",
+    "questionDe": "Was ist eine Aufgabe von Richterinnen und Richtern in Deutschland?",
+    "questionEn": "What is a task of judges in Germany?",
+    "options": [
+      {
+        "textDe": "Gesetze beschließen",
+        "textEn": "to pass laws"
+      },
+      {
+        "textDe": "Recht sprechen",
+        "textEn": "to administer justice"
+      },
+      {
+        "textDe": "die Regierung kontrollieren",
+        "textEn": "to monitor the government"
+      },
+      {
+        "textDe": "Gesetze vorschlagen",
+        "textEn": "to propose laws"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 131,
+    "taskNumber": 131,
+    "category": "Politik in der Demokratie",
+    "questionDe": "Ein Richter / eine Richterin in Deutschland gehört zur ...",
+    "questionEn": "A judge in Germany belongs to the ...",
+    "options": [
+      {
+        "textDe": "Judikative.",
+        "textEn": "judicial branch."
+      },
+      {
+        "textDe": "Legislative.",
+        "textEn": "legislative branch."
+      },
+      {
+        "textDe": "Exekutive.",
+        "textEn": "executive branch."
+      },
+      {
+        "textDe": "Präventive.",
+        "textEn": "preventive branch."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 132,
+    "taskNumber": 132,
+    "category": "Politik in der Demokratie",
+    "questionDe": "Wer sorgt in Deutschland für die Einhaltung der Gesetze?",
+    "questionEn": "Who ensures compliance with the laws in Germany?",
+    "options": [
+      {
+        "textDe": "die Polizei",
+        "textEn": "the police"
+      },
+      {
+        "textDe": "die Bundeswehr",
+        "textEn": "the Federal Armed Forces"
+      },
+      {
+        "textDe": "die Gerichte",
+        "textEn": "the courts"
+      },
+      {
+        "textDe": "die Regierung",
+        "textEn": "the government"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 133,
+    "taskNumber": 133,
+    "category": "Politik in der Demokratie",
+    "questionDe": "Welches Recht gehört zu den Grundrechten in Deutschland?",
+    "questionEn": "Which right belongs to the basic rights in Germany?",
+    "options": [
+      {
+        "textDe": "Waffenbesitz",
+        "textEn": "possession of weapons"
+      },
+      {
+        "textDe": "Faustrecht",
+        "textEn": "fist law (law of the jungle)"
+      },
+      {
+        "textDe": "Meinungsfreiheit",
+        "textEn": "freedom of speech"
+      },
+      {
+        "textDe": "Selbstjustiz",
+        "textEn": "vigilante justice"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 134,
+    "taskNumber": 134,
+    "category": "Politik in der Demokratie",
+    "questionDe": "Was ist kein Grundrecht in Deutschland?",
+    "questionEn": "What is not a basic right in Germany?",
+    "options": [
+      {
+        "textDe": "die Unverletzlichkeit der Wohnung",
+        "textEn": "the inviolability of the home"
+      },
+      {
+        "textDe": "das Recht auf freie Meinungsäußerung",
+        "textEn": "the right to free expression of opinion"
+      },
+      {
+        "textDe": "das Recht auf Arbeit",
+        "textEn": "the right to work"
+      },
+      {
+        "textDe": "die Versammlungsfreiheit",
+        "textEn": "freedom of assembly"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 135,
+    "taskNumber": 135,
+    "category": "Politik in der Demokratie",
+    "questionDe": "Welches Recht gehört nicht zu den Grundrechten in Deutschland?",
+    "questionEn": "Which right does not belong to the basic rights in Germany?",
+    "options": [
+      {
+        "textDe": "das Recht auf freie Meinungsäußerung",
+        "textEn": "the right to free expression of opinion"
+      },
+      {
+        "textDe": "die Glaubens- und Gewissensfreiheit",
+        "textEn": "freedom of faith and conscience"
+      },
+      {
+        "textDe": "die Versammlungsfreiheit",
+        "textEn": "freedom of assembly"
+      },
+      {
+        "textDe": "das Recht auf Selbstjustiz",
+        "textEn": "the right to vigilante justice"
+      }
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 136,
+    "taskNumber": 136,
+    "category": "Politik in der Demokratie",
+    "questionDe": "Aus welchem Grund darf die Meinungsfreiheit in Deutschland eingeschränkt werden?",
+    "questionEn": "For what reason may freedom of speech be restricted in Germany?",
+    "options": [
+      {
+        "textDe": "bei Kritik an der Bundesregierung",
+        "textEn": "in case of criticism of the Federal Government"
+      },
+      {
+        "textDe": "zum Schutz der persönlichen Ehre",
+        "textEn": "to protect personal honor"
+      },
+      {
+        "textDe": "bei Kritik an einer Religion",
+        "textEn": "in case of criticism of a religion"
+      },
+      {
+        "textDe": "bei Kritik an einem Gesetz",
+        "textEn": "in case of criticism of a law"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 137,
+    "taskNumber": 137,
+    "category": "Politik in der Demokratie",
+    "questionDe": "In Deutschland darf man eine Partei gründen, wenn sie ...",
+    "questionEn": "In Germany, you are allowed to found a political party if it ...",
+    "options": [
+      {
+        "textDe": "gegen die Verfassung kämpft.",
+        "textEn": "fights against the constitution."
+      },
+      {
+        "textDe": "sich gegen die Demokratie wendet.",
+        "textEn": "opposes democracy."
+      },
+      {
+        "textDe": "nicht gegen die Verfassung verstößt.",
+        "textEn": "does not violate the constitution."
+      },
+      {
+        "textDe": "nur für Männer offen ist.",
+        "textEn": "is open only to men."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 138,
+    "taskNumber": 138,
+    "category": "Politik in der Demokratie",
+    "questionDe": "Wer beschließt in Deutschland ein neues Gesetz?",
+    "questionEn": "Who passes a new law in Germany?",
+    "options": [
+      {
+        "textDe": "die Regierung",
+        "textEn": "the government"
+      },
+      {
+        "textDe": "das Parlament",
+        "textEn": "the parliament"
+      },
+      {
+        "textDe": "die Gerichte",
+        "textEn": "the courts"
+      },
+      {
+        "textDe": "die Polizei",
+        "textEn": "the police"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 139,
+    "taskNumber": 139,
+    "category": "Politik in der Demokratie",
+    "questionDe": "Wer bildet in Deutschland die Opposition?",
+    "questionEn": "Who forms the opposition in Germany?",
+    "options": [
+      {
+        "textDe": "die Regierungsparteien",
+        "textEn": "the governing parties"
+      },
+      {
+        "textDe": "alle Abgeordneten im Parlament",
+        "textEn": "all members of parliament"
+      },
+      {
+        "textDe": "die Parteien, die nicht in der Regierung sind",
+        "textEn": "the parties that are not in government"
+      },
+      {
+        "textDe": "die Gerichte",
+        "textEn": "the courts"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 140,
+    "taskNumber": 140,
+    "category": "Politik in der Demokratie",
+    "questionDe": "Was ist die Hauptaufgabe der Opposition im deutschen Parlament?",
+    "questionEn": "What is the main task of the opposition in the German parliament?",
+    "options": [
+      {
+        "textDe": "die Regierung zu kontrollieren",
+        "textEn": "to monitor the government"
+      },
+      {
+        "textDe": "Gesetze zu unterschreiben",
+        "textEn": "to sign laws"
+      },
+      {
+        "textDe": "die Bundeswehr zu leiten",
+        "textEn": "to lead the Federal Armed Forces"
+      },
+      {
+        "textDe": "Richterinnen und Richter zu wählen",
+        "textEn": "to elect judges"
+      }
+    ],
+    "correctIndex": 0
+  }
+]

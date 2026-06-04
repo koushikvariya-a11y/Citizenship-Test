@@ -1,0 +1,522 @@
+[
+  {
+    "id": 221,
+    "taskNumber": 221,
+    "category": "Demokratie und Staat",
+    "questionDe": "Welches Recht gehört zu den Grundrechten in Deutschland?",
+    "questionEn": "Which right is one of the fundamental rights in Germany?",
+    "options": [
+      {
+        "textDe": "Das Recht auf freie Berufswahl.",
+        "textEn": "The right to free choice of profession."
+      },
+      {
+        "textDe": "Das Recht auf kostenlose Bildung für alle.",
+        "textEn": "The right to free education for all."
+      },
+      {
+        "textDe": "Das Recht auf einen eigenen Pkw.",
+        "textEn": "The right to own a private car."
+      },
+      {
+        "textDe": "Das Recht auf eine Arbeit.",
+        "textEn": "The right to a job."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 222,
+    "taskNumber": 222,
+    "category": "Demokratie und Staat",
+    "questionDe": "Wann ist man in Deutschland wahlberechtigt?",
+    "questionEn": "When is one eligible to vote in Germany?",
+    "options": [
+      {
+        "textDe": "Wenn man mindestens 16 Jahre alt ist und die deutsche Staatsangehörigkeit besitzt.",
+        "textEn": "When one is at least 16 years old and possesses German citizenship."
+      },
+      {
+        "textDe": "Wenn man mindestens 18 Jahre alt ist und die deutsche Staatsangehörigkeit besitzt.",
+        "textEn": "When one is at least 18 years old and possesses German citizenship."
+      },
+      {
+        "textDe": "Wenn man seit mindestens 5 Jahren in Deutschland lebt.",
+        "textEn": "When one has lived in Germany for at least 5 years."
+      },
+      {
+        "textDe": "Wenn man eine feste Arbeitsstelle hat.",
+        "textEn": "When one has a permanent job."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 223,
+    "taskNumber": 223,
+    "category": "Demokratie und Staat",
+    "questionDe": "Die Wahlen in Deutschland sind …",
+    "questionEn": "Elections in Germany are...",
+    "options": [
+      {
+        "textDe": "geheim, direkt, allgemein, frei und gleich.",
+        "textEn": "secret, direct, general, free, and equal."
+      },
+      {
+        "textDe": "offen, direkt, allgemein, frei und gleich.",
+        "textEn": "open, direct, general, free, and equal."
+      },
+      {
+        "textDe": "geheim, indirekt, allgemein, frei und gleich.",
+        "textEn": "secret, indirect, general, free, and equal."
+      },
+      {
+        "textDe": "offen, indirekt, allgemein, frei und gleich.",
+        "textEn": "open, indirect, general, free, and equal."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 224,
+    "taskNumber": 224,
+    "category": "Demokratie und Staat",
+    "questionDe": "Welches Recht gehört zu den Grundrechten, die nach dem Grundgesetz in Deutschland garantiert sind?",
+    "questionEn": "Which right is one of the fundamental rights guaranteed by the Basic Law in Germany?",
+    "options": [
+      {
+        "textDe": "Das Recht auf Religionsfreiheit.",
+        "textEn": "The right to freedom of religion."
+      },
+      {
+        "textDe": "Das Recht auf Arbeit.",
+        "textEn": "The right to work."
+      },
+      {
+        "textDe": "Das Recht auf Wohnen.",
+        "textEn": "The right to housing."
+      },
+      {
+        "textDe": "Das Recht auf Bildung.",
+        "textEn": "The right to education."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 225,
+    "taskNumber": 225,
+    "category": "Demokratie und Staat",
+    "questionDe": "Was ist mit dem Wahlrecht in Deutschland verbunden?",
+    "questionEn": "What is associated with the right to vote in Germany?",
+    "options": [
+      {
+        "textDe": "Die Pflicht, wählen zu gehen.",
+        "textEn": "The duty to vote."
+      },
+      {
+        "textDe": "Das Recht, gewählt zu werden.",
+        "textEn": "The right to be elected."
+      },
+      {
+        "textDe": "Die Pflicht, eine Partei zu wählen.",
+        "textEn": "The duty to vote for a party."
+      },
+      {
+        "textDe": "Das Recht, die Politiker zu kontrollieren.",
+        "textEn": "The right to control politicians."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 226,
+    "taskNumber": 226,
+    "category": "Demokratie und Staat",
+    "questionDe": "Wahlen in Deutschland sind frei. Was bedeutet das?",
+    "questionEn": "Elections in Germany are free. What does that mean?",
+    "options": [
+      {
+        "textDe": "Man darf niemanden zwingen, zur Wahl zu gehen.",
+        "textEn": "No one may be forced to go to the polls."
+      },
+      {
+        "textDe": "Der Wähler darf seine Stimme verkaufen.",
+        "textEn": "The voter may sell their vote."
+      },
+      {
+        "textDe": "Der Wähler darf nur einen Kandidaten oder eine Kandidatin wählen, die oder den er gut kennt.",
+        "textEn": "The voter may only vote for a candidate they know well."
+      },
+      {
+        "textDe": "Jeder Wähler und jede Wählerin darf selbst entscheiden, ob und wen er oder sie wählt.",
+        "textEn": "Every voter may decide for themselves whether and whom they vote for."
+      }
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 227,
+    "taskNumber": 227,
+    "category": "Demokratie und Staat",
+    "questionDe": "Das Wahlsystem in Deutschland ist ein …",
+    "questionEn": "The electoral system in Germany is a...",
+    "options": [
+      {
+        "textDe": "Mehrheitswahlsystem.",
+        "textEn": "majority electoral system."
+      },
+      {
+        "textDe": "Verhältniswahlsystem.",
+        "textEn": "proportional electoral system."
+      },
+      {
+        "textDe": "Zensuswahlsystem.",
+        "textEn": "census electoral system."
+      },
+      {
+        "textDe": "allgemeines Wahlsystem.",
+        "textEn": "general electoral system."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 228,
+    "taskNumber": 228,
+    "category": "Demokratie und Staat",
+    "questionDe": "Was bedeutet „aktives Wahlrecht“ in Deutschland?",
+    "questionEn": "What does \"active right to vote\" mean in Germany?",
+    "options": [
+      {
+        "textDe": "Man kann gewählt werden.",
+        "textEn": "One can be elected."
+      },
+      {
+        "textDe": "Man muss wählen gehen.",
+        "textEn": "One must go to vote."
+      },
+      {
+        "textDe": "Man darf wählen.",
+        "textEn": "One is allowed to vote."
+      },
+      {
+        "textDe": "Man muss einer Partei angehören.",
+        "textEn": "One must belong to a party."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 229,
+    "taskNumber": 229,
+    "category": "Demokratie und Staat",
+    "questionDe": "Was bedeutet „passives Wahlrecht“ in Deutschland?",
+    "questionEn": "What does \"passive right to vote\" mean in Germany?",
+    "options": [
+      {
+        "textDe": "Man kann gewählt werden.",
+        "textEn": "One can be elected."
+      },
+      {
+        "textDe": "Man muss wählen gehen.",
+        "textEn": "One must go to vote."
+      },
+      {
+        "textDe": "Man darf wählen.",
+        "textEn": "One is allowed to vote."
+      },
+      {
+        "textDe": "Man muss Mitglied einer Partei sein.",
+        "textEn": "One must be a member of a party."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 230,
+    "taskNumber": 230,
+    "category": "Demokratie und Staat",
+    "questionDe": "Die Bundestagswahl in Deutschland ist die Wahl …",
+    "questionEn": "The Bundestag election in Germany is the election of the...",
+    "options": [
+      {
+        "textDe": "des Bundeskanzlers / der Bundeskanzlerin.",
+        "textEn": "Federal Chancellor."
+      },
+      {
+        "textDe": "der Ministerpräsidenten / Ministerpräsidentinnen der Länder.",
+        "textEn": "Ministers-President of the states."
+      },
+      {
+        "textDe": "der Abgeordneten des Deutschen Bundestages.",
+        "textEn": "members of the German Bundestag."
+      },
+      {
+        "textDe": "des Bundespräsidenten / der Bundespräsidentin.",
+        "textEn": "Federal President."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 231,
+    "taskNumber": 231,
+    "category": "Demokratie und Staat",
+    "questionDe": "In Deutschland darf man wählen ab welchem Alter?",
+    "questionEn": "In Germany, from what age are you allowed to vote?",
+    "options": [
+      {
+        "textDe": "16.",
+        "textEn": "16."
+      },
+      {
+        "textDe": "18.",
+        "textEn": "18."
+      },
+      {
+        "textDe": "21.",
+        "textEn": "21."
+      },
+      {
+        "textDe": "23.",
+        "textEn": "23."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 232,
+    "taskNumber": 232,
+    "category": "Demokratie und Staat",
+    "questionDe": "Welches Recht haben deutsche Staatsbürger und Staatsbürgerinnen seit 1994?",
+    "questionEn": "Which right have German citizens had since 1994?",
+    "options": [
+      {
+        "textDe": "Das Recht auf Arbeit.",
+        "textEn": "The right to work."
+      },
+      {
+        "textDe": "Das Recht auf eine Wohnung.",
+        "textEn": "The right to housing."
+      },
+      {
+        "textDe": "Das Recht auf den Schutz der Umwelt.",
+        "textEn": "The right to environmental protection."
+      },
+      {
+        "textDe": "Das Recht auf Bildung.",
+        "textEn": "The right to education."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 233,
+    "taskNumber": 233,
+    "category": "Demokratie und Staat",
+    "questionDe": "Was ist eine Aufgabe des Staates in Deutschland?",
+    "questionEn": "What is a task of the state in Germany?",
+    "options": [
+      {
+        "textDe": "Er muss dafür sorgen, dass alle Bürger und Bürgerinnen Arbeit haben.",
+        "textEn": "It must ensure that all citizens have jobs."
+      },
+      {
+        "textDe": "Er muss dafür sorgen, dass alle Bürger und Bürgerinnen eine Wohnung haben.",
+        "textEn": "It must ensure that all citizens have housing."
+      },
+      {
+        "textDe": "Er muss die Menschenrechte schützen.",
+        "textEn": "It must protect human rights."
+      },
+      {
+        "textDe": "Er muss dafür sorgen, dass alle Bürger und Bürgerinnen genug Geld haben.",
+        "textEn": "It must ensure that all citizens have enough money."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 234,
+    "taskNumber": 234,
+    "category": "Demokratie und Staat",
+    "questionDe": "Welches ist eines der fünf ständigen Organe der Vereinten Nationen?",
+    "questionEn": "Which is one of the five permanent organs of the United Nations?",
+    "options": [
+      {
+        "textDe": "Der Sicherheitsrat.",
+        "textEn": "The Security Council."
+      },
+      {
+        "textDe": "Das Sozialministerium.",
+        "textEn": "The Ministry of Social Affairs."
+      },
+      {
+        "textDe": "Die Generalversammlung.",
+        "textEn": "The General Assembly."
+      },
+      {
+        "textDe": "Der Internationale Gerichtshof.",
+        "textEn": "The International Court of Justice."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 235,
+    "taskNumber": 235,
+    "category": "Demokratie und Staat",
+    "questionDe": "Wann kann in Deutschland eine Partei verboten werden?",
+    "questionEn": "When can a party be banned in Germany?",
+    "options": [
+      {
+        "textDe": "Wenn sie gegen die Verfassung kämpft.",
+        "textEn": "When it fights against the constitution."
+      },
+      {
+        "textDe": "Wenn sie einem Monarchen zur Macht verhelfen will.",
+        "textEn": "When it wants to help a monarch to power."
+      },
+      {
+        "textDe": "Wenn sie die absolute Mehrheit der Stimmen erhalten will.",
+        "textEn": "When it wants to obtain an absolute majority of votes."
+      },
+      {
+        "textDe": "Wenn sie das Grundgesetz ändern will.",
+        "textEn": "When it wants to change the Basic Law."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 236,
+    "taskNumber": 236,
+    "category": "Demokratie und Staat",
+    "questionDe": "Was ist die Hauptaufgabe des Deutschen Bundestages?",
+    "questionEn": "What is the main task of the German Bundestag?",
+    "options": [
+      {
+        "textDe": "Er verabschiedet Gesetze.",
+        "textEn": "It passes laws."
+      },
+      {
+        "textDe": "Er wählt den Bundespräsidenten / die Bundespräsidentin.",
+        "textEn": "It elects the Federal President."
+      },
+      {
+        "textDe": "Er kontrolliert die Bundesländer.",
+        "textEn": "It controls the federal states."
+      },
+      {
+        "textDe": "Er verhandelt Verträge mit anderen Staaten.",
+        "textEn": "It negotiates treaties with other states."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 237,
+    "taskNumber": 237,
+    "category": "Demokratie und Staat",
+    "questionDe": "Wer wählt in Deutschland die Abgeordneten im Bundestag?",
+    "questionEn": "Who elects the members of the Bundestag in Germany?",
+    "options": [
+      {
+        "textDe": "Das Volk.",
+        "textEn": "The people."
+      },
+      {
+        "textDe": "Die Bundesversammlung.",
+        "textEn": "The Federal Convention."
+      },
+      {
+        "textDe": "Die Landesparlamente.",
+        "textEn": "The state parliaments."
+      },
+      {
+        "textDe": "Die Europäische Union.",
+        "textEn": "The European Union."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 238,
+    "taskNumber": 238,
+    "category": "Demokratie und Staat",
+    "questionDe": "Welches ist die wichtigste Aufgabe des Deutschen Bundestages?",
+    "questionEn": "What is the most important task of the German Bundestag?",
+    "options": [
+      {
+        "textDe": "Er kontrolliert die Regierung.",
+        "textEn": "It controls the government."
+      },
+      {
+        "textDe": "Er beschließt die Gesetze.",
+        "textEn": "It passes the laws."
+      },
+      {
+        "textDe": "Er wählt den Bundeskanzler / die Bundeskanzlerin.",
+        "textEn": "It elects the Federal Chancellor."
+      },
+      {
+        "textDe": "Er wählt den Bundespräsidenten / die Bundespräsidentin.",
+        "textEn": "It elects the Federal President."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 239,
+    "taskNumber": 239,
+    "category": "Demokratie und Staat",
+    "questionDe": "Wer kann Abgeordneter / Abgeordnete im Deutschen Bundestag werden?",
+    "questionEn": "Who can become a member of the German Bundestag?",
+    "options": [
+      {
+        "textDe": "Jeder deutsche Staatsbürger / Jede deutsche Staatsbürgerin, der / die das 18. Lebensjahr vollendet hat.",
+        "textEn": "Every German citizen who has reached the age of 18."
+      },
+      {
+        "textDe": "Jeder deutsche Staatsbürger / Jede deutsche Staatsbürgerin, der / die das 27. Lebensjahr vollendet hat.",
+        "textEn": "Every German citizen who has reached the age of 27."
+      },
+      {
+        "textDe": "Jede Person, die seit mindestens 5 Jahren in Deutschland lebt.",
+        "textEn": "Every person who has lived in Germany for at least 5 years."
+      },
+      {
+        "textDe": "Jede Person mit Abitur oder einem Hochschulabschluss.",
+        "textEn": "Every person with a high school diploma or a university degree."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 240,
+    "taskNumber": 240,
+    "category": "Demokratie und Staat",
+    "questionDe": "Was ist eine Fraktion im Deutschen Bundestag?",
+    "questionEn": "What is a parliamentary group (Fraktion) in the German Bundestag?",
+    "options": [
+      {
+        "textDe": "Eine Gruppe von Abgeordneten, die die gleiche Partei angehören.",
+        "textEn": "A group of members of parliament who belong to the same party."
+      },
+      {
+        "textDe": "Eine Gruppe von Bürgern und Bürgerinnen, die gegen die Regierung demonstrieren.",
+        "textEn": "A group of citizens demonstrating against the government."
+      },
+      {
+        "textDe": "Eine Gruppe von Wählern und Wählerinnen, die eine bestimmte Partei gewählt haben.",
+        "textEn": "A group of voters who have voted for a specific party."
+      },
+      {
+        "textDe": "Eine Gruppe von Abgeordneten, die Fraktionsvorsitzende sind.",
+        "textEn": "A group of members of parliament who are parliamentary group leaders."
+      }
+    ],
+    "correctIndex": 0
+  }
+]

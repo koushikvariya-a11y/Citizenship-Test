@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "taskNumber": 1,
+    "category": "Leben in der Demokratie",
+    "questionDe": "In Deutschland dürfen Menschen offen etwas gegen die Regierung sagen, weil ...",
+    "questionEn": "In Germany, people are allowed to openly speak out against the government because ...",
+    "options": [
+      {
+        "textDe": "hier Religionsfreiheit gilt.",
+        "textEn": "freedom of religion applies here."
+      },
+      {
+        "textDe": "die Menschen Steuern zahlen.",
+        "textEn": "people pay taxes."
+      },
+      {
+        "textDe": "die Menschen das Recht auf freie Meinungsäußerung haben.",
+        "textEn": "people have the right to freedom of expression."
+      },
+      {
+        "textDe": "es keine Verfassung gibt.",
+        "textEn": "there is no constitution."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 2,
+    "taskNumber": 2,
+    "category": "Leben in der Demokratie",
+    "questionDe": "In Deutschland können Eltern entscheiden, an welchem Religionsunterricht ihr Kind teilnimmt, bis es ...",
+    "questionEn": "In Germany, parents can decide which religious education class their child attends until the child is ...",
+    "options": [
+      {
+        "textDe": "12 Jahre alt ist.",
+        "textEn": "12 years old."
+      },
+      {
+        "textDe": "14 Jahre alt ist.",
+        "textEn": "14 years old."
+      },
+      {
+        "textDe": "16 Jahre alt ist.",
+        "textEn": "16 years old."
+      },
+      {
+        "textDe": "18 Jahre alt ist.",
+        "textEn": "18 years old."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 3,
+    "taskNumber": 3,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Mit dem Begriff „Interessengruppe“ bezeichnet man ...",
+    "questionEn": "The term \"interest group\" refers to ...",
+    "options": [
+      {
+        "textDe": "eine Partei.",
+        "textEn": "a political party."
+      },
+      {
+        "textDe": "einen Verband.",
+        "textEn": "an association."
+      },
+      {
+        "textDe": "ein Ministerium.",
+        "textEn": "a ministry."
+      },
+      {
+        "textDe": "eine Gewerkschaft.",
+        "textEn": "a trade union."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 4,
+    "taskNumber": 4,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Wer bestimmt in Deutschland die Schulpolitik?",
+    "questionEn": "Who determines school policy in Germany?",
+    "options": [
+      {
+        "textDe": "die Lehrer und Lehrerinnen",
+        "textEn": "the teachers"
+      },
+      {
+        "textDe": "die Bundesländer",
+        "textEn": "the federal states"
+      },
+      {
+        "textDe": "das Bundesministerium für Familie, Senioren, Frauen und Jugend",
+        "textEn": "the Federal Ministry for Family Affairs, Senior Citizens, Women and Youth"
+      },
+      {
+        "textDe": "die Schulen selbst",
+        "textEn": "the schools themselves"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 5,
+    "taskNumber": 5,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Deutschland ist ein Rechtsstaat. Was bedeutet das?",
+    "questionEn": "Germany is a constitutional state (\"Rechtsstaat\"). What does this mean?",
+    "options": [
+      {
+        "textDe": "Alle Einwohner und Einwohnerinnen und der Staat müssen sich an die Gesetze halten.",
+        "textEn": "All residents and the state must abide by the laws."
+      },
+      {
+        "textDe": "Der Staat hat Recht, die Bürger und Bürgerinnen nicht.",
+        "textEn": "The state is always right, the citizens are not."
+      },
+      {
+        "textDe": "Nur Deutsche müssen sich an die Gesetze halten.",
+        "textEn": "Only Germans must abide by the laws."
+      },
+      {
+        "textDe": "Die Gerichte machen die Gesetze.",
+        "textEn": "The courts make the laws."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 6,
+    "taskNumber": 6,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Welches Recht gehört zu den Grundrechten in Deutschland?",
+    "questionEn": "Which right is one of the fundamental rights in Germany?",
+    "options": [
+      {
+        "textDe": "Waffenbesitz",
+        "textEn": "possession of weapons"
+      },
+      {
+        "textDe": "Faustrecht",
+        "textEn": "club law (law of the jungle)"
+      },
+      {
+        "textDe": "Meinungsfreiheit",
+        "textEn": "freedom of speech"
+      },
+      {
+        "textDe": "Selbstjustiz",
+        "textEn": "vigilante justice"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 7,
+    "taskNumber": 7,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Wahlen in Deutschland sind frei. Was bedeutet das?",
+    "questionEn": "Elections in Germany are free. What does this mean?",
+    "options": [
+      {
+        "textDe": "Man darf wählen, wen man will.",
+        "textEn": "You can vote for whoever you want."
+      },
+      {
+        "textDe": "Es kostet nichts, wählen zu gehen.",
+        "textEn": "It costs nothing to vote."
+      },
+      {
+        "textDe": "Man kann wählen, wann man will.",
+        "textEn": "You can vote whenever you want."
+      },
+      {
+        "textDe": "Nur Personen, die keinen Beruf haben, dürfen wählen.",
+        "textEn": "Only people who do not have a job are allowed to vote."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 8,
+    "taskNumber": 8,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Was ist mit dem Begriff „Freizügigkeit“ in Deutschland gemeint?",
+    "questionEn": "What is meant by the term \"freedom of movement\" (Freizügigkeit) in Germany?",
+    "options": [
+      {
+        "textDe": "Man darf sich für eine andere Religion entscheiden.",
+        "textEn": "You are allowed to choose another religion."
+      },
+      {
+        "textDe": "Man darf sich anziehen, wie man möchte.",
+        "textEn": "You are allowed to dress as you wish."
+      },
+      {
+        "textDe": "Man darf sich seinen Wohnort selbst aussuchen.",
+        "textEn": "You are allowed to choose your own place of residence."
+      },
+      {
+        "textDe": "Man darf ohne Pass reisen.",
+        "textEn": "You are allowed to travel without a passport."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 9,
+    "taskNumber": 9,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Eine Partei in Deutschland will die Pressefreiheit abschaffen. Ist das möglich?",
+    "questionEn": "A political party in Germany wants to abolish freedom of the press. Is this possible?",
+    "options": [
+      {
+        "textDe": "Ja, wenn mehr als die Hälfte der Abgeordneten im Bundestag dafür stimmt.",
+        "textEn": "Yes, if more than half of the members of the Bundestag vote for it."
+      },
+      {
+        "textDe": "Ja, aber dafür ist eine Dreiviertelmehrheit im Bundestag nötig.",
+        "textEn": "Yes, but a three-quarters majority in the Bundestag is required for this."
+      },
+      {
+        "textDe": "Nein, das ist nicht möglich, weil die Pressefreiheit ein Grundrecht ist. Sie darf nicht abgeschafft werden.",
+        "textEn": "No, this is not possible because freedom of the press is a fundamental right. It cannot be abolished."
+      },
+      {
+        "textDe": "Nein, das ist nicht möglich, weil die Pressefreiheit im EU-Vertrag garantiert ist.",
+        "textEn": "No, this is not possible because freedom of the press is guaranteed in the EU Treaty."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 10,
+    "taskNumber": 10,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Was bedeutet „Recht auf freie Berufswahl“ in Deutschland?",
+    "questionEn": "What does \"right to free choice of occupation\" mean in Germany?",
+    "options": [
+      {
+        "textDe": "Man darf jeden Beruf ausüben, für den man die Ausbildung oder das Studium hat.",
+        "textEn": "You are allowed to practice any profession for which you have the training or degree."
+      },
+      {
+        "textDe": "Der Staat muss jedem eine Arbeit geben.",
+        "textEn": "The state must provide everyone with a job."
+      },
+      {
+        "textDe": "Man darf sich aussuchen, ob man arbeiten will oder nicht.",
+        "textEn": "You are allowed to choose whether you want to work or not."
+      },
+      {
+        "textDe": "Arbeitgeber müssen jeden einstellen, der sich bewirbt.",
+        "textEn": "Employers must hire everyone who applies."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 11,
+    "taskNumber": 11,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Was steht nicht im Grundgesetz von Deutschland?",
+    "questionEn": "What is not written in the Basic Law (Grundgesetz) of Germany?",
+    "options": [
+      {
+        "textDe": "Die Würde des Menschen ist unantastbar.",
+        "textEn": "Human dignity is inviolable."
+      },
+      {
+        "textDe": "Alle Menschen sind vor dem Gesetz gleich.",
+        "textEn": "All people are equal before the law."
+      },
+      {
+        "textDe": "Jeder Mensch darf seine Meinung frei äußern.",
+        "textEn": "Every person is free to express their opinion."
+      },
+      {
+        "textDe": "Alle Menschen müssen gleich viel Geld haben.",
+        "textEn": "All people must have the same amount of money."
+      }
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 12,
+    "taskNumber": 12,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Welches Recht ist ein Grundrecht in Deutschland?",
+    "questionEn": "Which right is a fundamental right in Germany?",
+    "options": [
+      {
+        "textDe": "das Recht auf Reisen im Winter",
+        "textEn": "the right to travel in winter"
+      },
+      {
+        "textDe": "die Glaubens- und Gewissensfreiheit",
+        "textEn": "freedom of belief and conscience"
+      },
+      {
+        "textDe": "das Recht auf ein eigenes Auto",
+        "textEn": "the right to own a car"
+      },
+      {
+        "textDe": "das Recht auf einen Handyvertrag",
+        "textEn": "the right to a mobile phone contract"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 13,
+    "taskNumber": 13,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Was versteht man unter dem Recht auf „Freizügigkeit“ in Deutschland?",
+    "questionEn": "What is understood by the right to \"freedom of movement\" (Freizügigkeit) in Germany?",
+    "options": [
+      {
+        "textDe": "Man darf sich in Deutschland bewegen, wo man will.",
+        "textEn": "You can move anywhere you want in Germany."
+      },
+      {
+        "textDe": "Man kann umsonst mit öffentlichen Verkehrsmitteln fahren.",
+        "textEn": "You can ride public transport for free."
+      },
+      {
+        "textDe": "Man darf sich im Sommer überall nackt bewegen.",
+        "textEn": "You are allowed to walk around naked everywhere in summer."
+      },
+      {
+        "textDe": "Man darf ohne Führerschein Auto fahren.",
+        "textEn": "You are allowed to drive a car without a driving licence."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 14,
+    "taskNumber": 14,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Eine Partei im deutschen Bundestag will die Pressefreiheit abschaffen. Ist das möglich?",
+    "questionEn": "A political party in the German Bundestag wants to abolish freedom of the press. Is this possible?",
+    "options": [
+      {
+        "textDe": "Ja, wenn die Mehrheit der Bürger und Bürgerinnen dafür stimmt.",
+        "textEn": "Yes, if the majority of citizens vote for it."
+      },
+      {
+        "textDe": "Ja, wenn der Bundeskanzler oder die Bundeskanzlerin es will.",
+        "textEn": "Yes, if the Federal Chancellor wants it."
+      },
+      {
+        "textDe": "Nein, denn die Pressefreiheit ist ein Grundrecht und darf nicht abgeschafft werden.",
+        "textEn": "No, because freedom of the press is a fundamental right and cannot be abolished."
+      },
+      {
+        "textDe": "Nein, denn die Pressefreiheit ist im EU-Vertrag geregelt.",
+        "textEn": "No, because freedom of the press is regulated in the EU Treaty."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 15,
+    "taskNumber": 15,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Wer darf in Deutschland nicht vom Verfassungsschutz beobachtet werden?",
+    "questionEn": "Who is not allowed to be monitored by the Federal Office for the Protection of the Constitution (Verfassungsschutz) in Germany?",
+    "options": [
+      {
+        "textDe": "Parteien, die gegen die Verfassung arbeiten",
+        "textEn": "political parties working against the constitution"
+      },
+      {
+        "textDe": "extremistische Gruppen",
+        "textEn": "extremist groups"
+      },
+      {
+        "textDe": "Journalistinnen und Journalisten, die die Regierung kritisieren",
+        "textEn": "journalists who criticize the government"
+      },
+      {
+        "textDe": "Personen, die die Demokratie abschaffen wollen",
+        "textEn": "people who want to abolish democracy"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 16,
+    "taskNumber": 16,
+    "category": "Leben in der Demokratie",
+    "questionDe": "In Deutschland darf man eine Partei gründen, wenn sie ...",
+    "questionEn": "In Germany, you are allowed to found a political party if it ...",
+    "options": [
+      {
+        "textDe": "die demokratische Ordnung nicht gefährdet.",
+        "textEn": "does not endanger the democratic order."
+      },
+      {
+        "textDe": "mindestens 10.000 Mitglieder hat.",
+        "textEn": "has at least 10,000 members."
+      },
+      {
+        "textDe": "sich gegen die Bundesregierung richtet.",
+        "textEn": "is directed against the federal government."
+      },
+      {
+        "textDe": "vom Bundespräsidenten oder der Bundespräsidentin genehmigt wurde.",
+        "textEn": "has been approved by the Federal President."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 17,
+    "taskNumber": 17,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Welches Recht ist im Grundgesetz garantiert?",
+    "questionEn": "Which right is guaranteed in the Basic Law?",
+    "options": [
+      {
+        "textDe": "das Recht auf einen Arbeitsplatz",
+        "textEn": "the right to a job"
+      },
+      {
+        "textDe": "die Versammlungsfreiheit",
+        "textEn": "freedom of assembly"
+      },
+      {
+        "textDe": "das Recht auf eine eigene Wohnung",
+        "textEn": "the right to one's own apartment"
+      },
+      {
+        "textDe": "das Recht auf kostenlose Urlaubsreisen",
+        "textEn": "the right to free holiday trips"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 18,
+    "taskNumber": 18,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Welches Grundrecht ist in Artikel 1 des Grundgesetzes der Bundesrepublik Deutschland garantiert?",
+    "questionEn": "Which fundamental right is guaranteed in Article 1 of the Basic Law of the Federal Republic of Germany?",
+    "options": [
+      {
+        "textDe": "die Meinungsfreiheit",
+        "textEn": "freedom of speech"
+      },
+      {
+        "textDe": "die Glaubensfreiheit",
+        "textEn": "freedom of belief"
+      },
+      {
+        "textDe": "die Unantastbarkeit der Menschenwürde",
+        "textEn": "the inviolability of human dignity"
+      },
+      {
+        "textDe": "die Versammlungsfreiheit",
+        "textEn": "freedom of assembly"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 19,
+    "taskNumber": 19,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Was versteht man unter dem Recht der „Freizügigkeit“ in Deutschland?",
+    "questionEn": "What is understood by the right of \"freedom of movement\" (Freizügigkeit) in Germany?",
+    "options": [
+      {
+        "textDe": "das Recht, überall in Deutschland zu wohnen und zu arbeiten",
+        "textEn": "the right to live and work anywhere in Germany"
+      },
+      {
+        "textDe": "das Recht, sich überall nackt zu zeigen",
+        "textEn": "the right to show oneself naked anywhere"
+      },
+      {
+        "textDe": "das Recht, ohne Führerschein Auto zu fahren",
+        "textEn": "the right to drive a car without a driving licence"
+      },
+      {
+        "textDe": "das Recht, umsonst mit Bus und Bahn zu fahren",
+        "textEn": "the right to ride buses and trains for free"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 20,
+    "taskNumber": 20,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Eine Partei in Deutschland will die Meinungsfreiheit einschränken. Ist das möglich?",
+    "questionEn": "A political party in Germany wants to restrict freedom of speech. Is this possible?",
+    "options": [
+      {
+        "textDe": "Ja, wenn die Mehrheit der Abgeordneten im Bundestag dafür stimmt.",
+        "textEn": "Yes, if the majority of members of the Bundestag vote for it."
+      },
+      {
+        "textDe": "Ja, wenn der Bundeskanzler oder die Bundeskanzlerin es will.",
+        "textEn": "Yes, if the Federal Chancellor wants it."
+      },
+      {
+        "textDe": "Nein, denn die Meinungsfreiheit ist ein Grundrecht und darf nicht abgeschafft werden.",
+        "textEn": "No, because freedom of speech is a fundamental right and cannot be abolished."
+      },
+      {
+        "textDe": "Nein, denn die Meinungsfreiheit ist im EU-Vertrag geregelt.",
+        "textEn": "No, because freedom of speech is regulated in the EU Treaty."
+      }
+    ],
+    "correctIndex": 2
+  }
+]

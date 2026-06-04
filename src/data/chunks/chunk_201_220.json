@@ -1,0 +1,522 @@
+[
+  {
+    "id": 201,
+    "taskNumber": 201,
+    "category": "Demokratie und Staat",
+    "questionDe": "In Deutschland ist ein Bürgermeister / eine Bürgermeisterin die Leitung ...",
+    "questionEn": "In Germany, a mayor is the head of...",
+    "options": [
+      {
+        "textDe": "einer Gemeinde.",
+        "textEn": "a municipality."
+      },
+      {
+        "textDe": "einer Partei.",
+        "textEn": "a party."
+      },
+      {
+        "textDe": "einer Gewerkschaft.",
+        "textEn": "a trade union."
+      },
+      {
+        "textDe": "einer Kirche.",
+        "textEn": "a church."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 202,
+    "taskNumber": 202,
+    "category": "Demokratie und Staat",
+    "questionDe": "Die Wahlen in Deutschland sind ...",
+    "questionEn": "Elections in Germany are...",
+    "options": [
+      {
+        "textDe": "allgemein, direkt, frei, gleich und geheim.",
+        "textEn": "general, direct, free, equal, and secret."
+      },
+      {
+        "textDe": "offen, direkt, frei, gleich und geheim.",
+        "textEn": "open, direct, free, equal, and secret."
+      },
+      {
+        "textDe": "allgemein, direkt, offen, gleich und geheim.",
+        "textEn": "general, direct, open, equal, and secret."
+      },
+      {
+        "textDe": "allgemein, indirekt, frei, gleich und geheim.",
+        "textEn": "general, indirect, free, equal, and secret."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 203,
+    "taskNumber": 203,
+    "category": "Demokratie und Staat",
+    "questionDe": "Was ist keine Aufgabe des Staates in Deutschland?",
+    "questionEn": "What is not a task of the state in Germany?",
+    "options": [
+      {
+        "textDe": "die Organisation der Müllabfuhr",
+        "textEn": "the organization of waste collection"
+      },
+      {
+        "textDe": "die Festlegung von Feiertagen",
+        "textEn": "the determination of public holidays"
+      },
+      {
+        "textDe": "die Bestimmung der Preise für alle Waren",
+        "textEn": "the determination of prices for all goods"
+      },
+      {
+        "textDe": "der Bau von Straßen",
+        "textEn": "the construction of roads"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 204,
+    "taskNumber": 204,
+    "category": "Demokratie und Staat",
+    "questionDe": "Wer bezahlt in Deutschland die Sozialversicherungen (zum Beispiel Kranken-, Pflege-, Renten- und Arbeitslosenversicherung)?",
+    "questionEn": "Who pays for social insurances (e.g., health, long-term care, pension, and unemployment insurance) in Germany?",
+    "options": [
+      {
+        "textDe": "Arbeitnehmer und Arbeitgeber",
+        "textEn": "employees and employers"
+      },
+      {
+        "textDe": "nur Arbeitnehmer",
+        "textEn": "only employees"
+      },
+      {
+        "textDe": "nur Arbeitgeber",
+        "textEn": "only employers"
+      },
+      {
+        "textDe": "der Staat",
+        "textEn": "the state"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 205,
+    "taskNumber": 205,
+    "category": "Demokratie und Staat",
+    "questionDe": "Was gehört nicht zu den Aufgaben des Deutschen Bundestages?",
+    "questionEn": "What is not among the tasks of the German Bundestag?",
+    "options": [
+      {
+        "textDe": "Er wählt den Bundeskanzler / die Bundeskanzlerin.",
+        "textEn": "It elects the Federal Chancellor."
+      },
+      {
+        "textDe": "Er beschließt die Gesetze des Bundes.",
+        "textEn": "It passes federal laws."
+      },
+      {
+        "textDe": "Er kontrolliert die Regierung.",
+        "textEn": "It controls the government."
+      },
+      {
+        "textDe": "Er wählt die Minister / Ministerinnen der Bundesregierung.",
+        "textEn": "It elects the ministers of the federal government."
+      }
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 206,
+    "taskNumber": 206,
+    "category": "Demokratie und Staat",
+    "questionDe": "Wer beschließt in Deutschland die Gesetze?",
+    "questionEn": "Who passes laws in Germany?",
+    "options": [
+      {
+        "textDe": "das Parlament",
+        "textEn": "the parliament"
+      },
+      {
+        "textDe": "die Gerichte",
+        "textEn": "the courts"
+      },
+      {
+        "textDe": "die Polizei",
+        "textEn": "the police"
+      },
+      {
+        "textDe": "die Regierung",
+        "textEn": "the government"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 207,
+    "taskNumber": 207,
+    "category": "Demokratie und Staat",
+    "questionDe": "Wann kann in Deutschland eine Partei verboten werden?",
+    "questionEn": "When can a party be banned in Germany?",
+    "options": [
+      {
+        "textDe": "wenn sie gegen die Verfassung kämpft",
+        "textEn": "if it fights against the constitution"
+      },
+      {
+        "textDe": "wenn sie einem Bundesland zu viele Stimmen wegnimmt",
+        "textEn": "if it takes too many votes from a federal state"
+      },
+      {
+        "textDe": "wenn ihre Mitgliederzahl zu gering ist",
+        "textEn": "if its membership is too low"
+      },
+      {
+        "textDe": "wenn sie nur regional aktiv ist",
+        "textEn": "if it is only active regionally"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 208,
+    "taskNumber": 208,
+    "category": "Demokratie und Staat",
+    "questionDe": "Welches Gericht ist in Deutschland für die Auslegung des Grundgesetzes zuständig?",
+    "questionEn": "Which court in Germany is responsible for interpreting the Basic Law?",
+    "options": [
+      {
+        "textDe": "das Bundesverfassungsgericht",
+        "textEn": "the Federal Constitutional Court"
+      },
+      {
+        "textDe": "das Bundesarbeitsgericht",
+        "textEn": "the Federal Labor Court"
+      },
+      {
+        "textDe": "der Bundesgerichtshof",
+        "textEn": "the Federal Court of Justice"
+      },
+      {
+        "textDe": "das Bundesverwaltungsgericht",
+        "textEn": "the Federal Administrative Court"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 209,
+    "taskNumber": 209,
+    "category": "Demokratie und Staat",
+    "questionDe": "Was ist eine Aufgabe von Parteien in Deutschland?",
+    "questionEn": "What is a task of parties in Germany?",
+    "options": [
+      {
+        "textDe": "Sie beteiligen sich an der politischen Willensbildung.",
+        "textEn": "They participate in the formation of political will."
+      },
+      {
+        "textDe": "Sie kontrollieren die Einhaltung der Gesetze.",
+        "textEn": "They control the observance of laws."
+      },
+      {
+        "textDe": "Sie entscheiden über die Höhe der Sozialabgaben.",
+        "textEn": "They decide on the amount of social contributions."
+      },
+      {
+        "textDe": "Sie bestimmen die Regierungschefs / Regierungschefinnen der Bundesländer.",
+        "textEn": "They determine the heads of government of the federal states."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 210,
+    "taskNumber": 210,
+    "category": "Demokratie und Staat",
+    "questionDe": "Wer wählt in Deutschland die Abgeordneten im Bundestag?",
+    "questionEn": "Who elects the members of parliament in the Bundestag in Germany?",
+    "options": [
+      {
+        "textDe": "das Volk",
+        "textEn": "the people"
+      },
+      {
+        "textDe": "die Bundesversammlung",
+        "textEn": "the Federal Convention"
+      },
+      {
+        "textDe": "die Landesparlamente",
+        "textEn": "the state parliaments"
+      },
+      {
+        "textDe": "die Bundesländer",
+        "textEn": "the federal states"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 211,
+    "taskNumber": 211,
+    "category": "Demokratie und Staat",
+    "questionDe": "Welche Aussage ist richtig? In Deutschland ...",
+    "questionEn": "Which statement is correct? In Germany...",
+    "options": [
+      {
+        "textDe": "sind Staat und Religion voneinander getrennt.",
+        "textEn": "state and religion are separated from each other."
+      },
+      {
+        "textDe": "bilden Religion und Staat eine Einheit.",
+        "textEn": "religion and state form a unity."
+      },
+      {
+        "textDe": "hat die evangelische Kirche mehr Rechte als andere Religionsgemeinschaften.",
+        "textEn": "the Protestant church has more rights than other religious communities."
+      },
+      {
+        "textDe": "haben alle Religionen die gleichen Rechte und Pflichten und der Staat entscheidet, welche Religion die \"richtige\" ist.",
+        "textEn": "all religions have the same rights and duties and the state decides which religion is the \"right\" one."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 212,
+    "taskNumber": 212,
+    "category": "Demokratie und Staat",
+    "questionDe": "Was bedeutet \"Volkssouveränität\"?",
+    "questionEn": "What does \"popular sovereignty\" mean?",
+    "options": [
+      {
+        "textDe": "Alle Staatsgewalt geht vom Volke aus.",
+        "textEn": "All state authority emanates from the people."
+      },
+      {
+        "textDe": "Der König / die Königin herrscht über das Volk.",
+        "textEn": "The king / queen rules over the people."
+      },
+      {
+        "textDe": "Das Volk wählt den Bundespräsidenten / die Bundespräsidentin.",
+        "textEn": "The people elect the Federal President."
+      },
+      {
+        "textDe": "Die Wirtschaft bestimmt die Politik.",
+        "textEn": "The economy determines politics."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 213,
+    "taskNumber": 213,
+    "category": "Demokratie und Staat",
+    "questionDe": "Was bedeutet \"Gewaltenteilung\" in Deutschland?",
+    "questionEn": "What does \"separation of powers\" mean in Germany?",
+    "options": [
+      {
+        "textDe": "Die Staatsgewalt ist in drei Bereiche geteilt.",
+        "textEn": "State power is divided into three branches."
+      },
+      {
+        "textDe": "Der Bund und die Länder teilen sich die Staatsgewalt.",
+        "textEn": "The federal government and the states share state power."
+      },
+      {
+        "textDe": "Die Gerichte teilen sich die Staatsgewalt.",
+        "textEn": "The courts share state power."
+      },
+      {
+        "textDe": "Bund, Länder und Gemeinden teilen sich die Staatsgewalt.",
+        "textEn": "Federal government, states, and municipalities share state power."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 214,
+    "taskNumber": 214,
+    "category": "Demokratie und Staat",
+    "questionDe": "Wer ernennt in Deutschland die Bundesminister / Bundesministerinnen?",
+    "questionEn": "Who appoints the federal ministers in Germany?",
+    "options": [
+      {
+        "textDe": "der Bundespräsident / die Bundespräsidentin",
+        "textEn": "the Federal President"
+      },
+      {
+        "textDe": "der Präsident / die Präsidentin des Bundestages",
+        "textEn": "the President of the Bundestag"
+      },
+      {
+        "textDe": "der Bundeskanzler / die Bundeskanzlerin",
+        "textEn": "the Federal Chancellor"
+      },
+      {
+        "textDe": "der Präsident / die Präsidentin des Bundesrates",
+        "textEn": "the President of the Bundesrat"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 215,
+    "taskNumber": 215,
+    "category": "Demokratie und Staat",
+    "questionDe": "Welche Aussage ist richtig? In Deutschland dürfen die Bürger und Bürgerinnen ...",
+    "questionEn": "Which statement is correct? In Germany, citizens are allowed to...",
+    "options": [
+      {
+        "textDe": "nicht streiken.",
+        "textEn": "not strike."
+      },
+      {
+        "textDe": "wählen gehen.",
+        "textEn": "go to vote."
+      },
+      {
+        "textDe": "nicht demonstrieren.",
+        "textEn": "not demonstrate."
+      },
+      {
+        "textDe": "keine eigene Meinung haben.",
+        "textEn": "not have their own opinion."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 216,
+    "taskNumber": 216,
+    "category": "Demokratie und Staat",
+    "questionDe": "Was versteht man unter dem passiven Wahlrecht in Deutschland?",
+    "questionEn": "What is understood by the passive right to vote in Germany?",
+    "options": [
+      {
+        "textDe": "Man kann in Deutschland wählen.",
+        "textEn": "One can vote in Germany."
+      },
+      {
+        "textDe": "Man kann in Deutschland gewählt werden.",
+        "textEn": "One can be elected in Germany."
+      },
+      {
+        "textDe": "Man muss in Deutschland wählen gehen.",
+        "textEn": "One must go to vote in Germany."
+      },
+      {
+        "textDe": "Man kann seine Stimme einem anderen geben.",
+        "textEn": "One can give one's vote to another."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 217,
+    "taskNumber": 217,
+    "category": "Demokratie und Staat",
+    "questionDe": "Die Bundesrepublik Deutschland ist heute gegliedert in ...",
+    "questionEn": "The Federal Republic of Germany is today structured into...",
+    "options": [
+      {
+        "textDe": "Bund, Länder und Gemeinden.",
+        "textEn": "federal government, states, and municipalities."
+      },
+      {
+        "textDe": "Bund und Länder.",
+        "textEn": "federal government and states."
+      },
+      {
+        "textDe": "Länder, Regierungsbezirke und Gemeinden.",
+        "textEn": "states, administrative districts, and municipalities."
+      },
+      {
+        "textDe": "Länder und Gemeinden.",
+        "textEn": "states and municipalities."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 218,
+    "taskNumber": 218,
+    "category": "Demokratie und Staat",
+    "questionDe": "Was ist die Hauptaufgabe eines Richters / einer Richterin in Deutschland?",
+    "questionEn": "What is the main task of a judge in Germany?",
+    "options": [
+      {
+        "textDe": "Recht sprechen",
+        "textEn": "to administer justice"
+      },
+      {
+        "textDe": "Gesetze erlassen",
+        "textEn": "to enact laws"
+      },
+      {
+        "textDe": "die Regierung kontrollieren",
+        "textEn": "to control the government"
+      },
+      {
+        "textDe": "Verwaltungsaufgaben erledigen",
+        "textEn": "to perform administrative tasks"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 219,
+    "taskNumber": 219,
+    "category": "Demokratie und Staat",
+    "questionDe": "Ein Richter / eine Richterin am Verwaltungsgericht gehört in Deutschland zur ...",
+    "questionEn": "A judge at the administrative court in Germany belongs to the...",
+    "options": [
+      {
+        "textDe": "Judikative.",
+        "textEn": "judiciary."
+      },
+      {
+        "textDe": "Exekutive.",
+        "textEn": "executive."
+      },
+      {
+        "textDe": "Legislative.",
+        "textEn": "legislature."
+      },
+      {
+        "textDe": "Presse.",
+        "textEn": "press."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 220,
+    "taskNumber": 220,
+    "category": "Demokratie und Staat",
+    "questionDe": "Was ist eine Aufgabe der Polizei in Deutschland?",
+    "questionEn": "What is a task of the police in Germany?",
+    "options": [
+      {
+        "textDe": "das Einhalten von Gesetzen zu überwachen",
+        "textEn": "to monitor the observance of laws"
+      },
+      {
+        "textDe": "Steuern zu berechnen",
+        "textEn": "to calculate taxes"
+      },
+      {
+        "textDe": "Urteile zu sprechen",
+        "textEn": "to pronounce judgments"
+      },
+      {
+        "textDe": "Gesetze zu beschließen",
+        "textEn": "to pass laws"
+      }
+    ],
+    "correctIndex": 0
+  }
+]

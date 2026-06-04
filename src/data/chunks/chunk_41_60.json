@@ -1,0 +1,522 @@
+[
+  {
+    "id": 41,
+    "taskNumber": 41,
+    "category": "Staat und Verfassung",
+    "questionDe": "In Deutschland sind Jugendliche ab 14 Jahren strafmündig. Das bedeutet: Jugendliche in diesem Alter ...",
+    "questionEn": "In Germany, young people from the age of 14 are criminally responsible. This means that young people of this age ...",
+    "options": [
+      {
+        "textDe": "können nicht mehr von ihren Eltern bestraft werden.",
+        "textEn": "can no longer be punished by their parents."
+      },
+      {
+        "textDe": "können für Straftaten bestraft werden.",
+        "textEn": "can be punished for criminal offenses."
+      },
+      {
+        "textDe": "dürfen Verträge ohne Zustimmung der Eltern abschließen.",
+        "textEn": "may conclude contracts without their parents' consent."
+      },
+      {
+        "textDe": "dürfen wählen gehen.",
+        "textEn": "are allowed to vote."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 42,
+    "taskNumber": 42,
+    "category": "Staat und Verfassung",
+    "questionDe": "Zu welchem Rechtssystem gehört die Bundesrepublik Deutschland?",
+    "questionEn": "To which legal system does the Federal Republic of Germany belong?",
+    "options": [
+      {
+        "textDe": "zum kontinentaleuropäischen Rechtssystem",
+        "textEn": "to the continental European legal system"
+      },
+      {
+        "textDe": "zum anglo-amerikanischen Rechtssystem",
+        "textEn": "to the Anglo-American legal system"
+      },
+      {
+        "textDe": "zum islamischen Rechtssystem",
+        "textEn": "to the Islamic legal system"
+      },
+      {
+        "textDe": "zum sozialistischen Rechtssystem",
+        "textEn": "to the socialist legal system"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 43,
+    "taskNumber": 43,
+    "category": "Staat und Verfassung",
+    "questionDe": "Wie wird die Verfassung der Bundesrepublik Deutschland genannt?",
+    "questionEn": "What is the constitution of the Federal Republic of Germany called?",
+    "options": [
+      {
+        "textDe": "Grundgesetz",
+        "textEn": "Basic Law"
+      },
+      {
+        "textDe": "Bundesverfassung",
+        "textEn": "Federal Constitution"
+      },
+      {
+        "textDe": "Gesetzbuch",
+        "textEn": "Code of Law"
+      },
+      {
+        "textDe": "Verfassungsvertrag",
+        "textEn": "Constitutional Treaty"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 44,
+    "taskNumber": 44,
+    "category": "Staat und Verfassung",
+    "questionDe": "Wer wählt in Deutschland die Abgeordneten des Bundestages?",
+    "questionEn": "Who elects the members of the Bundestag in Germany?",
+    "options": [
+      {
+        "textDe": "das wahlberechtigte Volk",
+        "textEn": "the eligible voters"
+      },
+      {
+        "textDe": "die Bundesversammlung",
+        "textEn": "the Federal Convention"
+      },
+      {
+        "textDe": "der Bundesrat",
+        "textEn": "the Federal Council"
+      },
+      {
+        "textDe": "die Bundesregierung",
+        "textEn": "the Federal Government"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 45,
+    "taskNumber": 45,
+    "category": "Staat und Verfassung",
+    "questionDe": "Welches Organ gehört nicht zu den Verfassungsorganen Deutschlands?",
+    "questionEn": "Which body is not one of Germany's constitutional organs?",
+    "options": [
+      {
+        "textDe": "der Bundesrat",
+        "textEn": "the Federal Council"
+      },
+      {
+        "textDe": "der Bundespräsident / die Bundespräsidentin",
+        "textEn": "the Federal President"
+      },
+      {
+        "textDe": "die Bürgerversammlung",
+        "textEn": "the citizens' assembly"
+      },
+      {
+        "textDe": "die Bundesregierung",
+        "textEn": "the Federal Government"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 46,
+    "taskNumber": 46,
+    "category": "Staat und Verfassung",
+    "questionDe": "Wer bestimmt in Deutschland die Schulpolitik?",
+    "questionEn": "Who determines school policy in Germany?",
+    "options": [
+      {
+        "textDe": "die Bundesländer",
+        "textEn": "the federal states"
+      },
+      {
+        "textDe": "das Bundesministerium für Bildung und Forschung",
+        "textEn": "the Federal Ministry of Education and Research"
+      },
+      {
+        "textDe": "die Lehrer und Eltern",
+        "textEn": "the teachers and parents"
+      },
+      {
+        "textDe": "die Kommunen und Gemeinden",
+        "textEn": "the municipalities and local authorities"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 47,
+    "taskNumber": 47,
+    "category": "Staat und Verfassung",
+    "questionDe": "Die Bundesrepublik Deutschland ist ein Bundesstaat. Das bedeutet: ...",
+    "questionEn": "The Federal Republic of Germany is a federal state. This means: ...",
+    "options": [
+      {
+        "textDe": "Die Bundesländer dürfen keine eigenen Gesetze beschließen.",
+        "textEn": "The federal states are not allowed to pass their own laws."
+      },
+      {
+        "textDe": "Die Bundesregierung entscheidet über alle Angelegenheiten der Bundesländer.",
+        "textEn": "The Federal Government decides on all matters concerning the federal states."
+      },
+      {
+        "textDe": "Die Bundesländer haben eigene Regierungen und Gesetze.",
+        "textEn": "The federal states have their own governments and laws."
+      },
+      {
+        "textDe": "Die Bundesländer haben keine eigenen Finanzen.",
+        "textEn": "The federal states do not have their own finances."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 48,
+    "taskNumber": 48,
+    "category": "Staat und Verfassung",
+    "questionDe": "Wer beschließt in Deutschland ein neues Gesetz?",
+    "questionEn": "Who passes a new law in Germany?",
+    "options": [
+      {
+        "textDe": "die Regierung",
+        "textEn": "the government"
+      },
+      {
+        "textDe": "das Parlament",
+        "textEn": "the parliament"
+      },
+      {
+        "textDe": "die Gerichte",
+        "textEn": "the courts"
+      },
+      {
+        "textDe": "die Polizei",
+        "textEn": "the police"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 49,
+    "taskNumber": 49,
+    "category": "Staat und Verfassung",
+    "questionDe": "Wer bildet den Bundesrat?",
+    "questionEn": "Who forms the Bundesrat (Federal Council)?",
+    "options": [
+      {
+        "textDe": "die Abgeordneten des Bundestages",
+        "textEn": "the members of the Bundestag"
+      },
+      {
+        "textDe": "die Ministerpräsidenten der Bundesländer",
+        "textEn": "the prime ministers of the federal states"
+      },
+      {
+        "textDe": "die Vertreter der Landesregierungen",
+        "textEn": "the representatives of the state governments"
+      },
+      {
+        "textDe": "die Richter des Bundesverfassungsgerichts",
+        "textEn": "the judges of the Federal Constitutional Court"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 50,
+    "taskNumber": 50,
+    "category": "Staat und Verfassung",
+    "questionDe": "Wer wählt den Bundeskanzler / die Bundeskanzlerin in Deutschland?",
+    "questionEn": "Who elects the Federal Chancellor in Germany?",
+    "options": [
+      {
+        "textDe": "der Bundesrat",
+        "textEn": "the Federal Council"
+      },
+      {
+        "textDe": "die Bundesversammlung",
+        "textEn": "the Federal Convention"
+      },
+      {
+        "textDe": "das Volk",
+        "textEn": "the people"
+      },
+      {
+        "textDe": "der Bundestag",
+        "textEn": "the Bundestag"
+      }
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 51,
+    "taskNumber": 51,
+    "category": "Staat und Verfassung",
+    "questionDe": "Wer leitet das deutsche Bundeskabinett?",
+    "questionEn": "Who leads the German Federal Cabinet?",
+    "options": [
+      {
+        "textDe": "der Bundespräsident / die Bundespräsidentin",
+        "textEn": "the Federal President"
+      },
+      {
+        "textDe": "der Bundestagspräsident / die Bundestagspräsidentin",
+        "textEn": "the President of the Bundestag"
+      },
+      {
+        "textDe": "der Bundeskanzler / die Bundeskanzlerin",
+        "textEn": "the Federal Chancellor"
+      },
+      {
+        "textDe": "der Bundesratspräsident / die Bundesratspräsidentin",
+        "textEn": "the President of the Bundesrat"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 52,
+    "taskNumber": 52,
+    "category": "Staat und Verfassung",
+    "questionDe": "Wer wählt den Bundespräsidenten / die Bundespräsidentin in Deutschland?",
+    "questionEn": "Who elects the Federal President in Germany?",
+    "options": [
+      {
+        "textDe": "die Bundesversammlung",
+        "textEn": "the Federal Convention"
+      },
+      {
+        "textDe": "der Bundestag",
+        "textEn": "the Bundestag"
+      },
+      {
+        "textDe": "der Bundesrat",
+        "textEn": "the Federal Council"
+      },
+      {
+        "textDe": "das Volk",
+        "textEn": "the people"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 53,
+    "taskNumber": 53,
+    "category": "Staat und Verfassung",
+    "questionDe": "Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?",
+    "questionEn": "Who is the head of state of the Federal Republic of Germany?",
+    "options": [
+      {
+        "textDe": "der Bundeskanzler / die Bundeskanzlerin",
+        "textEn": "the Federal Chancellor"
+      },
+      {
+        "textDe": "der Bundespräsident / die Bundespräsidentin",
+        "textEn": "the Federal President"
+      },
+      {
+        "textDe": "der Bundestagspräsident / die Bundestagspräsidentin",
+        "textEn": "the President of the Bundestag"
+      },
+      {
+        "textDe": "der Bundesratspräsident / die Bundesratspräsidentin",
+        "textEn": "the President of the Bundesrat"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 54,
+    "taskNumber": 54,
+    "category": "Staat und Verfassung",
+    "questionDe": "Die Bundesrepublik Deutschland ist ein ...",
+    "questionEn": "The Federal Republic of Germany is a ...",
+    "options": [
+      {
+        "textDe": "demokratischer und sozialer Bundesstaat.",
+        "textEn": "democratic and social federal state."
+      },
+      {
+        "textDe": "sozialistischer Staat.",
+        "textEn": "socialist state."
+      },
+      {
+        "textDe": "Militärstaat.",
+        "textEn": "military state."
+      },
+      {
+        "textDe": "Monarchie.",
+        "textEn": "monarchy."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 55,
+    "taskNumber": 55,
+    "category": "Staat und Verfassung",
+    "questionDe": "Was bedeutet „Souveränität“ des Volkes? Das Volk ...",
+    "questionEn": "What does 'sovereignty' of the people mean? The people ...",
+    "options": [
+      {
+        "textDe": "hat keine Rechte.",
+        "textEn": "have no rights."
+      },
+      {
+        "textDe": "ist die oberste Gewalt im Staat.",
+        "textEn": "are the supreme authority in the state."
+      },
+      {
+        "textDe": "muss den Gesetzen der Kirche folgen.",
+        "textEn": "must follow the laws of the church."
+      },
+      {
+        "textDe": "darf nicht wählen gehen.",
+        "textEn": "are not allowed to vote."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 56,
+    "taskNumber": 56,
+    "category": "Staat und Verfassung",
+    "questionDe": "Was ist keine staatliche Gewalt in Deutschland?",
+    "questionEn": "What is not a state power in Germany?",
+    "options": [
+      {
+        "textDe": "Gesetzgebung (Legislative)",
+        "textEn": "legislation (legislative)"
+      },
+      {
+        "textDe": "Rechtsprechung (Judikative)",
+        "textEn": "jurisdiction (judicial)"
+      },
+      {
+        "textDe": "vollziehende Gewalt (Exekutive)",
+        "textEn": "executive power (executive)"
+      },
+      {
+        "textDe": "die Presse",
+        "textEn": "the press"
+      }
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 57,
+    "taskNumber": 57,
+    "category": "Staat und Verfassung",
+    "questionDe": "Welches Amt gehört in Deutschland zur Exekutive?",
+    "questionEn": "Which office belongs to the executive branch in Germany?",
+    "options": [
+      {
+        "textDe": "Bundeskanzler / Bundeskanzlerin",
+        "textEn": "Federal Chancellor"
+      },
+      {
+        "textDe": "Richter / Richterin am Bundesverfassungsgericht",
+        "textEn": "Judge at the Federal Constitutional Court"
+      },
+      {
+        "textDe": "Bundestagsabgeordnete / Bundestagsabgeordneter",
+        "textEn": "Member of the Bundestag"
+      },
+      {
+        "textDe": "Bundesratspräsident / Bundesratspräsidentin",
+        "textEn": "President of the Bundesrat"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 58,
+    "taskNumber": 58,
+    "category": "Staat und Verfassung",
+    "questionDe": "Wer schreibt die Gesetze in Deutschland?",
+    "questionEn": "Who writes the laws in Germany?",
+    "options": [
+      {
+        "textDe": "die Gerichte",
+        "textEn": "the courts"
+      },
+      {
+        "textDe": "die Polizei",
+        "textEn": "the police"
+      },
+      {
+        "textDe": "die gesetzgebenden Körperschaften",
+        "textEn": "the legislative bodies"
+      },
+      {
+        "textDe": "die Verwaltung",
+        "textEn": "the administration"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 59,
+    "taskNumber": 59,
+    "category": "Staat und Verfassung",
+    "questionDe": "Was ist die Hauptaufgabe des Bundesverfassungsgerichts in Deutschland?",
+    "questionEn": "What is the main task of the Federal Constitutional Court in Germany?",
+    "options": [
+      {
+        "textDe": "die Einhaltung des Grundgesetzes zu überwachen",
+        "textEn": "to monitor compliance with the Basic Law"
+      },
+      {
+        "textDe": "neue Gesetze zu beschließen",
+        "textEn": "to pass new laws"
+      },
+      {
+        "textDe": "die Bundesregierung zu wählen",
+        "textEn": "to elect the Federal Government"
+      },
+      {
+        "textDe": "die Polizei zu kontrollieren",
+        "textEn": "to control the police"
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 60,
+    "taskNumber": 60,
+    "category": "Staat und Verfassung",
+    "questionDe": "Wer vertritt die Bundesrepublik Deutschland völkerrechtlich?",
+    "questionEn": "Who represents the Federal Republic of Germany under international law?",
+    "options": [
+      {
+        "textDe": "der Bundeskanzler / die Bundeskanzlerin",
+        "textEn": "the Federal Chancellor"
+      },
+      {
+        "textDe": "der Bundespräsident / die Bundespräsidentin",
+        "textEn": "the Federal President"
+      },
+      {
+        "textDe": "der Bundestagspräsident / die Bundestagspräsidentin",
+        "textEn": "the President of the Bundestag"
+      },
+      {
+        "textDe": "der Bundesratspräsident / die Bundesratspräsidentin",
+        "textEn": "the President of the Bundesrat"
+      }
+    ],
+    "correctIndex": 1
+  }
+]

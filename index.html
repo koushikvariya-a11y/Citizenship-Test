@@ -3,7 +3,33 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>My Google AI Studio App</title>
+    <title>Germany Citizenship Study Lab</title>
+    <script>
+      // Support window.fetch assignment in sandboxed / iframe environments where it's read-only
+      (function() {
+        try {
+          var originalFetch = window.fetch;
+          var currentFetch = originalFetch;
+          // Try to define on Window.prototype if it exists and fetch is there, otherwise fallback to window
+          var target = window;
+          if (typeof Window !== 'undefined' && Window.prototype && ('fetch' in Window.prototype)) {
+            target = Window.prototype;
+          }
+          Object.defineProperty(target, 'fetch', {
+            get: function() {
+              return currentFetch;
+            },
+            set: function(val) {
+              currentFetch = val;
+            },
+            configurable: true,
+            enumerable: true
+          });
+        } catch (e) {
+          console.warn('Unable to define configurable window.fetch:', e);
+        }
+      })();
+    </script>
   </head>
   <body>
     <div id="root"></div>

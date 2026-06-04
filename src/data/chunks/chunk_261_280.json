@@ -1,0 +1,522 @@
+[
+  {
+    "id": 261,
+    "taskNumber": 261,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Welches Recht gehört zu den Grundrechten in Deutschland?",
+    "questionEn": "Which right is one of the fundamental rights in Germany?",
+    "options": [
+      {
+        "textDe": "Das Recht auf körperliche Unversehrtheit.",
+        "textEn": "The right to physical integrity."
+      },
+      {
+        "textDe": "Das Recht auf Arbeit.",
+        "textEn": "The right to work."
+      },
+      {
+        "textDe": "Das Recht auf eine Wohnung.",
+        "textEn": "The right to housing."
+      },
+      {
+        "textDe": "Das Recht auf Mindestlohn.",
+        "textEn": "The right to minimum wage."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 262,
+    "taskNumber": 262,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Was ist eine Aufgabe des Staates in Deutschland?",
+    "questionEn": "What is a task of the state in Germany?",
+    "options": [
+      {
+        "textDe": "Er versorgt alle Bürger und Bürgerinnen mit Arbeit.",
+        "textEn": "It provides all citizens with work."
+      },
+      {
+        "textDe": "Er versorgt alle Bürger und Bürgerinnen mit Wohnungen.",
+        "textEn": "It provides all citizens with housing."
+      },
+      {
+        "textDe": "Er schützt die Grenzen des Landes.",
+        "textEn": "It protects the country's borders."
+      },
+      {
+        "textDe": "Er versorgt alle Bürger und Bürgerinnen mit kostenlosen Lebensmitteln.",
+        "textEn": "It provides all citizens with free food."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 263,
+    "taskNumber": 263,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Welches Recht gehört zu den Grundrechten, die nach dem Grundgesetz in Deutschland garantiert sind?",
+    "questionEn": "Which right is one of the fundamental rights guaranteed by the Basic Law in Germany?",
+    "options": [
+      {
+        "textDe": "Recht auf Bildung",
+        "textEn": "Right to education"
+      },
+      {
+        "textDe": "Recht auf Eigentum",
+        "textEn": "Right to property"
+      },
+      {
+        "textDe": "Recht auf Arbeit",
+        "textEn": "Right to work"
+      },
+      {
+        "textDe": "Recht auf eine Wohnung",
+        "textEn": "Right to housing"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 264,
+    "taskNumber": 264,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Was ist mit dem deutschen Grundgesetz vereinbar?",
+    "questionEn": "What is compatible with the German Basic Law?",
+    "options": [
+      {
+        "textDe": "Jeder darf seine Meinung in der Öffentlichkeit sagen.",
+        "textEn": "Everyone may express their opinion publicly."
+      },
+      {
+        "textDe": "Jeder darf von anderen verlangen, dass sie seiner Meinung sind.",
+        "textEn": "Everyone may demand that others share their opinion."
+      },
+      {
+        "textDe": "Es ist verboten, eine andere Meinung als die der Regierung zu haben.",
+        "textEn": "It is forbidden to have an opinion different from that of the government."
+      },
+      {
+        "textDe": "Man darf seine Meinung nur zu Hause sagen.",
+        "textEn": "One may only express one's opinion at home."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 265,
+    "taskNumber": 265,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Welches Grundrecht schränkt Artikel 16 Absatz 2 Satz 1 des Grundgesetzes ein?",
+    "questionEn": "Which fundamental right does Article 16, Paragraph 2, Sentence 1 of the Basic Law restrict?",
+    "options": [
+      {
+        "textDe": "Das Recht auf Freizügigkeit",
+        "textEn": "The right to freedom of movement"
+      },
+      {
+        "textDe": "Das Recht auf Meinungsfreiheit",
+        "textEn": "The right to freedom of opinion"
+      },
+      {
+        "textDe": "Das Recht auf Versammlungsfreiheit",
+        "textEn": "The right to freedom of assembly"
+      },
+      {
+        "textDe": "Das Recht auf Auswanderungsfreiheit",
+        "textEn": "The right to freedom of emigration"
+      }
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 266,
+    "taskNumber": 266,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Welches Grundrecht ist in Deutschland nur für Ausländer und Ausländerinnen eingeschränkt?",
+    "questionEn": "Which fundamental right is restricted in Germany only for foreigners?",
+    "options": [
+      {
+        "textDe": "Das Grundrecht auf Freizügigkeit",
+        "textEn": "The fundamental right to freedom of movement"
+      },
+      {
+        "textDe": "Das Grundrecht auf Versammlungsfreiheit",
+        "textEn": "The fundamental right to freedom of assembly"
+      },
+      {
+        "textDe": "Das Grundrecht auf Meinungsfreiheit",
+        "textEn": "The fundamental right to freedom of opinion"
+      },
+      {
+        "textDe": "Das Grundrecht auf Berufsfreiheit",
+        "textEn": "The fundamental right to freedom of occupation"
+      }
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 267,
+    "taskNumber": 267,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Eine Partei in Deutschland verfolgt das Ziel, eine Diktatur zu errichten. Was passiert?",
+    "questionEn": "A party in Germany pursues the goal of establishing a dictatorship. What happens?",
+    "options": [
+      {
+        "textDe": "Eine solche Partei kann verboten werden.",
+        "textEn": "Such a party can be banned."
+      },
+      {
+        "textDe": "Eine solche Partei wird vom Verfassungsschutz beobachtet.",
+        "textEn": "Such a party is monitored by the Office for the Protection of the Constitution."
+      },
+      {
+        "textDe": "Eine solche Partei nimmt nicht an Wahlen teil.",
+        "textEn": "Such a party does not participate in elections."
+      },
+      {
+        "textDe": "Eine solche Partei darf nur in einem Bundesland zur Wahl antreten.",
+        "textEn": "Such a party may only run for election in one federal state."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 268,
+    "taskNumber": 268,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Welches ist eines der 4 Prinzipien der deutschen Verfassung?",
+    "questionEn": "Which is one of the 4 principles of the German constitution?",
+    "options": [
+      {
+        "textDe": "Diktatur",
+        "textEn": "Dictatorship"
+      },
+      {
+        "textDe": "Monarchie",
+        "textEn": "Monarchy"
+      },
+      {
+        "textDe": "Sozialstaat",
+        "textEn": "Social state"
+      },
+      {
+        "textDe": "Kommunismus",
+        "textEn": "Communism"
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 269,
+    "taskNumber": 269,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Deutschland ist ein Rechtsstaat. Was bedeutet das?",
+    "questionEn": "Germany is a constitutional state (Rechtsstaat). What does that mean?",
+    "options": [
+      {
+        "textDe": "Alle Bürger und Bürgerinnen müssen sich an die Gesetze halten.",
+        "textEn": "All citizens must abide by the laws."
+      },
+      {
+        "textDe": "Der Staat muss sich an die Gesetze halten.",
+        "textEn": "The state must abide by the laws."
+      },
+      {
+        "textDe": "Nur die Bürger und Bürgerinnen müssen sich an die Gesetze halten.",
+        "textEn": "Only citizens must abide by the laws."
+      },
+      {
+        "textDe": "Die Gerichte machen die Gesetze.",
+        "textEn": "The courts make the laws."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 270,
+    "taskNumber": 270,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Was bedeutet „Rechtsstaat“ in Deutschland?",
+    "questionEn": "What does \"constitutional state\" (Rechtsstaat) mean in Germany?",
+    "options": [
+      {
+        "textDe": "Der Staat muss die Gesetze einhalten.",
+        "textEn": "The state must comply with the laws."
+      },
+      {
+        "textDe": "Nur reiche Menschen können sich einen Anwalt leisten.",
+        "textEn": "Only rich people can afford a lawyer."
+      },
+      {
+        "textDe": "Die Bürger und Bürgerinnen dürfen keine Gerichte einschalten.",
+        "textEn": "Citizens are not allowed to involve courts."
+      },
+      {
+        "textDe": "Der Staat darf das Recht brechen.",
+        "textEn": "The state may break the law."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 271,
+    "taskNumber": 271,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Was ist eine Aufgabe des Staates in Deutschland?",
+    "questionEn": "What is a task of the state in Germany?",
+    "options": [
+      {
+        "textDe": "Er muss für alle Bürger und Bürgerinnen eine Arbeit finden.",
+        "textEn": "It must find a job for all citizens."
+      },
+      {
+        "textDe": "Er muss alle Bürger und Bürgerinnen krankenversichern.",
+        "textEn": "It must provide health insurance for all citizens."
+      },
+      {
+        "textDe": "Er muss die Menschen vor Kriminalität schützen.",
+        "textEn": "It must protect people from crime."
+      },
+      {
+        "textDe": "Er muss allen Bürgern und Bürgerinnen eine Wohnung zur Verfügung stellen.",
+        "textEn": "It must provide housing for all citizens."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 272,
+    "taskNumber": 272,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Was ist eine Aufgabe des Staates in Deutschland?",
+    "questionEn": "What is a task of the state in Germany?",
+    "options": [
+      {
+        "textDe": "Er muss für ausreichend und kostenlosen Wohnraum sorgen.",
+        "textEn": "It must ensure sufficient and free housing."
+      },
+      {
+        "textDe": "Er muss für die Sicherheit seiner Bürger und Bürgerinnen sorgen.",
+        "textEn": "It must ensure the safety of its citizens."
+      },
+      {
+        "textDe": "Er muss allen Bürgern und Bürgerinnen Arbeit geben.",
+        "textEn": "It must give all citizens work."
+      },
+      {
+        "textDe": "Er muss allen Bürgern und Bürgerinnen ein bestimmtes monatliches Einkommen garantieren.",
+        "textEn": "It must guarantee all citizens a certain monthly income."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 273,
+    "taskNumber": 273,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Welches ist ein Merkmal des Sozialstaates Deutschland?",
+    "questionEn": "Which is a characteristic of the social state Germany?",
+    "options": [
+      {
+        "textDe": "Jeder Mensch muss sich selbst um alles kümmern.",
+        "textEn": "Every person must take care of everything themselves."
+      },
+      {
+        "textDe": "Der Staat sorgt für seine Bürger und Bürgerinnen.",
+        "textEn": "The state cares for its citizens."
+      },
+      {
+        "textDe": "Jeder Mensch ist für sich selbst verantwortlich und der Staat hilft nicht.",
+        "textEn": "Every person is responsible for themselves and the state does not help."
+      },
+      {
+        "textDe": "Nur reiche Menschen bekommen staatliche Unterstützung.",
+        "textEn": "Only rich people receive state support."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 274,
+    "taskNumber": 274,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Die deutschen Gesetze verbieten…",
+    "questionEn": "German laws prohibit...",
+    "options": [
+      {
+        "textDe": "...Meinungsfreiheit.",
+        "textEn": "...freedom of opinion."
+      },
+      {
+        "textDe": "...Folter.",
+        "textEn": "...torture."
+      },
+      {
+        "textDe": "...Religionsfreiheit.",
+        "textEn": "...freedom of religion."
+      },
+      {
+        "textDe": "...Versammlungsfreiheit.",
+        "textEn": "...freedom of assembly."
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 275,
+    "taskNumber": 275,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Wann kann in Deutschland ein Gericht eine Person zu einer Freiheitsstrafe verurteilen?",
+    "questionEn": "When can a court in Germany sentence a person to imprisonment?",
+    "options": [
+      {
+        "textDe": "Nur wenn die Person gegen das Gesetz verstoßen hat und schuldhaft handelt.",
+        "textEn": "Only if the person has violated the law and acted culpably."
+      },
+      {
+        "textDe": "Wenn die Person einer Straftat verdächtigt wird.",
+        "textEn": "If the person is suspected of a crime."
+      },
+      {
+        "textDe": "Wenn die Person nicht die deutsche Staatsangehörigkeit besitzt.",
+        "textEn": "If the person does not possess German citizenship."
+      },
+      {
+        "textDe": "Wenn die Person von der Polizei verhaftet wurde.",
+        "textEn": "If the person has been arrested by the police."
+      }
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 276,
+    "taskNumber": 276,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Ein Richter in Deutschland entscheidet unbefangen und nur nach dem Gesetz. Was ist damit gemeint?",
+    "questionEn": "A judge in Germany decides impartially and only according to the law. What does that mean?",
+    "options": [
+      {
+        "textDe": "Der Richter darf nicht bestochen werden.",
+        "textEn": "The judge may not be bribed."
+      },
+      {
+        "textDe": "Der Richter muss immer ein gerechtes Urteil sprechen.",
+        "textEn": "The judge must always pronounce a just verdict."
+      },
+      {
+        "textDe": "Der Richter ist nur an das Gesetz gebunden.",
+        "textEn": "The judge is bound only by the law."
+      },
+      {
+        "textDe": "Der Richter orientiert sich immer an früheren Urteilen.",
+        "textEn": "The judge always bases decisions on previous judgments."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 277,
+    "taskNumber": 277,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Was ist eine Aufgabe der Polizei in Deutschland?",
+    "questionEn": "What is a task of the police in Germany?",
+    "options": [
+      {
+        "textDe": "Das Parlament zu kontrollieren.",
+        "textEn": "To control the parliament."
+      },
+      {
+        "textDe": "Die Gesetze zu erlassen.",
+        "textEn": "To enact laws."
+      },
+      {
+        "textDe": "Die Einhaltung der Gesetze zu überwachen.",
+        "textEn": "To monitor compliance with laws."
+      },
+      {
+        "textDe": "Steuern zu zahlen.",
+        "textEn": "To pay taxes."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 278,
+    "taskNumber": 278,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Wer beschließt in Deutschland die Gesetze?",
+    "questionEn": "Who enacts laws in Germany?",
+    "options": [
+      {
+        "textDe": "Die Regierung",
+        "textEn": "The government"
+      },
+      {
+        "textDe": "Das Parlament",
+        "textEn": "The parliament"
+      },
+      {
+        "textDe": "Die Gerichte",
+        "textEn": "The courts"
+      },
+      {
+        "textDe": "Die Polizei",
+        "textEn": "The police"
+      }
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 279,
+    "taskNumber": 279,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Was ist die Hauptaufgabe des deutschen Bundespräsidenten / der deutschen Bundespräsidentin?",
+    "questionEn": "What is the main task of the German Federal President?",
+    "options": [
+      {
+        "textDe": "Er / Sie regiert das Land.",
+        "textEn": "He / She governs the country."
+      },
+      {
+        "textDe": "Er / Sie schlägt die Gesetze vor.",
+        "textEn": "He / She proposes the laws."
+      },
+      {
+        "textDe": "Er / Sie repräsentiert den Staat.",
+        "textEn": "He / She represents the state."
+      },
+      {
+        "textDe": "Er / Sie wählt die Minister / Ministerinnen aus.",
+        "textEn": "He / She selects the ministers."
+      }
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 280,
+    "taskNumber": 280,
+    "category": "Leben in der Demokratie",
+    "questionDe": "Wer wählt in Deutschland den Bundeskanzler / die Bundeskanzlerin?",
+    "questionEn": "Who elects the Federal Chancellor in Germany?",
+    "options": [
+      {
+        "textDe": "Das Volk",
+        "textEn": "The people"
+      },
+      {
+        "textDe": "Die Bundesversammlung",
+        "textEn": "The Federal Convention"
+      },
+      {
+        "textDe": "Der Bundestag",
+        "textEn": "The Bundestag"
+      },
+      {
+        "textDe": "Die Bundesländer",
+        "textEn": "The federal states"
+      }
+    ],
+    "correctIndex": 2
+  }
+]

@@ -25,7 +25,7 @@ export const BUNDESLAENDER: Record<string, BundeslandInfo> = {
     capital: "München",
     wrongCapitals: ["Nürnberg", "Regensburg", "Ingolstadt"],
     landtagPeriod: 5,
-    votingAge: 16,
+    votingAge: 18,
     flagDe: "weiß-blau",
     flagEn: "white-blue"
   },
@@ -51,7 +51,7 @@ export const BUNDESLAENDER: Record<string, BundeslandInfo> = {
     name: "Bremen",
     capital: "Bremen",
     wrongCapitals: ["Bremerhaven", "Vegesack", "Hemelingen"],
-    landtagPeriod: 5,
+    landtagPeriod: 4,
     votingAge: 16,
     flagDe: "rot-weiß",
     flagEn: "red-white"
@@ -70,7 +70,7 @@ export const BUNDESLAENDER: Record<string, BundeslandInfo> = {
     capital: "Wiesbaden",
     wrongCapitals: ["Frankfurt", "Kassel", "Darmstadt"],
     landtagPeriod: 5,
-    votingAge: 16,
+    votingAge: 18,
     flagDe: "rot-weiß",
     flagEn: "red-white"
   },
@@ -106,7 +106,7 @@ export const BUNDESLAENDER: Record<string, BundeslandInfo> = {
     capital: "Mainz",
     wrongCapitals: ["Ludwigshafen", "Koblenz", "Kaiserslautern"],
     landtagPeriod: 5,
-    votingAge: 16,
+    votingAge: 18,
     flagDe: "schwarz-rot-gold",
     flagEn: "black-red-gold"
   },
@@ -115,7 +115,7 @@ export const BUNDESLAENDER: Record<string, BundeslandInfo> = {
     capital: "Saarbrücken",
     wrongCapitals: ["Homburg", "Neunkirchen", "Saarlouis"],
     landtagPeriod: 5,
-    votingAge: 16,
+    votingAge: 18,
     flagDe: "schwarz-rot-gold",
     flagEn: "black-red-gold"
   },
@@ -152,8 +152,8 @@ export const BUNDESLAENDER: Record<string, BundeslandInfo> = {
     wrongCapitals: ["Jena", "Gera", "Weimar"],
     landtagPeriod: 5,
     votingAge: 16,
-    flagDe: "rot-weiß",
-    flagEn: "red-white"
+    flagDe: "weiß-rot",
+    flagEn: "white-red"
   }
 };
 
